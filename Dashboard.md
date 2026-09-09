@@ -31,6 +31,10 @@ type: dashboard
 | [[SWOT - PESTEL]] |
 | [[Scrum]] |
 
+## Références
+
+- [[Glossaire des acronymes]] — 250+ acronymes avec flashcards (Ctrl+F pour chercher)
+
 ## Suivi
 
 - [[Suivi par thème]] — Progression par thème
