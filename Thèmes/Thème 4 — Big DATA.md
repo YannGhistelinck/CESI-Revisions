@@ -58,7 +58,7 @@ statut: pas vu
 - Quel est l'impact du DSA/DMA sur les entreprises qui exploitent des données ?
 
 ## Liens transversaux
-- Thèmes connexes : [[IA]], [[Cybersécurité]], [[Cloud et Virtualisation]], [[Management et stratégie]]
+- Thèmes connexes : [[Thème 9 — IA]], [[Thème 2 — Cybersécurité]], [[Thème 3 — Cloud et Virtualisation]], [[Thème 7 — Management et stratégie]]
 - Notions partagées avec d'autres thèmes :
   - [[RGPD]] → Cybersécurité, Cloud, Mobilité, IA
   - [[Souveraineté numérique]] → Cloud, Management

@@ -55,7 +55,7 @@ statut: pas vu
 - Comment justifier un projet de migration cloud auprès du CODIR ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Cybersécurité]], [[Optimisation du SI]], [[SI et environnement]], [[Mobilité]], [[Big DATA]]
+- Thèmes connexes : [[Thème 2 — Cybersécurité]], [[Thème 10 — Optimisation du SI]], [[Thème 1 — SI et environnement]], [[Thème 6 — Mobilité]], [[Thème 4 — Big DATA]]
 - Notions partagées avec d'autres thèmes :
   - [[CLOUD Act et transferts de données]] → Big DATA, Mobilité
   - [[Sécurité cloud (CSPM - CASB - CNAPP)]] → Management et stratégie

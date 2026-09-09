@@ -54,7 +54,7 @@ statut: pas vu
 - Comment mesurer le MTTR/MTBF et améliorer la disponibilité du SI ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Cloud et Virtualisation]], [[Management et stratégie]], [[SI et environnement]], [[Développement]], [[Cybersécurité]]
+- Thèmes connexes : [[Thème 3 — Cloud et Virtualisation]], [[Thème 7 — Management et stratégie]], [[Thème 1 — SI et environnement]], [[Thème 5 — Développement]], [[Thème 2 — Cybersécurité]]
 - Notions partagées avec d'autres thèmes :
   - [[KPI et pilotage de la performance]] → Management
   - [[Frameworks de gestion de projet]] → Management

@@ -50,7 +50,7 @@ statut: pas vu
 - FinOps et GreenOps : complémentaires ou contradictoires ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Cloud et Virtualisation]], [[Optimisation du SI]], [[Management et stratégie]]
+- Thèmes connexes : [[Thème 3 — Cloud et Virtualisation]], [[Thème 10 — Optimisation du SI]], [[Thème 7 — Management et stratégie]]
 - Notions partagées avec d'autres thèmes :
   - [[FinOps]] → Cloud, Optimisation du SI
   - [[Technologies de stockage]] → Big DATA

@@ -10,16 +10,16 @@ type: suivi
 
 | Thème | Notions | Maîtrisé | Vu | Pas vu | % |
 |-------|---------|----------|----|--------|---|
-| [[SI et environnement]] | 16 | 0 | 0 | 16 | 0% |
-| [[Cybersécurité]] | 24 | 0 | 0 | 24 | 0% |
-| [[Cloud et Virtualisation]] | 18 | 0 | 0 | 18 | 0% |
-| [[Big DATA]] | 21 | 0 | 0 | 21 | 0% |
-| [[Développement]] | 25 | 0 | 0 | 25 | 0% |
-| [[Mobilité]] | 8 | 0 | 0 | 8 | 0% |
-| [[Management et stratégie]] | 14 | 0 | 0 | 14 | 0% |
-| [[Blockchain]] | 16 | 0 | 0 | 16 | 0% |
-| [[IA]] | 18 | 0 | 0 | 18 | 0% |
-| [[Optimisation du SI]] | 18 | 0 | 0 | 18 | 0% |
+| [[Thème 1 — SI et environnement]] | 16 | 0 | 0 | 16 | 0% |
+| [[Thème 2 — Cybersécurité]] | 24 | 0 | 0 | 24 | 0% |
+| [[Thème 3 — Cloud et Virtualisation]] | 18 | 0 | 0 | 18 | 0% |
+| [[Thème 4 — Big DATA]] | 21 | 0 | 0 | 21 | 0% |
+| [[Thème 5 — Développement]] | 25 | 0 | 0 | 25 | 0% |
+| [[Thème 6 — Mobilité]] | 8 | 0 | 0 | 8 | 0% |
+| [[Thème 7 — Management et stratégie]] | 14 | 0 | 0 | 14 | 0% |
+| [[Thème 8 — Blockchain]] | 16 | 0 | 0 | 16 | 0% |
+| [[Thème 9 — IA]] | 18 | 0 | 0 | 18 | 0% |
+| [[Thème 10 — Optimisation du SI]] | 18 | 0 | 0 | 18 | 0% |
 | Transversal | 7 | 0 | 0 | 7 | 0% |
 
 ---

@@ -54,7 +54,7 @@ statut: pas vu
 - AIOps : comment l'IA peut-elle optimiser les opérations IT ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Cybersécurité]], [[Big DATA]], [[Développement]], [[Management et stratégie]], [[Optimisation du SI]]
+- Thèmes connexes : [[Thème 2 — Cybersécurité]], [[Thème 4 — Big DATA]], [[Thème 5 — Développement]], [[Thème 7 — Management et stratégie]], [[Thème 10 — Optimisation du SI]]
 - Notions partagées avec d'autres thèmes :
   - [[AI Act]] → Cybersécurité, Big DATA
   - [[Biais algorithmiques]] → Big DATA

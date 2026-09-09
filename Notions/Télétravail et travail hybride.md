@@ -124,5 +124,5 @@ Quels sont les principaux risques de cybersécurité liés au télétravail ? ::
 - [[Gestion de la mobilité (UEM)]]
 - [[Politiques de terminaux (BYOD - COPE)]]
 - [[RGPD]]
-- [[Cybersécurité]]
+- [[Thème 2 — Cybersécurité]]
 - [[QVT et RPS]]

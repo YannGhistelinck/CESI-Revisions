@@ -40,7 +40,7 @@ statut: pas vu
 - Droit à la déconnexion : quelles obligations pour l'entreprise ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Cybersécurité]], [[Cloud et Virtualisation]], [[Management et stratégie]], [[Optimisation du SI]]
+- Thèmes connexes : [[Thème 2 — Cybersécurité]], [[Thème 3 — Cloud et Virtualisation]], [[Thème 7 — Management et stratégie]], [[Thème 10 — Optimisation du SI]]
 - Notions partagées avec d'autres thèmes :
   - [[VPN et accès distant]] → Cybersécurité
   - [[Digital Workplace]] → Optimisation du SI

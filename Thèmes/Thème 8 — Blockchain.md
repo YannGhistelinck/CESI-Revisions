@@ -50,7 +50,7 @@ statut: pas vu
 - Identité décentralisée (SSI) : comment ça fonctionne et quel intérêt pour l'entreprise ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Cybersécurité]], [[SI et environnement]], [[Big DATA]]
+- Thèmes connexes : [[Thème 2 — Cybersécurité]], [[Thème 1 — SI et environnement]], [[Thème 4 — Big DATA]]
 - Notions partagées avec d'autres thèmes :
   - [[Impact environnemental de la blockchain]] → SI et environnement
   - [[Zero-Knowledge Proof (ZKP)]] → Cybersécurité

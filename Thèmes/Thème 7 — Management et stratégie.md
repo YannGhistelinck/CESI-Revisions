@@ -50,7 +50,7 @@ statut: pas vu
 - Comment le RACI structure-t-il la gouvernance d'un projet IT ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Cybersécurité]], [[Cloud et Virtualisation]], [[Optimisation du SI]], [[SI et environnement]], [[Développement]]
+- Thèmes connexes : [[Thème 2 — Cybersécurité]], [[Thème 3 — Cloud et Virtualisation]], [[Thème 10 — Optimisation du SI]], [[Thème 1 — SI et environnement]], [[Thème 5 — Développement]]
 - Notions partagées avec d'autres thèmes :
   - [[RSSI - CISO]] → Cybersécurité
   - [[ITIL 4]] → Optimisation du SI

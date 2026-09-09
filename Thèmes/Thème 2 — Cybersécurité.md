@@ -63,7 +63,7 @@ statut: pas vu
 - Quelle est la valeur ajoutée d'une cyber-assurance ?
 
 ## Liens transversaux
-- Thèmes connexes : [[IA]], [[Management et stratégie]], [[Cloud et Virtualisation]], [[Mobilité]]
+- Thèmes connexes : [[Thème 9 — IA]], [[Thème 7 — Management et stratégie]], [[Thème 3 — Cloud et Virtualisation]], [[Thème 6 — Mobilité]]
 - Notions partagées avec d'autres thèmes :
   - [[Zero Trust]] → Cloud, Mobilité
   - [[PCA - PRA]] → Management et stratégie

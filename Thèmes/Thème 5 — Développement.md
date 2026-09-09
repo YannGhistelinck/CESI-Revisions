@@ -62,7 +62,7 @@ statut: pas vu
 - Comment le Platform Engineering améliore-t-il l'expérience développeur ?
 
 ## Liens transversaux
-- Thèmes connexes : [[Optimisation du SI]], [[IA]], [[Cloud et Virtualisation]], [[Cybersécurité]], [[Management et stratégie]]
+- Thèmes connexes : [[Thème 10 — Optimisation du SI]], [[Thème 9 — IA]], [[Thème 3 — Cloud et Virtualisation]], [[Thème 2 — Cybersécurité]], [[Thème 7 — Management et stratégie]]
 - Notions partagées avec d'autres thèmes :
   - [[DevOps]] → Optimisation du SI
   - [[CI - CD]] → Cloud, Optimisation du SI

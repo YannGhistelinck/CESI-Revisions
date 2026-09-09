@@ -114,4 +114,4 @@ Citez deux leaders du marché UEM et leur positionnement. :: Microsoft Intune : 
 - [[VPN et accès distant]]
 - [[Télétravail et travail hybride]]
 - [[Digital Workplace]]
-- [[Cybersécurité]]
+- [[Thème 2 — Cybersécurité]]
