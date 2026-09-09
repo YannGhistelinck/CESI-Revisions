@@ -1,5 +1,7 @@
-# Obsidian
-.obsidian/
+# Obsidian — on versionne plugins/ et community-plugins.json, on ignore le reste
+.obsidian/*
+!.obsidian/plugins/
+!.obsidian/community-plugins.json
 .trash/
 
 # macOS
