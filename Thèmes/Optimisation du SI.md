@@ -2,7 +2,7 @@
 type: thème
 statut: pas vu
 ---
-![[Thème 10 - Architecture_et_pilotage_des_systèmes_d_information.m4a]]
+![[Thème 10 — Architecture_et_pilotage_des_systèmes_d_information.m4a]]
 # Optimisation du SI
 
 ## Présentation

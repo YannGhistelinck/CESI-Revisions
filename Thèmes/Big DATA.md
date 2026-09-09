@@ -2,7 +2,7 @@
 type: thème
 statut: pas vu
 ---
-![[Thème 4 - Architecture_et_gouvernance_des_données_modernes.m4a]]
+![[Thème 4 — Architecture_et_gouvernance_des_données_modernes.m4a]]
 # Big DATA
 
 ## Présentation

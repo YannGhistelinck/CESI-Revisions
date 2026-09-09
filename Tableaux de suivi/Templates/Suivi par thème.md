@@ -20,6 +20,7 @@ type: suivi
 | [[Blockchain]] | 16 | 0 | 0 | 16 | 0% |
 | [[IA]] | 18 | 0 | 0 | 18 | 0% |
 | [[Optimisation du SI]] | 18 | 0 | 0 | 18 | 0% |
+| Transversal | 7 | 0 | 0 | 7 | 0% |
 
 ---
 
@@ -262,3 +263,15 @@ type: suivi
 | [[ISO 9001 et qualité]] | pas vu | |
 | [[Acteurs cybersécurité (éditeurs)]] | pas vu | |
 | [[Sauvegarde et solutions de protection des données]] | pas vu | |
+
+## Transversal
+
+| Notion | Statut | Dernière révision |
+|--------|--------|-------------------|
+| [[AMDEC]] | pas vu | |
+| [[VAN - TRI - Payback]] | pas vu | |
+| [[Matrice de Kraljic]] | pas vu | |
+| [[Conduite du changement]] | pas vu | |
+| [[Méthode MoSCoW]] | pas vu | |
+| [[SWOT - PESTEL]] | pas vu | |
+| [[Scrum]] | pas vu | |

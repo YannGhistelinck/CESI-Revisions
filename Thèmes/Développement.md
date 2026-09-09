@@ -2,7 +2,7 @@
 type: thème
 statut: pas vu
 ---
-![[Thème 5 - L_impact_financier_de_l_architecture_logicielle.m4a]]
+![[Thème 5 — L_impact_financier_de_l_architecture_logicielle.m4a]]
 # Développement
 
 ## Présentation

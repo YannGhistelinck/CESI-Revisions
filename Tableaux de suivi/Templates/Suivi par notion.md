@@ -187,5 +187,12 @@ type: suivi
 | [[ISO 9001 et qualité]]                               | Optim. SI                            | pas vu |                   |
 | [[Acteurs cybersécurité (éditeurs)]]                  | Cyber, IA                            | pas vu |                   |
 | [[Sauvegarde et solutions de protection des données]] | Cloud, Cyber, Big DATA               | pas vu |                   |
+| [[AMDEC]]                                             | Transversal                          | pas vu |                   |
+| [[VAN - TRI - Payback]]                               | Transversal                          | pas vu |                   |
+| [[Matrice de Kraljic]]                                | Transversal                          | pas vu |                   |
+| [[Conduite du changement]]                            | Transversal                          | pas vu |                   |
+| [[Méthode MoSCoW]]                                    | Transversal                          | pas vu |                   |
+| [[SWOT - PESTEL]]                                     | Transversal                          | pas vu |                   |
+| [[Scrum]]                                             | Transversal, Développement           | pas vu |                   |
 
 > **Légende statuts** : `pas vu` | `vu` | `maîtrisé`

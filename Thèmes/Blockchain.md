@@ -2,7 +2,7 @@
 type: thème
 statut: pas vu
 ---
-![[Thème 8 - L_architecture_blockchain_au-delà_du_Bitcoin.m4a]]
+![[Thème 8 — L_architecture_blockchain_au-delà_du_Bitcoin.m4a]]
 # Blockchain
 
 ## Présentation

@@ -2,7 +2,7 @@
 type: thème
 statut: pas vu
 ---
-![[Thème 9 - IA_générative_et_réalités_du_machine_learning.m4a]]
+![[Thème 9 — IA_générative_et_réalités_du_machine_learning.m4a]]
 # IA
 
 ## Présentation
