@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# macOS
+.DS_Store
+
+
+# Tableaux de suivi personnels (chaque étudiant gère sa progression)
+Tableaux de suivi/Suivi par thème.md
+Tableaux de suivi/Suivi par notion.md
+Tableaux de suivi/Inventaire brut des notions.md
+Tableaux de suivi/Notions consolidées.md
+
+# Les templates des tableaux sont versionnés dans Tableaux de suivi/Templates/
