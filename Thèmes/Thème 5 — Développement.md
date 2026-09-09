@@ -19,33 +19,30 @@ statut: pas vu
 | 33 | Quels sont les enjeux et le positionnement de la RA/RV pour l'entreprise 4.0 |
 
 ## Notions clés
-| Notion | Statut | Dernière révision |
-|--------|--------|-------------------|
-| [[Qualité logicielle — normes et modèles]] | pas vu | |
-| [[CMMI]] | pas vu | |
-| [[Analyse de code (SAST - DAST)]] | pas vu | |
-| [[Maintenance logicielle]] | pas vu | |
-| [[Clean Code et refactoring]] | pas vu | |
-| [[Dette technique]] | pas vu | |
-| [[Architecture logicielle]] | pas vu | |
-| [[Microservices vs monolithe]] | pas vu | |
-| [[TDD - BDD]] | pas vu | |
-| [[DevOps]] | pas vu | |
-| [[CI - CD]] | pas vu | |
-| [[DevSecOps]] | pas vu | |
-| [[GitOps]] | pas vu | |
-| [[Infrastructure as Code (IaC)]] | pas vu | |
-| [[Observabilité]] | pas vu | |
-| [[Stratégies de déploiement]] | pas vu | |
-| [[SRE (Site Reliability Engineering)]] | pas vu | |
-| [[DORA Metrics]] | pas vu | |
-| [[Chaos Engineering]] | pas vu | |
-| [[Platform Engineering]] | pas vu | |
-| [[Tests logiciels]] | pas vu | |
-| [[IA et automatisation des tests]] | pas vu | |
-| [[Réalité étendue (XR)]] | pas vu | |
-| [[Digital Twin]] | pas vu | |
-| [[Industrie 4.0 et XR]] | pas vu | |
+
+```base
+filters:
+  and:
+    - file.inFolder("Notions")
+    - thèmes.contains("Développement")
+properties:
+  file.name:
+    displayName: Notion
+  statut:
+    displayName: Statut
+  dernière_révision:
+    displayName: Dernière révision
+views:
+  - type: table
+    name: Notions clés
+    order:
+      - file.name
+      - statut
+      - dernière_révision
+    sort:
+      - property: file.name
+        direction: ASC
+```
 
 ## Questions types du jury
 - ISO 9126 vs ISO 25010 : pourquoi la norme a-t-elle évolué ?
