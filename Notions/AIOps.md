@@ -118,7 +118,7 @@ Events ITSM         →                            Prédiction      →  ZTP
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/AIOps #flashcards/Optimisation_du_SI/AIOps
 
 Qu'est-ce que l'AIOps et quel problème résout-il ? :: L'AIOps applique l'IA/ML aux opérations IT pour automatiser la détection d'anomalies, la corrélation d'événements et la remédiation d'incidents. Il résout l'impossibilité de gérer manuellement les volumes de données (logs, métriques, traces) des SI modernes.
 

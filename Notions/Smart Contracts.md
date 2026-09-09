@@ -100,7 +100,7 @@ Les smart contracts automatisent des accords complexes (prêts, échanges, votes
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Smart_Contracts
 
 Qu'est-ce qu'un smart contract ? :: Programme autonome stocké sur une blockchain, qui s'exécute automatiquement lorsque ses conditions sont remplies, sans intermédiaire.
 

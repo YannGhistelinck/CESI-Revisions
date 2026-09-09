@@ -82,7 +82,7 @@ Bonne pratique consistant à remplacer régulièrement les clés de chiffrement 
 - Le "Harvest Now, Decrypt Later" est une menace réelle : des acteurs malveillants collectent des données chiffrées aujourd'hui pour les déchiffrer lorsque les ordinateurs quantiques seront disponibles
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Chiffrement_et_gestion_des_clés #flashcards/Cybersécurité/Chiffrement_et_gestion_des_clés
 
 Quelle est la différence entre chiffrement at rest et in transit ? :: At rest : données chiffrées lorsqu'elles sont stockées sur disque (BDD, fichiers, sauvegardes). In transit : données chiffrées pendant leur transmission sur le réseau (TLS, HTTPS, IPSec).
 

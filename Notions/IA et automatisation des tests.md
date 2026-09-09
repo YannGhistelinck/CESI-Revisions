@@ -77,7 +77,7 @@ Les LLM (GPT-4, Claude) permettent de générer des cas de test depuis des user 
 - Les tests visuels basés sur l'IA réduisent les faux positifs de 90 % par rapport aux comparaisons pixel-à-pixel (Applitools, 2023).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/IA_et_automatisation_des_tests #flashcards/IA/IA_et_automatisation_des_tests
 - Qu'est-ce que l'auto-healing dans les tests logiciels ? :: Une technique IA par laquelle un test E2E cassé (sélecteur modifié) se corrige automatiquement en identifiant l'élément cible par des méthodes alternatives apprises par ML.
 - Qu'est-ce que la Predictive Test Selection ? :: Un mécanisme ML qui prédit quels tests sont susceptibles d'échouer pour un changement de code donné, afin de n'exécuter qu'un sous-ensemble pertinent des tests en CI/CD.
 - Quel outil open source implémente l'auto-healing pour Selenium ? :: Healenium.

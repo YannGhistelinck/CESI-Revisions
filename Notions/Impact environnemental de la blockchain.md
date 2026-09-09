@@ -4,7 +4,7 @@ thèmes:
   - Blockchain
   - SI et environnement
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 # Impact environnemental de la blockchain
@@ -88,7 +88,7 @@ La blockchain, et Bitcoin en particulier, est régulièrement critiquée pour so
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Impact_environnemental_de_la_blockchain #flashcards/SI_et_environnement/Impact_environnemental_de_la_blockchain
 
 Qu'est-ce que le CBECI et à quoi sert-il ? :: Cambridge Bitcoin Electricity Consumption Index — outil de l'Université de Cambridge qui estime en temps réel la consommation électrique annuelle du réseau Bitcoin, en proposant des estimations basse, haute et centrale selon l'efficacité énergétique des mineurs.
 

@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Management et stratégie
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 # RACI et outils de gouvernance projet
@@ -128,7 +128,7 @@ Instance de gouvernance d'un projet ou programme :
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Management_et_stratégie/RACI_et_outils_de_gouvernance_projet
 
 Que signifie RACI ? :: Responsible (réalise), Accountable (responsable final — un seul par tâche), Consulted (consulté avant), Informed (informé après). Outil de clarification des rôles dans un projet ou processus.
 

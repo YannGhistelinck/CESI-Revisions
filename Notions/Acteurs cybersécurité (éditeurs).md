@@ -3,6 +3,7 @@ type: notion
 thèmes:
   - Cybersécurité
   - IA
+  - Optimisation du SI
 statut: pas vu
 dernière_révision: 
 ---
@@ -137,7 +138,7 @@ La connaissance des éditeurs et de leur positionnement est essentielle pour un 
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/Acteurs_cybersécurité_éditeurs #flashcards/IA/Acteurs_cybersécurité_éditeurs #flashcards/Optimisation_du_SI/Acteurs_cybersécurité_éditeurs
 
 Quelle est la spécialité de Darktrace et comment fonctionne son IA ? :: IA comportementale (Cyber AI) qui modélise le comportement "normal" de chaque entité réseau et détecte toute déviation — permet de détecter des menaces inconnues (zero-day).
 

@@ -96,7 +96,7 @@ La directive devait être transposée avant le 17 octobre 2024. La France a proc
 - NIS2 est complémentaire avec DORA (secteur financier), CRA (Cyber Resilience Act pour les produits connectés) et RGPD
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/NIS2 #flashcards/Cloud_et_Virtualisation/NIS2 #flashcards/Mobilité/NIS2
 Quelle est la différence entre une entité essentielle et une entité importante dans NIS2 ? :: Les entités essentielles (EE) opèrent dans des secteurs hautement critiques (énergie, santé, banque, infrastructure numérique) et sont soumises à une supervision proactive. Les entités importantes (EI) couvrent des secteurs critiques élargis (chimie, alimentation, fournisseurs numériques) et font l'objet d'une supervision réactive.
 
 Quels sont les délais de notification d'un incident NIS2 ? :: Alerte précoce dans les 24 heures, notification initiale dans les 72 heures, rapport final dans le mois suivant la prise de connaissance de l'incident.

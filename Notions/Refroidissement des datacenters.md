@@ -101,7 +101,7 @@ La chaleur produite par les serveurs est une énergie qui peut être valorisée 
 - Le marché du liquid cooling datacenter croît de **+25 % par an** (Allied Market Research, 2023)
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Refroidissement_des_datacenters
 
 Qu'est-ce que le free cooling et dans quelles conditions fonctionne-t-il ? :: Utilisation de l'air extérieur froid (< 18–22 °C) pour refroidir les équipements, sans ou avec peu de groupe froid. Opérationnel 70–80 % de l'année en France, 95 %+ en Scandinavie.
 

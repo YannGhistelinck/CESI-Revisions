@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Blockchain
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 # Cadre juridique crypto et blockchain
@@ -84,7 +84,7 @@ La régulation des cryptoactifs et de la blockchain est en pleine construction, 
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Cadre_juridique_crypto_et_blockchain
 
 Qu'est-ce que le règlement MiCA et quelle est sa portée ? :: Markets in Crypto-Assets — premier cadre réglementaire complet de l'UE sur les cryptoactifs. Adopté en juin 2023, applicable depuis décembre 2024. Il harmonise les règles pour les émetteurs de tokens et les prestataires de services (CASPs) dans toute l'UE, avec un système de passeport européen.
 

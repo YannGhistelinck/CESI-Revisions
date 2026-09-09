@@ -92,7 +92,7 @@ Outil central du workforce planning. Se présente sous forme d'un tableau croisa
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Management_et_stratégie/Workforce_planning_et_People_Analytics
 
 Qu'est-ce que le workforce planning stratégique ? :: Processus d'anticipation des besoins en compétences et effectifs à 1-5 ans en alignant les ressources humaines sur les objectifs stratégiques de l'organisation.
 

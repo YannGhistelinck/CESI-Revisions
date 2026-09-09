@@ -82,7 +82,7 @@ IA (concept large)
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/Intelligence_Artificielle_fondamentaux
 
 Qu'est-ce qui différencie le Deep Learning du Machine Learning classique ? :: Le Deep Learning utilise des réseaux de neurones artificiels à plusieurs couches (profonds) pour apprendre des représentations hiérarchiques des données, sans feature engineering manuel, là où le ML classique nécessite une extraction manuelle des caractéristiques.
 

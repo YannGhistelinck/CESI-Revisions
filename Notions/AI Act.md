@@ -87,7 +87,7 @@ Espace contrôlé permettant aux entreprises de tester des systèmes IA innovant
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/AI_Act #flashcards/Cybersécurité/AI_Act #flashcards/Big_DATA/AI_Act
 
 **Quand l'AI Act est-il entré en vigueur ?** :: Août 2024, avec une application progressive : interdictions en février 2025, obligations haut risque en août 2026, pleine application en 2027.
 

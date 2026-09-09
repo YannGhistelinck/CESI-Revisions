@@ -107,7 +107,7 @@ Le wallet est l'identité numérique de l'utilisateur Web3 : il lui permet de si
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Web3_et_wallets
 
 Quelle est la différence entre un wallet custodial et non-custodial ? :: Dans un wallet custodial (ex. Coinbase), les clés privées sont gérées par l'exchange ; dans un non-custodial (ex. MetaMask), l'utilisateur détient lui-même ses clés ("not your keys, not your coins").
 

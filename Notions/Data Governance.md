@@ -125,7 +125,7 @@ Acteurs : **Informatica MDM**, **Stibo Systems**, **IBM InfoSphere**, **Semarchy
 - L'adoption des data contracts croît de **+300 %** par an dans les communautés data engineering (2023-2024)
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/Data_Governance
 
 Quelles sont les 6 dimensions de la qualité des données ? :: Exactitude (reflète la réalité), Complétude (pas de valeurs manquantes), Cohérence (même valeur dans tous les systèmes), Actualité/Freshness (donnée à jour), Unicité (pas de doublons), Validité (respect des formats et règles métier).
 

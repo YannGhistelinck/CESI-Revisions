@@ -87,7 +87,7 @@ La méthode a été étendue par Kevin Hoffman (2017) avec 3 facteurs supplémen
 - GitOps (Argo CD, Flux) devient le standard de déploiement cloud native : +120 % d'adoption en 2 ans.
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Cloud_Native_et_12_Factor_App #flashcards/Développement/Cloud_Native_et_12_Factor_App
 - Quels sont les 4 piliers du cloud native selon la CNCF ? :: Conteneurs, orchestration (Kubernetes), microservices, et pratiques DevOps/CI-CD.
 - Que dit le facteur n°3 (Config) de la 12-Factor App ? :: Toute configuration doit être injectée via des variables d'environnement, jamais codée en dur dans le code source.
 - Qu'est-ce que l'auto-healing dans Kubernetes ? :: La capacité de K8s à détecter automatiquement les pods ou nœuds défaillants et à les redémarrer ou remplacer sans intervention humaine.

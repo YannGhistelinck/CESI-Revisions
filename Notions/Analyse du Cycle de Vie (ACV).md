@@ -88,7 +88,7 @@ Limites : les hyperscalers ne publient pas toutes les données nécessaires, l'o
 - Le marché des services cloud devrait atteindre **1 000 Md$ en 2027** (Gartner), amplifiant l'enjeu carbone
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Analyse_du_Cycle_de_Vie_ACV #flashcards/Cloud_et_Virtualisation/Analyse_du_Cycle_de_Vie_ACV
 
 Quelles sont les 4 phases d'une ACV ? :: 1. Définition des objectifs/périmètre. 2. Inventaire du cycle de vie (ICV). 3. Évaluation des impacts. 4. Interprétation. Normalisée ISO 14040/14044.
 

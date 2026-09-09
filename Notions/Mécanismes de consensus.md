@@ -97,7 +97,7 @@ Le consensus est le cœur de la décentralisation : il remplace la confiance en 
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Mécanismes_de_consensus
 
 Qu'est-ce que le Proof of Work ? :: Un mécanisme de consensus où les mineurs s'affrontent pour résoudre un puzzle cryptographique (trouver un nonce valide), consommant de l'énergie pour sécuriser le réseau.
 

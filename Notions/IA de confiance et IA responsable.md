@@ -74,7 +74,7 @@ Alors que l'IA prend des décisions à fort impact, la confiance des citoyens et
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/IA_de_confiance_et_IA_responsable
 
 **Qu'est-ce que l'IA de confiance (Trustworthy AI) selon la Commission européenne ?** :: Une IA qui respecte 7 exigences : supervision humaine, robustesse, vie privée, transparence, équité, bien-être sociétal et responsabilité (HLEG, 2019).
 

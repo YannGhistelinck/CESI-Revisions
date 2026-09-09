@@ -97,7 +97,7 @@ Dans un SI en évolution constante, l'amélioration continue permet d'éviter la
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Optimisation_du_SI/Amélioration_continue_PDCA_Lean_Kaizen #flashcards/Management_et_stratégie/Amélioration_continue_PDCA_Lean_Kaizen
 
 Que signifient les 4 étapes du cycle PDCA ? :: Plan (planifier), Do (faire), Check (vérifier), Act (agir/standardiser) — cycle de Deming d'amélioration continue.
 

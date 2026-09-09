@@ -112,7 +112,7 @@ Selon le résultat : accès complet, accès limité (VLAN de quarantaine) ou ref
 - NDR (Network Detection and Response) : émergence d'outils d'analyse comportementale du trafic réseau pour détecter les menaces avancées (Darktrace, ExtraHop, Gatewatcher)
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/Outils_de_sécurité_réseau #flashcards/Mobilité/Outils_de_sécurité_réseau
 Qu'est-ce qu'un firewall UTM ? :: Unified Threat Management : firewall de nouvelle génération regroupant plusieurs fonctions de sécurité (IPS, antivirus réseau, filtrage URL, contrôle d'applications, VPN) en une seule appliance.
 
 Quelle est la différence entre un firewall classique et un WAF ? :: Un firewall classique filtre le trafic réseau (couches 3-4, IP/ports). Un WAF (Web Application Firewall) analyse le contenu applicatif HTTP/HTTPS (couche 7) pour bloquer les attaques web (injection SQL, XSS, OWASP Top 10).

@@ -77,7 +77,7 @@ Un opérateur américain stockant des données européennes est soumis simultan�
 - Le Executive Order 14086 (Biden, 2022) crée la DPRC pour les recours des européens, mais son indépendance est contestée
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/CLOUD_Act_et_transferts_de_données #flashcards/Big_DATA/CLOUD_Act_et_transferts_de_données #flashcards/Mobilité/CLOUD_Act_et_transferts_de_données
 
 Qu'est-ce que le CLOUD Act et à qui s'applique-t-il ? :: Loi américaine de 2018 permettant aux autorités US d'obtenir des données détenues par des opérateurs américains, quel que soit le pays de stockage. S'applique à toute entité de droit américain (AWS, Microsoft, Google…).
 

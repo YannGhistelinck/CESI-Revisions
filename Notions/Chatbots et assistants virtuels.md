@@ -137,7 +137,7 @@ Actions (réponse community manager, ajustement campagne)
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/Chatbots_et_assistants_virtuels
 
 Quelle est la différence entre un chatbot à règles et un chatbot LLM-powered ? :: Un chatbot à règles suit des arbres de décision prédéfinis (si/sinon) et échoue hors des scénarios prévus. Un chatbot LLM-powered utilise un grand modèle de langage capable de comprendre et générer du texte libre, gérer le contexte multi-tours et s'intégrer à des outils externes via RAG.
 

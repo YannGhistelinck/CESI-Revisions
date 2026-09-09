@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Blockchain
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 # Blockchain et supply chain
@@ -70,7 +70,7 @@ La traçabilité blockchain en supply chain repose sur :
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Blockchain_et_supply_chain
 
 Qu'est-ce que la traçabilité ascendante en supply chain ? :: La capacité à remonter d'un produit fini vers son origine (matières premières, fournisseurs, lots), par exemple pour identifier la source d'une contamination alimentaire.
 

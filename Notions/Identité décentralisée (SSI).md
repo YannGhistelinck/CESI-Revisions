@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Blockchain
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 # Identité décentralisée (SSI)
@@ -86,7 +86,7 @@ La Self-Sovereign Identity (SSI), ou identité auto-souveraine, est un paradigme
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Identité_décentralisée_SSI
 
 Qu'est-ce qu'un DID (Decentralized Identifier) ? :: Un identifiant unique, persistant et auto-souverain enregistré sur un registre décentralisé (blockchain ou autre). Il est contrôlé par son propriétaire et résolvable sans autorité centrale. Format : did:method:identifiant.
 

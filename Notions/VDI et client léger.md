@@ -119,7 +119,7 @@ Différence avec Energy Star :
 - Le marché DaaS croît de **+23 % par an** depuis 2020 (IDC)
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/VDI_et_client_léger #flashcards/Mobilité/VDI_et_client_léger
 
 Qu'est-ce que la VDI et comment fonctionne-t-elle ? :: Virtual Desktop Infrastructure : les postes de travail sont des VM hébergées dans un datacenter centralisé. L'utilisateur y accède via un client léger et un protocole d'affichage (PCoIP, HDX, RDP). Aucun calcul n'est effectué localement.
 

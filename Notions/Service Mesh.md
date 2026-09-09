@@ -80,7 +80,7 @@ Un service mesh se compose de deux plans :
 - La convergence entre API Gateway et Service Mesh s'accélère (Kong, Gloo, Traefik).
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Service_Mesh
 - Qu'est-ce qu'un service mesh ? :: Une couche d'infrastructure qui gère de façon transparente la communication inter-services (sécurité mTLS, routage, résilience, observabilité) via des proxies sidecars injectés à côté de chaque service.
 - Qu'est-ce qu'un proxy sidecar ? :: Un proxy léger (ex : Envoy) déployé dans le même Pod que le service, qui intercepte tout le trafic réseau entrant et sortant sans modification du code applicatif.
 - Quelle est la différence entre le Data Plane et le Control Plane d'un service mesh ? :: Le Data Plane est l'ensemble des proxies sidecars qui traitent le trafic ; le Control Plane (ex : Istiod) configure et distribue les politiques à ces proxies.
