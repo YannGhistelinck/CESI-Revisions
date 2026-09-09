@@ -2,7 +2,7 @@
 type: thème
 statut: pas vu
 ---
-
+![[Thème 7 - Management_informatique_des_talents_à_DORA.m4a]]
 # Management et stratégie
 
 ## Présentation
