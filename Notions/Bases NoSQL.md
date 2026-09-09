@@ -177,7 +177,7 @@ Les bases NoSQL choisissent généralement AP (disponibilité + tolérance parti
 - Tendance : **convergence** des bases de données (PostgreSQL + pgvector, Redis Stack, MongoDB Atlas Vector Search) → les bases relationnelles et NoSQL absorbent les fonctionnalités vectorielles.
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/Bases_NoSQL #flashcards/IA/Bases_NoSQL
 
 Quelles sont les 5 grandes familles de bases NoSQL ? :: Documentaire (MongoDB), Clé-valeur (Redis, DynamoDB), Colonnes larges (Cassandra, HBase), Graphe (Neo4j, Neptune), Vectorielle (Pinecone, Weaviate, Qdrant).
 

@@ -85,7 +85,7 @@ En 2023, DORA a introduit une cinquième métrique : la **Reliability** (respect
 - En 2023, DORA a ajouté la dimension "Reliability" (SLO-based) comme cinquième métrique officielle.
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/DORA_Metrics #flashcards/Optimisation_du_SI/DORA_Metrics
 - Que signifie l'acronyme DORA ? :: DevOps Research and Assessment — programme de recherche Google mesurant la performance des équipes de livraison logicielle.
 - Quelles sont les 4 métriques DORA ? :: Deployment Frequency, Lead Time for Changes, Change Failure Rate, Mean Time to Restore.
 - Qu'est-ce que le Lead Time for Changes ? :: Le temps entre le premier commit et le déploiement en production ; mesure l'efficacité du pipeline CI/CD.

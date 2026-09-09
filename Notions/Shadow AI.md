@@ -86,7 +86,7 @@ Depuis l'émergence des IA génératives grand public (ChatGPT, Gemini, Copilot,
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/Shadow_AI #flashcards/Management_et_stratégie/Shadow_AI
 
 **Qu'est-ce que le Shadow AI ?** :: Utilisation non autorisée et non contrôlée d'outils IA par des employés dans un contexte professionnel, sans validation de la DSI ou de la conformité, par analogie avec le shadow IT.
 

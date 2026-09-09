@@ -120,7 +120,7 @@ dernière_révision:
 - Le marché CNAPP (Wiz, Prisma Cloud, Orca Security) devrait atteindre 9 Md$ en 2027 (IDC).
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Acteurs_cloud
 - Quels sont les 3 hyperscalers cloud dominants et leurs parts de marché approximatives en 2024 ? :: AWS (~31 %), Microsoft Azure (~25 %), Google Cloud (~11 %) — ensemble 67 % du marché mondial (Synergy Research).
 - Qu'est-ce que le CLOUD Act et pourquoi impacte-t-il les choix cloud européens ? :: Le CLOUD Act (2018) est une loi américaine permettant aux autorités US d'exiger l'accès aux données hébergées par des entreprises américaines, même sur des serveurs en Europe — ce qui explique la préférence pour des acteurs souverains européens pour les données sensibles.
 - Quels acteurs cloud français disposent de la qualification SecNumCloud ? :: OVHcloud et 3DS Outscale (filiale de Dassault Systèmes) sont les seuls à disposer d'offres cloud qualifiées SecNumCloud en 2024.

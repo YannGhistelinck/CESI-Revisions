@@ -74,7 +74,7 @@ dernière_révision:
 - Les organisations appliquant les 20 contrôles CIS réduisent leur surface d'attaque de 85 % selon le Center for Internet Security.
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/Défense_en_profondeur
 Qu'est-ce que la défense en profondeur ? :: Stratégie consistant à superposer plusieurs couches de protection indépendantes (réseau, système, application, données, humain) pour qu'un attaquant doive contourner chaque barrière successivement.
 
 Quelles sont les 42 mesures de l'ANSSI ? :: Un référentiel de 42 mesures d'hygiène informatique fondamentales publié par l'ANSSI, couvrant la connaissance du SI, l'authentification, la gestion des accès, les mises à jour, les sauvegardes et la journalisation.

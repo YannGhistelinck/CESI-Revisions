@@ -91,7 +91,7 @@ Code de conduite volontaire pour les développeurs de modèles d'IA avancés. Pr
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/Cadre_international_de_l_IA
 
 **Qu'est-ce que la Convention du Conseil de l'Europe sur l'IA (2024) ?** :: Premier traité international juridiquement contraignant sur l'IA, portant sur les droits humains, la démocratie et l'État de droit, ouvert aux États non membres du Conseil de l'Europe.
 

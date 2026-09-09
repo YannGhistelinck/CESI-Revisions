@@ -92,7 +92,7 @@ Un SI s'articule autour de quatre fonctions fondamentales :
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Optimisation_du_SI/Système_d_Information_SI
 
 Qu'est-ce qu'un Système d'Information ? :: Ensemble organisé de ressources (humaines, matérielles, logicielles, données, procédures) permettant de collecter, stocker, traiter et distribuer l'information au sein d'une organisation.
 

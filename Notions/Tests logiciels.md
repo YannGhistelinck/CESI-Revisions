@@ -74,7 +74,7 @@ Structure hiérarchique guidant la répartition des tests : beaucoup de tests un
 - Le fuzzing est désormais requis dans les programmes de Bug Bounty des GAFAM.
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Tests_logiciels
 - Qu'est-ce que la pyramide des tests ? :: Un modèle (Mike Cohn) préconisant beaucoup de tests unitaires (rapides, fiables), moins de tests d'intégration, et peu de tests E2E (lents, fragiles, coûteux).
 - Quelle est la différence entre SAST et DAST ? :: SAST analyse le code source statiquement (sans exécution) ; DAST attaque l'application en cours d'exécution pour détecter des vulnérabilités dynamiques.
 - Qu'est-ce que le mutation testing ? :: Une technique qui injecte des mutations dans le code source pour vérifier que les tests existants les détectent ; mesure la qualité réelle des tests.

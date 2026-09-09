@@ -100,7 +100,7 @@ La certification ISO 9001 est un gage de maturité organisationnelle reconnu mon
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Optimisation_du_SI/ISO_9001_et_qualité
 
 Qu'est-ce qu'ISO 9001:2015 et que certifie-t-elle ? :: La norme internationale de référence pour les systèmes de management de la qualité (SMQ) — elle certifie la capacité d'une organisation à satisfaire ses clients et à s'améliorer en continu.
 

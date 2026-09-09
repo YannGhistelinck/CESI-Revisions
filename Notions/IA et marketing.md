@@ -130,7 +130,7 @@ Call center       →                     →  Personnalisation web
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/IA_et_marketing
 
 Qu'est-ce que l'hyper-personnalisation et en quoi diffère-t-elle de la segmentation ? :: La segmentation regroupe des clients en catégories et leur envoie le même message. L'hyper-personnalisation adapte le message, l'offre et le canal en temps réel au contexte et au comportement individuel de chaque client, grâce à l'IA.
 

@@ -76,7 +76,7 @@ Outils de monitoring de la consommation électrique des serveurs et datacenters 
 - L'intégration de mesures d'impact dans les pipelines CI/CD reste marginale (<5 % des projets) mais progresse avec les pratiques GreenOps
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Outils_de_mesure_d_impact_environnemental
 
 Quels sont les 3 indicateurs utilisés par EcoIndex pour scorer une page web ? :: Le poids de la page (Ko), le nombre de requêtes HTTP et la complexité du DOM (nombre d'éléments HTML). Ces 3 critères produisent un score de A (meilleur) à G.
 

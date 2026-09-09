@@ -4,6 +4,7 @@ thèmes:
   - Cloud et Virtualisation
   - Cybersécurité
   - Big DATA
+  - Optimisation du SI
 statut: pas vu
 dernière_révision: 
 ---
@@ -130,7 +131,7 @@ Les ransomwares ciblent prioritairement les sauvegardes pour empêcher la restau
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Sauvegarde_et_solutions_de_protection_des_données #flashcards/Cybersécurité/Sauvegarde_et_solutions_de_protection_des_données #flashcards/Big_DATA/Sauvegarde_et_solutions_de_protection_des_données #flashcards/Optimisation_du_SI/Sauvegarde_et_solutions_de_protection_des_données
 
 Qu'est-ce que la règle 3-2-1-1-0 en matière de sauvegarde ? :: 3 copies, 2 supports différents, 1 copie hors site, 1 copie offline/immuable (air gap), 0 erreur lors des tests de restauration.
 

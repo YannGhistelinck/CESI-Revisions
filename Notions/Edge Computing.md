@@ -109,7 +109,7 @@ Un opérateur d'énergie déploie des edge gateways sur 5 000 transformateurs é
 - Convergence **edge + 5G + IA** : les opérateurs télécom ouvrent leurs infrastructures MEC à des services edge managés pour les entreprises
 
 ## Flashcards
-#flashcards
+#flashcards/Mobilité/Edge_Computing #flashcards/Cloud_et_Virtualisation/Edge_Computing #flashcards/Optimisation_du_SI/Edge_Computing
 
 Qu'est-ce que l'edge computing et pourquoi s'oppose-t-il au cloud centralisé ? :: L'edge computing consiste à traiter les données au plus proche de leur source (capteurs, terminaux), plutôt que de les envoyer vers un datacenter distant. Il s'oppose au cloud centralisé car il réduit la latence (< 5 ms vs 50-150 ms), économise la bande passante et permet un fonctionnement hors ligne — indispensable pour les usages temps réel.
 

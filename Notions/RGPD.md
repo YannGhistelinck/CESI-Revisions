@@ -108,7 +108,7 @@ Obligation pour tout responsable de traitement et sous-traitant de tenir un regi
 - Le Data Privacy Framework (2023) établit une décision d'adéquation USA-UE, mais son avenir reste incertain (recours NOYB).
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/RGPD #flashcards/Cybersécurité/RGPD #flashcards/Cloud_et_Virtualisation/RGPD #flashcards/Mobilité/RGPD #flashcards/IA/RGPD
 
 Quels sont les 7 principes fondamentaux du RGPD (article 5) ? :: Licéité/loyauté/transparence, limitation des finalités, minimisation des données, exactitude, limitation de la conservation, intégrité et confidentialité, responsabilité (accountability).
 

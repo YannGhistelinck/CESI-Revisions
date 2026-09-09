@@ -94,7 +94,7 @@ Les secrets ne doivent jamais être committé en clair dans Git. Solutions :
 - Le GitOps s'étend hors de Kubernetes : des projets comme Crossplane permettent d'appliquer le modèle GitOps aux ressources cloud (AWS, Azure, GCP).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/GitOps #flashcards/Cloud_et_Virtualisation/GitOps
 - Qui a inventé le terme GitOps et quand ? :: Alexis Richardson, CEO de Weaveworks, en 2017.
 - Quels sont les 4 principes du GitOps selon l'OpenGitOps v1.0 ? :: Déclaratif, versionné et immuable (dans Git), récupéré automatiquement (pull), et réconcilié en continu.
 - Quelle est la différence entre le modèle Push et le modèle Pull en GitOps ? :: En mode Push, le pipeline CI envoie les changements vers le cluster (ex. kubectl apply dans Jenkins). En mode Pull, un agent dans le cluster (ArgoCD, Flux) récupère les changements depuis Git — plus sécurisé car le cluster n'expose pas son API.

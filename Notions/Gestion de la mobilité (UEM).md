@@ -83,7 +83,7 @@ Un constructeur automobile gère 2 000 tablettes en mode kiosque (COSU) sur les 
 - Tendance : convergence UEM + **ZTNA** (Zero Trust Network Access) pour une gestion unifiée des accès et des terminaux
 
 ## Flashcards
-#flashcards
+#flashcards/Mobilité/Gestion_de_la_mobilité_UEM
 
 Qu'est-ce que l'UEM et en quoi diffère-t-il de l'EMM ? :: L'UEM (Unified Endpoint Management) unifie la gestion de tous les types de terminaux (PC, mobiles, IoT) dans une seule console, là où l'EMM se limitait aux appareils mobiles. L'UEM est l'évolution naturelle de l'EMM.
 

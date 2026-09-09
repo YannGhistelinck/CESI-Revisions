@@ -83,7 +83,7 @@ Caméras couleur sur le casque transmettant une vue en temps réel du monde rée
 - 40 % des cas d'usage XR enterprise concernent la formation et l'onboarding (IDC, 2023).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Réalité_étendue_XR
 - Que signifie XR ? :: Extended Reality (réalité étendue) — terme générique englobant la réalité augmentée (RA), la réalité mixte (RM) et la réalité virtuelle (RV).
 - Qu'est-ce que le continuum de Milgram ? :: Un spectre (Milgram & Kishino, 1994) allant du monde réel pur à l'environnement virtuel total, avec la RA et la RM comme points intermédiaires.
 - Quelle est la différence entre RA et RM ? :: En RA, les éléments numériques sont superposés sur le réel sans interaction physique ; en RM, les objets numériques interagissent avec l'environnement réel en temps réel (occlusion, ancrage spatial).

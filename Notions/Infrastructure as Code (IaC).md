@@ -91,7 +91,7 @@ Pulumi permet d'écrire l'IaC dans des langages de programmation généraux (Pyt
 - Le Policy as Code (OPA, Sentinel) s'impose comme complément de l'IaC pour la gouvernance (règles de conformité appliquées avant `terraform apply`).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Infrastructure_as_Code_IaC #flashcards/Cloud_et_Virtualisation/Infrastructure_as_Code_IaC #flashcards/Optimisation_du_SI/Infrastructure_as_Code_IaC
 - Qu'est-ce que l'idempotence en IaC ? :: La propriété garantissant qu'appliquer le même code IaC plusieurs fois produit toujours le même résultat — si la ressource est déjà conforme, elle n'est pas modifiée. Cela rend les déploiements sûrs et réexécutables.
 - Quelle est la différence entre Terraform et Ansible ? :: Terraform est déclaratif et orienté provisionnement d'infrastructure cloud (création de VMs, réseaux, BDD). Ansible est agentless et orienté gestion de configuration (installation de paquets, déploiement d'apps sur des serveurs existants). Ils sont complémentaires.
 - Qu'est-ce que le "drift" en IaC et comment le détecter ? :: La divergence entre l'état déclaré dans le code et l'état réel de l'infrastructure (modification manuelle hors IaC). `terraform plan` le détecte ponctuellement ; Driftctl ou Terraform Cloud permettent une détection continue.

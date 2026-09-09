@@ -74,7 +74,7 @@ Loi française structurante pour l'économie circulaire :
 - La loi AGEC impose aux acheteurs publics d'acquérir au moins 20 % de matériels reconditionnés sur certaines catégories depuis 2021
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Économie_circulaire_du_numérique
 
 Qu'est-ce que la loi AGEC et quelles sont ses obligations pour le numérique ? :: Loi Anti-Gaspillage pour une Économie Circulaire (2020). Elle impose : l'indice de réparabilité, l'interdiction de destruction des invendus électroniques, la disponibilité des pièces détachées, l'obligation d'achat de reconditionné dans les marchés publics.
 

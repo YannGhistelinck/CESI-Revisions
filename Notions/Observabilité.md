@@ -94,7 +94,7 @@ Une trace est composée de **spans** : chaque span représente une unité de tra
 - Le "profiling continu" (Pyroscope, Parca) devient le 4e pilier de l'observabilité après logs/métriques/traces.
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Observabilité #flashcards/Optimisation_du_SI/Observabilité
 - Quels sont les 3 piliers de l'observabilité ? :: Logs (événements textuels horodatés), métriques (données numériques agrégées en time series), et traces distribuées (suivi du chemin d'une requête à travers les services).
 - Quelle est la différence entre monitoring et observabilité ? :: Le monitoring surveille des métriques prédéfinies (on sait ce qu'on cherche). L'observabilité permet d'explorer le comportement d'un système pour répondre à des questions non anticipées (on peut découvrir des problèmes inconnus).
 - Qu'est-ce qu'OpenTelemetry et pourquoi est-il important ? :: Un standard open source CNCF pour instrumenter les applications et collecter logs, métriques et traces de façon unifiée et vendor-neutral. Il évite le vendor lock-in en permettant de changer de backend sans modifier le code.

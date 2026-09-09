@@ -127,7 +127,7 @@ Un pipeline de données est une séquence d'étapes automatisées et orchestrée
 - Le CDC (Change Data Capture) devient le standard pour les pipelines temps réel, remplaçant les extractions batch complètes.
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/ETL_ELT_et_pipelines_de_données
 
 Quelle est la différence entre ETL et ELT ? :: ETL : Extract → Transform (dans un moteur dédié) → Load dans la destination. ELT : Extract → Load (données brutes) → Transform directement dans le système cible. L'ELT exploite la puissance des Data Warehouses cloud.
 

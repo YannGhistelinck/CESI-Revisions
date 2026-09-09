@@ -111,7 +111,7 @@ Les entreprises ont des contraintes que les blockchains publiques ne satisfont p
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Blockchains_d_entreprise
 
 Quelle est la différence entre une blockchain publique et permissionnée ? :: Une blockchain publique est ouverte à tous (Bitcoin, Ethereum) ; une blockchain permissionnée restreint l'accès et la validation à des participants autorisés — offrant plus de confidentialité et de performance.
 

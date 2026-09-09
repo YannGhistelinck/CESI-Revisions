@@ -82,7 +82,7 @@ NVIDIA Omniverse est une plateforme de simulation et de collaboration 3D basée 
 - Le BIM est désormais obligatoire pour les projets publics > 1 M€ en France (Loi ELAN, 2018 — décrets d'application progressifs).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Digital_Twin #flashcards/IA/Digital_Twin #flashcards/Optimisation_du_SI/Digital_Twin
 - Qu'est-ce qu'un jumeau numérique (digital twin) ? :: Une réplique virtuelle dynamique d'un objet ou système physique, alimentée en temps réel par des données capteurs, permettant de surveiller, simuler et optimiser son homologue réel.
 - Quels sont les trois composants fondamentaux d'un digital twin ? :: L'entité physique, le jumeau numérique (modèle virtuel), et le lien de données bidirectionnel (capteurs IoT → jumeau, commandes → actionneurs).
 - Qu'est-ce que le BIM ? :: Building Information Modeling — norme ISO 19650 de modélisation numérique du bâtiment ; un modèle BIM enrichi de données temps réel constitue un digital twin du bâtiment.

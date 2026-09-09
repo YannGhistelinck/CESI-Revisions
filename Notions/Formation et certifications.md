@@ -108,7 +108,7 @@ Dans un secteur IT où les technologies évoluent tous les 2 à 5 ans, la format
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Management_et_stratégie/Formation_et_certifications
 
 Qu'est-ce que le CPF et comment est-il alimenté ? :: Le Compte Personnel de Formation est alimenté à hauteur de 500 €/an (800 € pour les non-qualifiés), plafonné à 5 000 € (ou 8 000 €), et permet de financer des formations certifiantes inscrites au RNCP ou au Répertoire Spécifique.
 

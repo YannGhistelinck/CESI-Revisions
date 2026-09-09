@@ -70,7 +70,7 @@ dernière_révision:
 - NIS2 (transposée en France fin 2024) impose des obligations similaires aux entités essentielles et importantes
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/PCA_PRA #flashcards/Management_et_stratégie/PCA_PRA
 PCA vs PRA :: Le PCA couvre la continuité globale de l'activité (humains, locaux, IT) ; le PRA est le volet IT du PCA, focalisé sur la restauration des systèmes d'information.
 
 Qu'est-ce que le RTO ? :: Recovery Time Objective : durée maximale d'interruption tolérée. Ex : les systèmes doivent être opérationnels dans les 4 heures.

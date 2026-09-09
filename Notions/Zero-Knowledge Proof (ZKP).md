@@ -4,7 +4,7 @@ thèmes:
   - Blockchain
   - Cybersécurité
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 # Zero-Knowledge Proof (ZKP)
@@ -91,7 +91,7 @@ Un ZKP doit satisfaire trois propriétés :
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Blockchain/Zero_Knowledge_Proof_ZKP #flashcards/Cybersécurité/Zero_Knowledge_Proof_ZKP
 
 Qu'est-ce qu'une preuve à divulgation nulle de connaissance (ZKP) ? :: Un protocole cryptographique permettant à un prouveur de convaincre un vérificateur qu'une affirmation est vraie, sans révéler aucune information sur le secret lui-même. Trois propriétés : complétude, solidité, divulgation nulle.
 

@@ -84,7 +84,7 @@ La migration ne suffit pas : sans optimisation, le cloud coûte souvent plus che
 - Le coût d'une migration cloud bien planifiée est typiquement amorti en 2-3 ans par les économies réalisées (moins de datacenter, élasticité, réduction des licences)
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Migration_cloud_les_7R
 
 Quelles sont les 7 stratégies de migration cloud (7R) ? :: Rehost (Lift & Shift), Replatform, Repurchase (SaaS), Refactor/Re-architect, Retire, Retain, Relocate (Hypervisor Lift & Shift).
 

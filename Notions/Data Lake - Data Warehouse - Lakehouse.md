@@ -118,7 +118,7 @@ Architecture hybride émergente (popularisée par Databricks à partir de 2020) 
 - Tendance forte : **Data Mesh** (approche décentralisée par domaine) comme évolution architecturale au-delà du Lakehouse.
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/Data_Lake_Data_Warehouse_Lakehouse #flashcards/Cloud_et_Virtualisation/Data_Lake_Data_Warehouse_Lakehouse
 
 Quelle est la différence fondamentale entre schema-on-write et schema-on-read ? :: Schema-on-write (Data Warehouse) : le schéma est défini avant l'ingestion, les données sont transformées en amont. Schema-on-read (Data Lake) : le schéma est appliqué au moment de la lecture, les données brutes sont stockées telles quelles.
 

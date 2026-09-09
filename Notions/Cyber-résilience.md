@@ -88,7 +88,7 @@ Utilisé pour identifier à quelle étape une attaque peut être interrompue et 
 - DORA est entré en application le 17 janvier 2025 pour les 22 000 entités financières européennes.
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/Cyber_résilience #flashcards/Management_et_stratégie/Cyber_résilience
 Qu'est-ce que la cyber-résilience ? :: Capacité d'une organisation à préparer, résister, s'adapter et se remettre d'une cyberattaque en maintenant la continuité de ses activités. Posture stratégique basée sur la certitude que l'attaque aura lieu.
 
 Qu'est-ce que le principe "Assume Breach" ? :: Philosophie consistant à concevoir l'architecture et les processus en partant du postulat que l'attaquant est déjà présent dans le SI, afin de préparer des défenses internes et des plans de réponse immédiats.

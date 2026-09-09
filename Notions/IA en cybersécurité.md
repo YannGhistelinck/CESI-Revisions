@@ -103,7 +103,7 @@ Un hôpital est ciblé par une attaque via un script PowerShell malveillant (mal
 - L'UE travaille sur la réglementation de l'IA dans les systèmes critiques (AI Act, 2024) avec des obligations spécifiques pour les systèmes IA à haut risque, incluant certaines applications de cybersécurité.
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/IA_en_cybersécurité #flashcards/IA/IA_en_cybersécurité
 
 Qu'est-ce que l'UEBA et comment fonctionne-t-il ? :: User and Entity Behavior Analytics : modélisation du comportement normal de chaque utilisateur et entité par ML, puis détection des déviations statistiques (connexion inhabituelle, exfiltration de données, utilisation d'un compte dormant). Permet de détecter les insider threats et les comptes compromis sans signature connue.
 

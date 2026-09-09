@@ -143,7 +143,7 @@ Structure d'un SLA :
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Optimisation_du_SI/SLA_SLO_SLI
 
 Quelle est la hiérarchie SLI → SLO → SLA ? :: SLI = mesure technique réelle. SLO = objectif interne cible (plus strict que le SLA). SLA = engagement contractuel avec le client, avec pénalités.
 

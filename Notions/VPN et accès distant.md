@@ -105,7 +105,7 @@ Une entreprise industrielle donne accès à ses sous-traitants à des applicatio
 - Tendance : intégration du **ZTNA dans les solutions UEM** (Intune + Entra ID Conditional Access) pour conditionner l'accès aux ressources à la conformité du terminal
 
 ## Flashcards
-#flashcards
+#flashcards/Mobilité/VPN_et_accès_distant #flashcards/Cybersécurité/VPN_et_accès_distant
 
 Quelle est la différence fondamentale entre VPN et ZTNA ? :: Le VPN accorde un accès au réseau entier de l'entreprise après authentification (confiance implicite une fois connecté). Le ZTNA accorde un accès granulaire à des applications spécifiques après vérification continue de l'identité, du terminal et du contexte — sans jamais exposer le réseau interne.
 

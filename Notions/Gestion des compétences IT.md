@@ -90,7 +90,7 @@ Permet aux experts de progresser sur une filière "expert" parallèle à la fili
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Management_et_stratégie/Gestion_des_compétences_IT
 
 Quelle est la différence entre upskilling et reskilling ? :: L'upskilling est une montée en compétences dans son domaine actuel ; le reskilling est une reconversion vers un nouveau métier.
 

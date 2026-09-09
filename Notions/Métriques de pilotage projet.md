@@ -132,7 +132,7 @@ Implication : réduire le WIP est le levier le plus puissant pour réduire le le
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Optimisation_du_SI/Métriques_de_pilotage_projet #flashcards/Développement/Métriques_de_pilotage_projet
 
 Quelle est la différence entre Lead Time et Cycle Time ? :: Le Lead Time court de la création du ticket à la livraison (inclut l'attente backlog). Le Cycle Time court du début du travail actif à la livraison. Cycle Time = Lead Time − temps d'attente en backlog.
 

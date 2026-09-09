@@ -78,7 +78,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 - L'émergence de Platform Engineering (équipes dédiées à créer des "Internal Developer Platforms") est la tendance 2024-2025 pour industrialiser le DevOps à grande échelle.
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/DevOps #flashcards/Optimisation_du_SI/DevOps
 - Qui a inventé le terme "DevOps" et quand ? :: Patrick Debois lors de la première DevOpsDays à Gand (Belgique) en 2009.
 - Quelles sont les 3 voies de Gene Kim ? :: Flow (accélérer la livraison de gauche à droite), Feedback (boucles de retour rapides), et Learning/Continual Experimentation (amélioration continue et culture d'apprentissage).
 - Que signifie l'acronyme CALMS ? :: Culture, Automation, Lean, Measurement, Sharing — framework d'évaluation de la maturité DevOps.

@@ -109,7 +109,7 @@ L'ANSSI organise l'exercice Defnet chaque année, un exercice cyber range inter-
 - L'IA générative commence à être utilisée par les Red Teams pour automatiser la génération de phishing ciblé et l'analyse de code.
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/Red_Team_Blue_Team_Purple_Team
 
 Quelle est la différence entre un pentest et un engagement Red Team ? :: Le pentest est cadré (périmètre défini, durée courte, rapport de vulnérabilités techniques). Le Red Team simule un attaquant APT sur un objectif métier (flag), sans périmètre limité, sur une durée longue, en testant aussi la détection réelle par la Blue Team.
 

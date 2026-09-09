@@ -4,7 +4,7 @@ thèmes:
   - Transversal
   - Développement
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 ## En bref
@@ -148,7 +148,7 @@ La vélocité est une **métrique empirique** qui mesure la quantité de travail
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Transversal/Scrum #flashcards/Développement/Scrum
 
 Quels sont les 3 rôles Scrum définis dans le Scrum Guide 2020 ? :: **Product Owner** (maximise la valeur, responsable du Product Backlog), **Scrum Master** (garant de Scrum, coach, lève les obstacles), **Developers** (créent l'Increment, auto-organisés, pluridisciplinaires).
 

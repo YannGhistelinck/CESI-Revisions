@@ -108,7 +108,7 @@ Les microservices impliquent une **organisation en équipes autonomes** (feature
 - **Shopify** (1,7 M de marchands, Ruby on Rails) a choisi de rester sur un monolithe modulaire et de le modulariser plutôt que de migrer vers des microservices.
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Microservices_vs_monolithe #flashcards/Cloud_et_Virtualisation/Microservices_vs_monolithe
 Quelle est la différence fondamentale entre microservices et monolithe en termes de déploiement ? :: Dans un **monolithe**, toute l'application est déployée comme une seule unité. Dans les **microservices**, chaque service est déployé indépendamment, avec son propre cycle de vie.
 
 Qu'est-ce que le pattern Strangler Fig et à quoi sert-il ? :: Pattern de migration progressive de Martin Fowler : un **proxy** (Strangler Façade) redirige progressivement le trafic du monolithe vers de nouveaux microservices, évitant une migration big bang risquée.

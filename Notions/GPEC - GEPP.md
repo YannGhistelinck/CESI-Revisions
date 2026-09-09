@@ -99,7 +99,7 @@ La GPEC/GEPP est l'outil légal de pilotage stratégique des RH en France. Pour 
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Management_et_stratégie/GPEC_GEPP
 
 Quelle est la différence entre GPEC et GEPP ? :: La GEPP (loi Avenir 2018) est la version modernisée de la GPEC (loi Borloo 2005) : elle intègre explicitement les parcours professionnels individuels, les entretiens professionnels obligatoires tous les 2 ans et le bilan à 6 ans.
 

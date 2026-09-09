@@ -77,7 +77,7 @@ dernière_révision:
 - Marché du RaaS : LockBit seul aurait collecté plus de 91 M$ de rançons aux USA (CISA, 2023).
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/Menaces_cyber
 Qu'est-ce que le RaaS ? :: Ransomware-as-a-Service : modèle où des développeurs criminels louent leur ransomware à des affiliés qui conduisent les attaques et partagent les rançons (généralement 70-80 % pour les affiliés).
 
 Quelle est la différence entre phishing et spear phishing ? :: Le phishing est un envoi de masse non ciblé ; le spear phishing cible précisément un individu avec des informations personnalisées (nom, poste, contexte professionnel) pour augmenter le taux de succès.

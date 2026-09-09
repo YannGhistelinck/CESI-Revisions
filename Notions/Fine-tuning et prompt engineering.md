@@ -104,7 +104,7 @@ Un modèle fondamental (GPT, BERT, LLaMA) a appris des représentations généra
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/Fine_tuning_et_prompt_engineering
 
 Qu'est-ce que le transfer learning appliqué aux LLM ? :: Le transfer learning consiste à réutiliser les représentations apprises par un grand modèle pré-entraîné (GPT, LLaMA) et à les adapter à une tâche spécifique via fine-tuning, en économisant massivement les ressources par rapport à un entraînement from scratch.
 

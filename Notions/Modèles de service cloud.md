@@ -80,7 +80,7 @@ Chaque modèle déplace la frontière de responsabilité. En IaaS, le client est
 - FaaS limite à 15 minutes d'exécution sur AWS Lambda, contrainte architecturale à intégrer dès la conception
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Modèles_de_service_cloud #flashcards/Optimisation_du_SI/Modèles_de_service_cloud
 
 Qu'est-ce que le modèle de responsabilité partagée ? :: Principe selon lequel la sécurité est une responsabilité divisée entre le fournisseur (infrastructure, hyperviseur) et le client (données, accès, configuration). La frontière varie selon le modèle (IaaS/PaaS/SaaS).
 

@@ -82,7 +82,7 @@ Circulaire de la Direction Interministérielle du Numérique (DINUM) de 2021 : l
 - Tendance : multiplication des offres "souveraines" en Europe (UK Sovereign Cloud, Gaia-X nodes nationaux)
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Cloud_souverain #flashcards/Management_et_stratégie/Cloud_souverain
 
 Qu'est-ce que SecNumCloud ? :: Référentiel de qualification de l'ANSSI pour les offres cloud souveraines. Impose l'hébergement en UE, un opérateur de droit français sans subordination étrangère, des audits réguliers. Le plus haut niveau de garantie souveraine en France.
 
