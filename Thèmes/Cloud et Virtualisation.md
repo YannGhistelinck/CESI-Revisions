@@ -2,7 +2,7 @@
 type: thème
 statut: pas vu
 ---
-![[Penser_le_cloud_comme_un_stratège.m4a]]
+![[Thème 3 — Cloud et Virtualisation.m4a]]
 # Cloud et Virtualisation
 
 ## Présentation
