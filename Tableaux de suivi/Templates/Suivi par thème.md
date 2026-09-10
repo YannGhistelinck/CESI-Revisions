@@ -6,29 +6,27 @@ type: suivi
 
 > Progression de la révision, dérivée automatiquement du frontmatter des notions.
 > Le statut se met à jour dans la note elle-même (`statut: pas vu | vu | maîtrisé`).
-> Une notion rattachée à plusieurs thèmes apparaît dans chacun d'eux.
+> Une notion rattachée à plusieurs thèmes est comptée dans chacun d'eux.
 
 ## Progression globale
 
-```base
-filters:
-  - file.inFolder("Notions")
-properties:
-  file.name:
-    displayName: Notion
-  thèmes:
-    displayName: Thème(s)
-views:
-  - type: table
-    name: Progression globale
-    groupBy:
-      property: statut
-      direction: ASC
-    order:
-      - file.name
-      - thèmes
-    summaries:
-      file.name: Count
+> Une ligne par thème. La colonne `%` compte une notion `vu` pour moitié et `maîtrisé` pour 1.
+> Ce tableau utilise Dataview : Bases ne sait pas encore éclater une propriété de type liste
+> en une ligne par valeur (une ligne = un fichier).
+
+```dataview
+TABLE
+  length(rows) AS "Notions",
+  length(filter(rows, (r) => r.statut = "maîtrisé")) AS "Maîtrisé",
+  length(filter(rows, (r) => r.statut = "vu")) AS "Vu",
+  length(filter(rows, (r) => r.statut = "pas vu")) AS "Pas vu",
+  round(100 * (length(filter(rows, (r) => r.statut = "maîtrisé"))
+             + 0.5 * length(filter(rows, (r) => r.statut = "vu")))
+        / length(rows)) + " %" AS "%"
+FROM "Notions"
+FLATTEN thèmes AS theme
+GROUP BY theme AS "Thème"
+SORT key ASC
 ```
 
 ---
@@ -57,6 +55,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -85,6 +85,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -113,6 +115,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -141,6 +145,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -169,6 +175,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -197,6 +205,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -225,6 +235,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -253,6 +265,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -281,6 +295,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -309,6 +325,8 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```
 
 ---
@@ -337,4 +355,6 @@ views:
     sort:
       - property: file.name
         direction: ASC
+    summaries:
+      file.name: Count
 ```

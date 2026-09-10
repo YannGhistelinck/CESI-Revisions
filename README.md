@@ -14,7 +14,10 @@ Vault Obsidian de révisions pour le Grand Oral du CESI (certification niveau 7,
 1. Installer [Obsidian](https://obsidian.md/) — **version 1.9 minimum** (les tableaux de notions utilisent le plugin interne *Bases*)
 2. Cloner ce repo : `git clone git@github.com:YannGhistelinck/CESI-Revisions.git`
 3. Ouvrir le dossier cloné comme vault dans Obsidian (Ouvrir un vault > Ouvrir un dossier existant)
-4. Activer le plugin **Spaced Repetition** : Paramètres > Plugins tiers > Activer "Spaced Repetition" (il est déjà installé dans le repo)
+4. Activer les plugins tiers (Paramètres > Plugins tiers) :
+   - **Spaced Repetition** — flashcards (déjà installé dans le repo)
+   - **Dataview** — requis par le tableau de progression de `Suivi par thème.md`
+     (Bases couvre tout le reste ; il ne sait pas encore agréger une propriété de type liste)
 5. Copier les templates de suivi pour ta progression personnelle :
    - Copier `Tableaux de suivi/Templates/Suivi par thème.md` → `Tableaux de suivi/Suivi par thème.md`
    - Copier `Tableaux de suivi/Templates/Suivi par notion.md` → `Tableaux de suivi/Suivi par notion.md`

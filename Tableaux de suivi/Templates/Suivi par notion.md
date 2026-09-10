@@ -10,7 +10,8 @@ type: suivi
 
 ```base
 filters:
-  - file.inFolder("Notions")
+  and:
+    - file.inFolder("Notions")
 properties:
   file.name:
     displayName: Notion
