@@ -4,7 +4,7 @@ thèmes:
   - IA
   - Mobilité
 statut: pas vu
-dernière_révision: 2026-09-08
+dernière_révision: 
 ---
 
 # Edge AI

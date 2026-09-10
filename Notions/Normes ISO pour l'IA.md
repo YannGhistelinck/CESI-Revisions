@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - IA
 statut: pas vu
-dernière_révision: 2026-09-08
+dernière_révision: 
 ---
 
 # Normes ISO pour l'IA

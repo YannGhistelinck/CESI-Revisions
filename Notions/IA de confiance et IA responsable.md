@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - IA
 statut: pas vu
-dernière_révision: 2026-09-08
+dernière_révision: 
 ---
 
 # IA de confiance et IA responsable

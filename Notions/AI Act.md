@@ -5,7 +5,7 @@ thèmes:
   - Cybersécurité
   - Big DATA
 statut: pas vu
-dernière_révision: 2026-09-08
+dernière_révision: 
 ---
 
 # AI Act
