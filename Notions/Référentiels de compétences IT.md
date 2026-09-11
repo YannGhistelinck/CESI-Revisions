@@ -114,7 +114,7 @@ La cartographie Numeum structure les métiers en familles :
 ---
 
 ## Flashcards
-#flashcards/Management_et_stratégie/Référentiels_de_compétences_IT
+#flashcards
 
 Qu'est-ce que SFIA et combien de compétences décrit-il ? :: SFIA (Skills Framework for the Information Age) est un référentiel international décrivant 121 compétences sur 7 niveaux de responsabilité, utilisé dans plus de 180 pays.
 

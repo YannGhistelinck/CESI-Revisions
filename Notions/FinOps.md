@@ -74,7 +74,7 @@ Le FinOps réduit les coûts en supprimant les ressources inutilisées. Ces mêm
 - L'IA générative (LLMOps) crée une nouvelle catégorie de dépenses cloud non maîtrisées, demandant des extensions des pratiques FinOps
 
 ## Flashcards
-#flashcards/SI_et_environnement/FinOps #flashcards/Cloud_et_Virtualisation/FinOps #flashcards/Optimisation_du_SI/FinOps
+#flashcards
 
 Quelles sont les 3 phases du cycle FinOps ? :: Informer (visibilité sur les coûts) – Optimiser (réduire les gaspillages) – Opérer (institutionnaliser les pratiques). Elles impliquent les équipes Finance, Tech et Métiers.
 

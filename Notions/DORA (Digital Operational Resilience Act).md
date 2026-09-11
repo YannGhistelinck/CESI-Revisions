@@ -5,7 +5,7 @@ thèmes:
   - Cloud et Virtualisation
   - Management et stratégie
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # DORA (Digital Operational Resilience Act)
@@ -129,7 +129,7 @@ DORA crée pour la première fois une exigence réglementaire directe sur les pr
 ---
 
 ## Flashcards
-#flashcards/Cybersécurité/DORA_Digital_Operational_Resilience_Act #flashcards/Cloud_et_Virtualisation/DORA_Digital_Operational_Resilience_Act #flashcards/Management_et_stratégie/DORA_Digital_Operational_Resilience_Act
+#flashcards
 
 Qu'est-ce que DORA et à qui s'applique-t-il ? :: Règlement UE 2022/2554 applicable depuis le 17 janvier 2025. S'applique aux entités financières (banques, assurances, prestataires d'investissement, CASP) et à leurs prestataires TIC critiques opérant en Europe.
 

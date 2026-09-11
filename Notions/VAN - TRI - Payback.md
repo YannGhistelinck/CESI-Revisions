@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Transversal
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 ## En bref
@@ -111,7 +111,7 @@ Le Payback mesure le temps nécessaire pour récupérer l'investissement initial
 ---
 
 ## Flashcards
-#flashcards/Transversal/VAN_TRI_Payback
+#flashcards
 
 Qu'est-ce que la VAN et comment l'interpréter ? :: La Valeur Actuelle Nette actualise tous les flux futurs d'un projet. **VAN > 0** = le projet crée de la valeur et doit être retenu. **VAN < 0** = le projet détruit de la valeur. Formule : VAN = −I₀ + Σ [CFₜ / (1+r)ᵗ].
 

@@ -20,30 +20,26 @@ statut: pas vu
 | 62 | Quelles démarches adopter pour assurer l'amélioration continue des services ? |
 
 ## Notions clés
-
-```base
-filters:
-  and:
-    - file.inFolder("Notions")
-    - thèmes.contains("Optimisation du SI")
-properties:
-  file.name:
-    displayName: Notion
-  statut:
-    displayName: Statut
-  dernière_révision:
-    displayName: Dernière révision
-views:
-  - type: table
-    name: Notions clés
-    order:
-      - file.name
-      - statut
-      - dernière_révision
-    sort:
-      - property: file.name
-        direction: ASC
-```
+| Notion | Statut | Dernière révision |
+|--------|--------|-------------------|
+| [[Système d'Information (SI)]] | pas vu | |
+| [[ChatOps]] | pas vu | |
+| [[KPI et pilotage de la performance]] | pas vu | |
+| [[Métriques de pilotage projet]] | pas vu | |
+| [[Frameworks de gestion de projet]] | pas vu | |
+| [[SLA - SLO - SLI]] | pas vu | |
+| [[MTTR - MTBF]] | pas vu | |
+| [[Veille stratégique et technologique]] | pas vu | |
+| [[Signal faible et OSINT]] | pas vu | |
+| [[VUCA et benchmark]] | pas vu | |
+| [[Amélioration continue (PDCA - Lean - Kaizen)]] | pas vu | |
+| [[Value Stream Mapping]] | pas vu | |
+| [[VeriSM]] | pas vu | |
+| [[Outils ITSM]] | pas vu | |
+| [[Orchestration et automatisation]] | pas vu | |
+| [[ISO 9001 et qualité]] | pas vu | |
+| [[Acteurs cybersécurité (éditeurs)]] | pas vu | |
+| [[Sauvegarde et solutions de protection des données]] | pas vu | |
 
 ## Questions types du jury
 - Comment optimiser un SI sans passer par le cloud ?

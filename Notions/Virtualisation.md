@@ -91,7 +91,7 @@ La VM virtualise le matériel complet (OS inclus). Le conteneur (Docker, Kuberne
 - Nutanix revendique 25 000 clients enterprise dans 185 pays (Nutanix, 2023)
 
 ## Flashcards
-#flashcards/Cloud_et_Virtualisation/Virtualisation
+#flashcards
 
 Quelle est la différence entre un hyperviseur de type 1 et de type 2 ? :: Type 1 (bare-metal) : s'exécute directement sur le matériel physique, sans OS hôte (ex : VMware ESXi, KVM, Hyper-V). Type 2 (hosted) : s'exécute comme une application au-dessus d'un OS hôte (ex : VirtualBox, VMware Workstation). Type 1 est plus performant, type 2 plus simple à installer.
 

@@ -80,7 +80,7 @@ Le principe **shift-left** consiste à intégrer SAST dès l'IDE (plugins) et da
 - **48 % des organisations** ont intégré le SAST dans leur pipeline CI/CD en 2023 (Gartner DevSecOps Survey).
 
 ## Flashcards
-#flashcards/Développement/Analyse_de_code_SAST_DAST #flashcards/Cybersécurité/Analyse_de_code_SAST_DAST
+#flashcards
 Quelle est la différence fondamentale entre SAST et DAST ? :: **SAST** analyse le code source **sans l'exécuter** (boîte blanche, shift-left) ; **DAST** teste l'application **en cours d'exécution** en simulant des attaques externes (boîte noire).
 
 Qu'est-ce que le principe "shift-left" en sécurité applicative ? :: Intégrer les tests de sécurité le plus **tôt possible** dans le cycle de développement (dès l'IDE et le CI), pour réduire le coût de correction des vulnérabilités.

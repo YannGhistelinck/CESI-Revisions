@@ -96,7 +96,7 @@ Une banque régionale remplace ses 3 000 postes de travail physiques par Azure V
 - La **Digital Workplace souveraine** émerge en France : Citadel Team (Thales), Oodrive, suite collaborative Numerique.gouv.fr pour les administrations publiques
 
 ## Flashcards
-#flashcards/Mobilité/Digital_Workplace #flashcards/Optimisation_du_SI/Digital_Workplace
+#flashcards
 
 Qu'est-ce que la Digital Workplace ? :: L'ensemble des outils, plateformes et services numériques mis à disposition des collaborateurs pour travailler depuis n'importe quel lieu et terminal. Elle intègre communication unifiée (UCaaS), virtualisation du poste (DaaS), collaboration et gestion de l'expérience employé (DEX).
 

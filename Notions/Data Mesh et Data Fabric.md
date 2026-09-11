@@ -152,7 +152,7 @@ Modèle de consommation où les données sont exposées via des API standardisé
 - L'approche **lakehouse** (data lake + data warehouse) tend à remplacer l'opposition traditionnelle lake vs warehouse
 
 ## Flashcards
-#flashcards/Big_DATA/Data_Mesh_et_Data_Fabric
+#flashcards
 
 Quels sont les 4 principes fondamentaux du Data Mesh selon Zhamak Dehghani ? :: 1) Domain Ownership (chaque domaine possède ses données), 2) Data as a Product (données traitées comme des produits avec SLA et contrats), 3) Self-serve Data Infrastructure (plateforme commune en libre-service), 4) Federated Computational Governance (standards centraux appliqués décentralisés).
 

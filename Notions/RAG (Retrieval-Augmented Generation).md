@@ -101,7 +101,7 @@ Le RAG est la réponse pragmatique aux deux limitations majeures des LLM : les h
 ---
 
 ## Flashcards
-#flashcards/IA/RAG_Retrieval_Augmented_Generation
+#flashcards
 
 Qu'est-ce que le RAG et à quel problème répond-il ? :: Le RAG (Retrieval-Augmented Generation) est une architecture qui enrichit le prompt d'un LLM avec des documents récupérés en temps réel depuis une base de connaissances. Il répond aux hallucinations et à la péremption des connaissances des LLM.
 

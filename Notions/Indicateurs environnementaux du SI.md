@@ -102,7 +102,7 @@ Méthodologie développée par l'ADEME et GreenIT.fr pour évaluer l'empreinte c
 - La loi REEN (2021) impose aux datacenters > 500 kW de publier leur PUE et WUE
 
 ## Flashcards
-#flashcards/SI_et_environnement/Indicateurs_environnementaux_du_SI #flashcards/Management_et_stratégie/Indicateurs_environnementaux_du_SI #flashcards/Optimisation_du_SI/Indicateurs_environnementaux_du_SI
+#flashcards
 
 Qu'est-ce que le PUE et comment se calcule-t-il ? :: PUE = Énergie totale datacenter / Énergie équipements IT. Un PUE de 1,0 est idéal, 2,0 signifie 50 % de pertes. Norme ISO/IEC 30134-2.
 

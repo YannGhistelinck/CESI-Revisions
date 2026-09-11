@@ -82,7 +82,7 @@ dernière_révision:
 - Wazuh compte plus de 20 millions de téléchargements et est déployé dans plus de 1 000 organisations dans le monde.
 
 ## Flashcards
-#flashcards/Cybersécurité/SIEM #flashcards/IA/SIEM
+#flashcards
 Qu'est-ce qu'un SIEM ? :: Plateforme centralisant la collecte, la normalisation, la corrélation et l'analyse des logs et événements de sécurité du SI. Coeur du SOC, il détecte les menaces en temps réel et conserve les journaux pour forensique et conformité.
 
 Qu'est-ce que la corrélation d'événements dans un SIEM ? :: Mécanisme croisant des événements de sources différentes pour détecter des comportements malveillants invisibles individuellement. Ex. : connexion Paris + connexion Shanghai dans la même minute = "impossible travel".

@@ -88,7 +88,7 @@ Les équipes de développement sont responsables de la sécurité de leurs servi
 - Le Cyber Resilience Act (CRA) européen impose la sécurité by design et by default pour tous les produits numériques dès 2027.
 
 ## Flashcards
-#flashcards/Développement/DevSecOps #flashcards/Cybersécurité/DevSecOps #flashcards/Management_et_stratégie/DevSecOps
+#flashcards
 - Qu'est-ce que le "shift-left security" ? :: Le principe de déplacer les contrôles de sécurité le plus tôt possible dans le cycle de développement (dès le code, voire la conception) plutôt qu'en fin de chaîne, réduisant le coût et le délai de remédiation.
 - Quelle est la différence entre SAST et DAST ? :: SAST (Static Application Security Testing) analyse le code source sans l'exécuter pour détecter des vulnérabilités. DAST (Dynamic Application Security Testing) teste l'application en cours d'exécution, simulant le comportement d'un attaquant.
 - Qu'est-ce que le SCA (Software Composition Analysis) ? :: Un type d'analyse qui examine les bibliothèques et dépendances tierces d'une application pour détecter des vulnérabilités connues (CVE) et des problèmes de licence.

@@ -75,7 +75,7 @@ Architecture dans laquelle une même instance d'application ou d'infrastructure 
 - Kubernetes est devenu le standard de facto pour l'orchestration de conteneurs en environnement hybride et multi-cloud
 
 ## Flashcards
-#flashcards/Cloud_et_Virtualisation/Modèles_de_déploiement_cloud #flashcards/Optimisation_du_SI/Modèles_de_déploiement_cloud
+#flashcards
 
 Quelle est la différence entre élasticité et scalabilité ? :: La scalabilité est la capacité à monter en charge (scale-out/up). L'élasticité inclut aussi la capacité à réduire les ressources automatiquement quand la charge baisse (scale-in), sans intervention manuelle.
 

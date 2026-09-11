@@ -87,7 +87,7 @@ Define → Produce → Provide → Respond (boucle continue)
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/VeriSM
+#flashcards
 
 Que signifie l'acronyme VeriSM ? :: Value-driven, Evolving, Responsive, Integrated Service Management — un méta-cadre de gestion des services orienté valeur.
 

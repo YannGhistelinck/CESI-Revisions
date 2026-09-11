@@ -78,7 +78,7 @@ Une landing zone est une architecture cloud préconfigurée et sécurisée serva
 - Acquisition de Wiz par Google pour 23 Md$ en 2024 : signal fort de la centralité de ce marché
 
 ## Flashcards
-#flashcards/Cloud_et_Virtualisation/Sécurité_cloud_CSPM_CASB_CNAPP #flashcards/Management_et_stratégie/Sécurité_cloud_CSPM_CASB_CNAPP
+#flashcards
 
 Qu'est-ce que le CSPM ? :: Cloud Security Posture Management. Outil qui analyse en continu les configurations cloud pour détecter les écarts par rapport aux bonnes pratiques et benchmarks de sécurité (CIS, NIST).
 

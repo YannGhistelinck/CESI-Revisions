@@ -99,7 +99,7 @@ Stratégies de gestion :
 - La **transformation digitale** accélère l'accumulation de dette : les projets livrés en urgence pendant le COVID-19 ont généré une vague de dette technique sans précédent.
 
 ## Flashcards
-#flashcards/Développement/Dette_technique #flashcards/Management_et_stratégie/Dette_technique
+#flashcards
 Qui a introduit la métaphore de la dette technique et en quelle année ? :: **Ward Cunningham**, co-auteur du Manifeste Agile, en **1992** lors d'une conférence OOPSLA.
 
 Quels sont les 4 quadrants de la taxonomie de la dette technique (Fowler) ? :: Délibérée/Imprudente ("on n'a pas le temps"), Délibérée/Prudente ("on livre et on corrige après"), Accidentelle/Imprudente ("on ne sait pas coder"), Accidentelle/Prudente ("on a fait de notre mieux").

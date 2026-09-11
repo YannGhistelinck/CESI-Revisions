@@ -88,7 +88,7 @@ Les LLM ont déclenché une rupture technologique en 2022-2023 (ChatGPT, GPT-4, 
 ---
 
 ## Flashcards
-#flashcards/IA/IA_générative_et_LLM #flashcards/Big_DATA/IA_générative_et_LLM
+#flashcards
 
 Qu'est-ce qu'un LLM et sur quelle architecture repose-t-il ? :: Un Large Language Model est un modèle de langage à très grande échelle (milliards de paramètres) basé sur l'architecture Transformer (2017). Il prédit le token suivant dans une séquence, entraîné sur des corpus massifs de texte.
 

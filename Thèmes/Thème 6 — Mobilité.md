@@ -17,30 +17,16 @@ statut: pas vu
 | 37 | Télétravail : Quels impacts pour le SI ? |
 
 ## Notions clés
-
-```base
-filters:
-  and:
-    - file.inFolder("Notions")
-    - thèmes.contains("Mobilité")
-properties:
-  file.name:
-    displayName: Notion
-  statut:
-    displayName: Statut
-  dernière_révision:
-    displayName: Dernière révision
-views:
-  - type: table
-    name: Notions clés
-    order:
-      - file.name
-      - statut
-      - dernière_révision
-    sort:
-      - property: file.name
-        direction: ASC
-```
+| Notion | Statut | Dernière révision |
+|--------|--------|-------------------|
+| [[Gestion de la mobilité (UEM)]] | pas vu | |
+| [[Politiques de terminaux (BYOD - COPE)]] | pas vu | |
+| [[Digital Workplace]] | pas vu | |
+| [[Télétravail et travail hybride]] | pas vu | |
+| [[VPN et accès distant]] | pas vu | |
+| [[Low-code - No-code]] | pas vu | |
+| [[RPA (Robotic Process Automation)]] | pas vu | |
+| [[Edge Computing]] | pas vu | |
 
 ## Questions types du jury
 - BYOD vs COPE : quel modèle choisir pour une PME et quels risques ?

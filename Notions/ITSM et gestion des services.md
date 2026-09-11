@@ -4,7 +4,7 @@ thèmes:
   - Optimisation du SI
   - Management et stratégie
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # ITSM et gestion des services
@@ -119,7 +119,7 @@ L'ITSM est le moteur opérationnel de la DSI. Il garantit la continuité de serv
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/ITSM_et_gestion_des_services #flashcards/Management_et_stratégie/ITSM_et_gestion_des_services
+#flashcards
 
 Quelle est la différence entre SLA, OLA et UC ? :: SLA : engagement DSI → client/métier. OLA : accord interne entre équipes IT. UC : contrat avec un fournisseur externe. Ensemble, ils forment la chaîne des engagements de service.
 

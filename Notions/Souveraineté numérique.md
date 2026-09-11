@@ -91,7 +91,7 @@ Initiative européenne lancée en 2020 (France + Allemagne) visant à créer un 
 - TikTok a lancé le projet "Clover" en 2023 pour stocker les données des utilisateurs européens en Europe (Irlande, Norvège) et couper l'accès de ByteDance (Chine) à ces données — réponse aux préoccupations de souveraineté.
 
 ## Flashcards
-#flashcards/Big_DATA/Souveraineté_numérique #flashcards/Cloud_et_Virtualisation/Souveraineté_numérique #flashcards/Management_et_stratégie/Souveraineté_numérique
+#flashcards
 
 Quelle est la différence entre souveraineté des données et data residency ? :: La data residency désigne la localisation physique des données (ex. : datacenter en France). La souveraineté des données désigne la juridiction applicable et la garantie que les données ne sont accessibles qu'aux parties autorisées. Un opérateur américain peut héberger des données en France (data residency = FR) mais rester soumis au CLOUD Act (souveraineté = insuffisante).
 

@@ -4,7 +4,7 @@ thèmes:
   - Management et stratégie
   - Développement
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # SAFe et agilité à l'échelle
@@ -108,7 +108,7 @@ Passer de l'agilité d'équipe à l'agilité organisationnelle est le défi maje
 ---
 
 ## Flashcards
-#flashcards/Management_et_stratégie/SAFe_et_agilité_à_l_échelle #flashcards/Développement/SAFe_et_agilité_à_l_échelle
+#flashcards
 
 Qu'est-ce qu'un ART dans SAFe ? :: Agile Release Train : groupe de 50 à 125 personnes (plusieurs équipes Agile) synchronisées sur un rythme commun (PI de 8-12 semaines), organisées autour d'un flux de valeur.
 

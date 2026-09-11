@@ -5,7 +5,7 @@ thèmes:
   - Cybersécurité
   - Big DATA
 statut: pas vu
-dernière_révision: 
+dernière_révision: 2026-09-08
 ---
 
 # AI Act
@@ -87,7 +87,7 @@ Espace contrôlé permettant aux entreprises de tester des systèmes IA innovant
 ---
 
 ## Flashcards
-#flashcards/IA/AI_Act #flashcards/Cybersécurité/AI_Act #flashcards/Big_DATA/AI_Act
+#flashcards
 
 **Quand l'AI Act est-il entré en vigueur ?** :: Août 2024, avec une application progressive : interdictions en février 2025, obligations haut risque en août 2026, pleine application en 2027.
 

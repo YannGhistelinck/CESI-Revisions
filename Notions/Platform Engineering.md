@@ -70,7 +70,7 @@ L'équipe Platform Engineering adopte une approche produit : elle a ses propres 
 - Le "cognitive load" est identifié comme le principal obstacle à la productivité des développeurs (State of DevOps 2023).
 
 ## Flashcards
-#flashcards/Développement/Platform_Engineering #flashcards/Optimisation_du_SI/Platform_Engineering
+#flashcards
 - Qu'est-ce que le Platform Engineering ? :: La discipline consistant à concevoir et opérer une plateforme interne (IDP) qui met à disposition des développeurs des capacités en libre-service pour réduire leur charge cognitive et accélérer la livraison.
 - Quelle est la différence entre une IDP et un Internal Developer Portal ? :: L'IDP est l'ensemble des capacités techniques (infrastructure, CI/CD, secrets) ; le portail est l'interface UI (souvent Backstage) qui les expose aux développeurs.
 - Qu'est-ce qu'un "Golden Path" ? :: Un template pré-approuvé et sécurisé pour créer un nouveau service (repo Git, pipeline CI/CD, namespace K8s, monitoring) en respectant les standards de l'organisation.

@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Management et stratégie
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # Gouvernance IT
@@ -92,7 +92,7 @@ La gouvernance IT s'articule autour de cinq domaines clés (ISO 38500 et COBIT 2
 ---
 
 ## Flashcards
-#flashcards/Management_et_stratégie/Gouvernance_IT
+#flashcards
 
 Qu'est-ce que COBIT 2019 ? :: Référentiel de gouvernance IT de l'ISACA, 40 objectifs organisés en 6 domaines, intégrant un modèle de maturité de 0 à 5 et des facteurs de conception pour adapter le cadre au contexte de l'entreprise.
 

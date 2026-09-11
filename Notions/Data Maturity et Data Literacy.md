@@ -137,7 +137,7 @@ Framework de l'EDM Council, très utilisé dans la finance et les industries ré
 - La pandémie COVID a accéléré la prise de conscience : 78 % des CDO ont vu leur budget augmenter post-2020 (NewVantage Partners)
 
 ## Flashcards
-#flashcards/Big_DATA/Data_Maturity_et_Data_Literacy
+#flashcards
 
 Quels sont les 5 niveaux du modèle de maturité data Gartner ? :: Aware (reconnaissance de la valeur des données), Reactive (exploitation sur problème), Proactive (anticipation, KPIs réguliers), Managed (gouvernance formelle, qualité mesurée), Effective (IA/ML opérationnels, données au cœur de chaque décision).
 

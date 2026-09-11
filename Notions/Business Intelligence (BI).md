@@ -125,7 +125,7 @@ Outils : **dbt** (transformation + sémantique), **AtScale**, **Cube.dev**
 - **Apache Superset** est devenu le standard de facto des data stacks modernes (dbt + Airflow + Superset)
 
 ## Flashcards
-#flashcards/Big_DATA/Business_Intelligence_BI
+#flashcards
 
 Quelle est la différence entre OLTP et OLAP ? :: OLTP (Online Transaction Processing) est optimisé pour les transactions unitaires rapides (INSERT, UPDATE) — ex. base de commandes. OLAP (Online Analytical Processing) est optimisé pour les requêtes analytiques agrégées (SUM, GROUP BY) — ex. datawarehouse pour les rapports de vente.
 

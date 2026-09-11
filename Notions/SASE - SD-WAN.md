@@ -82,7 +82,7 @@ Intermédiaire qui facilite l'utilisation de services cloud entre un client et l
 - L'adoption du ZTNA comme remplacement du VPN progresse : 31 % des entreprises ont déployé ZTNA en 2023 vs 10 % en 2021
 
 ## Flashcards
-#flashcards/Cloud_et_Virtualisation/SASE_SD_WAN #flashcards/Mobilité/SASE_SD_WAN #flashcards/Management_et_stratégie/SASE_SD_WAN
+#flashcards
 
 Qu'est-ce que le SASE et par qui a-t-il été défini ? :: Secure Access Service Edge. Cadre architectural défini par Gartner en 2019 qui converge SD-WAN (réseau) et SSE (sécurité cloud : SWG, CASB, ZTNA, FWaaS) dans un service cloud unifié et distribué.
 

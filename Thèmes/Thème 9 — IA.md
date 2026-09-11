@@ -19,30 +19,26 @@ statut: pas vu
 | 55 | Quelle éthique pour l'intelligence artificielle ? |
 
 ## Notions clés
-
-```base
-filters:
-  and:
-    - file.inFolder("Notions")
-    - thèmes.contains("IA")
-properties:
-  file.name:
-    displayName: Notion
-  statut:
-    displayName: Statut
-  dernière_révision:
-    displayName: Dernière révision
-views:
-  - type: table
-    name: Notions clés
-    order:
-      - file.name
-      - statut
-      - dernière_révision
-    sort:
-      - property: file.name
-        direction: ASC
-```
+| Notion | Statut | Dernière révision |
+|--------|--------|-------------------|
+| [[Intelligence Artificielle — fondamentaux]] | pas vu | |
+| [[IA générative et LLM]] | pas vu | |
+| [[RAG (Retrieval-Augmented Generation)]] | pas vu | |
+| [[Fine-tuning et prompt engineering]] | pas vu | |
+| [[AIOps]] | pas vu | |
+| [[MLOps - DataOps]] | pas vu | |
+| [[IA et marketing]] | pas vu | |
+| [[Chatbots et assistants virtuels]] | pas vu | |
+| [[Métriques marketing et IA]] | pas vu | |
+| [[Biais algorithmiques]] | pas vu | |
+| [[Audit algorithmique]] | pas vu | |
+| [[IA de confiance et IA responsable]] | pas vu | |
+| [[Éthique de l'IA]] | pas vu | |
+| [[AI Act]] | pas vu | |
+| [[Cadre international de l'IA]] | pas vu | |
+| [[Normes ISO pour l'IA]] | pas vu | |
+| [[Shadow AI]] | pas vu | |
+| [[Edge AI]] | pas vu | |
 
 ## Questions types du jury
 - Qu'est-ce qu'un LLM et comment fonctionne l'IA générative ?

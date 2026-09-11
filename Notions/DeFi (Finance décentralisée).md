@@ -103,7 +103,7 @@ La DeFi vise à rendre accessibles à tous — sans KYC ni compte bancaire — l
 ---
 
 ## Flashcards
-#flashcards/Blockchain/DeFi_Finance_décentralisée
+#flashcards
 
 Qu'est-ce que le TVL en DeFi ? :: Total Value Locked : valeur totale des actifs déposés (bloqués en collatéral ou en liquidité) dans les smart contracts d'un protocole DeFi.
 

@@ -74,7 +74,7 @@ Cas réel : en 2024, un employé de la finance d'Arup (HK) a viré 25 M$ après 
 - Coût moyen d'une fraude BEC pour une entreprise : 125 000 $ (Verizon DBIR 2024).
 
 ## Flashcards
-#flashcards/Cybersécurité/Ingénierie_sociale #flashcards/IA/Ingénierie_sociale
+#flashcards
 Qu'est-ce que l'ingénierie sociale ? :: Ensemble de techniques de manipulation psychologique visant à amener une personne à divulguer des informations ou réaliser des actions compromettant la sécurité, sans exploit technique.
 
 Quels sont les 3 principaux leviers psychologiques exploités ? :: Autorité (usurpation d'identité), urgence (pression temporelle), et confiance/similarité (faux collègue, faux contexte partagé).

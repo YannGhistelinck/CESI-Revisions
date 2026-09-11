@@ -107,7 +107,7 @@ Les SI modernes sont composés de centaines de microservices, pipelines de donn�
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/Orchestration_et_automatisation #flashcards/Développement/Orchestration_et_automatisation
+#flashcards
 
 Quelle est la différence entre automatisation et orchestration ? :: L'automatisation exécute une tâche isolée sans intervention humaine ; l'orchestration coordonne plusieurs systèmes et tâches automatisées pour exécuter des workflows complexes de bout en bout.
 

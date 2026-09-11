@@ -158,7 +158,7 @@ Utilisation des features   →
 ---
 
 ## Flashcards
-#flashcards/IA/Métriques_marketing_et_IA
+#flashcards
 
 Qu'est-ce que le CLV et comment l'IA le transforme-t-il ? :: Le CLV (Customer Lifetime Value) est la valeur totale des revenus générés par un client sur toute la relation. L'IA le transforme de métrique rétrospective en prédiction : modèles probabilistes (BG/NBD) et ML permettent d'estimer le CLV futur à 6/12/24 mois pour orienter budget et actions de rétention.
 

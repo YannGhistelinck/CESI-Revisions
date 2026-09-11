@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Transversal
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 ## En bref
@@ -117,7 +117,7 @@ Au Grand Oral CESI, SWOT et PESTEL permettent de :
 ---
 
 ## Flashcards
-#flashcards/Transversal/SWOT_PESTEL
+#flashcards
 
 Que représentent les 4 lettres de SWOT ? :: **S**trengths (Forces internes), **W**eaknesses (Faiblesses internes), **O**pportunities (Opportunités externes), **T**hreats (Menaces externes). Il croise axe interne/externe et positif/négatif.
 

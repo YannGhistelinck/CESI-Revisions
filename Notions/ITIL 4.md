@@ -4,7 +4,7 @@ thèmes:
   - Management et stratégie
   - Optimisation du SI
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # ITIL 4
@@ -104,7 +104,7 @@ Le SVS est le modèle global d'ITIL 4. Il décrit comment toutes les composantes
 ---
 
 ## Flashcards
-#flashcards/Management_et_stratégie/ITIL_4 #flashcards/Optimisation_du_SI/ITIL_4
+#flashcards
 
 Qu'est-ce que le SVS dans ITIL 4 ? :: Le Système de Valeur des Services : cadre global décrivant comment toutes les composantes d'une organisation (opportunités, CVS, pratiques, principes, gouvernance, amélioration continue) travaillent ensemble pour créer de la valeur.
 

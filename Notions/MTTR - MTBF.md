@@ -142,7 +142,7 @@ Le Chaos Engineering (Netflix, Google) consiste à injecter délibérément des 
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/MTTR_MTBF #flashcards/Cybersécurité/MTTR_MTBF
+#flashcards
 
 Quelle est la formule de la disponibilité (Availability) à partir de MTBF et MTTR ? :: Availability = MTBF / (MTBF + MTTR). Exemple : MTBF=1000h, MTTR=1h → 99,9 % de disponibilité.
 

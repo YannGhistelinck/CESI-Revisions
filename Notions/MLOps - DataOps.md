@@ -122,7 +122,7 @@ Le **MLOps** (Machine Learning Operations) est l'ensemble des pratiques, outils 
 ---
 
 ## Flashcards
-#flashcards/IA/MLOps_DataOps #flashcards/Développement/MLOps_DataOps #flashcards/Big_DATA/MLOps_DataOps
+#flashcards
 
 Qu'est-ce que le MLOps et pourquoi est-il nécessaire ? :: Le MLOps applique les pratiques DevOps au cycle de vie des modèles ML (développement, déploiement, monitoring, ré-entraînement) pour industrialiser l'IA. Il est nécessaire car 87 % des projets ML n'atteignent pas la production sans ces pratiques.
 

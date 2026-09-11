@@ -64,7 +64,7 @@ Pratique issue du croisement DevOps / FinOps / Green IT : mesurer et réduire l'
 - Seules 14 % des entreprises françaises mesurent l'empreinte de leur SI (Cigref/Wavestone 2023)
 
 ## Flashcards
-#flashcards/SI_et_environnement/Sobriété_numérique #flashcards/Management_et_stratégie/Sobriété_numérique
+#flashcards
 
 Quelle est la différence entre Green IT 1.0 et Green IT 2.0 ? :: Green IT 1.0 = optimiser l'infrastructure numérique (datacenter, serveurs, PUE). Green IT 2.0 / NR = étendre à tout le cycle de vie (terminaux, usages, achats, écoconception logicielle).
 

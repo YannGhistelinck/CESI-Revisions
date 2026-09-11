@@ -131,7 +131,7 @@ Le rattachement à la Direction Générale est la **tendance de fond** recommand
 ---
 
 ## Flashcards
-#flashcards/Management_et_stratégie/RSSI_CISO #flashcards/Cybersécurité/RSSI_CISO
+#flashcards
 
 Quelles sont les trois grandes catégories de missions du RSSI ? :: Stratégie & Gouvernance (PSSI, conformité), Opérations (SOC, gestion des incidents), et Communication (reporting COMEX, gestion de crise).
 

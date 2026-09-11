@@ -21,15 +21,15 @@ type: dashboard
 
 ## Transversal (Management / Gestion de projet)
 
-| Notion                     |
-| -------------------------- |
-| [[AMDEC]]                  |
-| [[VAN - TRI - Payback]]    |
-| [[Matrice de Kraljic]]     |
+| Notion |
+|--------|
+| [[AMDEC]] |
+| [[VAN - TRI - Payback]] |
+| [[Matrice de Kraljic]] |
 | [[Conduite du changement]] |
-| [[Méthode MoSCoW]]         |
-| [[SWOT - PESTEL]]          |
-| [[Scrum]]                  |
+| [[Méthode MoSCoW]] |
+| [[SWOT - PESTEL]] |
+| [[Scrum]] |
 
 ## Références
 
@@ -37,8 +37,8 @@ type: dashboard
 
 ## Suivi
 
-- [[Tableaux de suivi/Suivi par thème]] — Progression par thème
-- [[Tableaux de suivi/Suivi par notion]] — Vue à plat de toutes les notions
+- [[Suivi par thème]] — Progression par thème
+- [[Suivi par notion]] — Vue à plat de toutes les notions
 
 ## Outils
 

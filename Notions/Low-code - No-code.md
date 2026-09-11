@@ -99,7 +99,7 @@ Un constructeur aéronautique utilise Mendix pour créer une application de repo
 - Risque émergent : les applications low-code créées par les citizen developers sont souvent **non testées, non documentées et sans stratégie de continuité** — enjeu de gouvernance pour les DSI
 
 ## Flashcards
-#flashcards/Mobilité/Low_code_No_code #flashcards/Développement/Low_code_No_code #flashcards/Big_DATA/Low_code_No_code
+#flashcards
 
 Quelle est la différence entre low-code et no-code ? :: Le low-code permet d'accélérer le développement avec des interfaces visuelles mais nécessite encore des développeurs pour la logique complexe. Le no-code permet à des non-développeurs (citizen developers) de créer des applications complètes sans écrire de code.
 

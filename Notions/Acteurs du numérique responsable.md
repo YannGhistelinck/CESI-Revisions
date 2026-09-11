@@ -99,7 +99,7 @@ Programme de formation en ligne (MOOC) dédié au numérique responsable, dével
 - Le Cigref regroupe les DSI de plus de 90 % des entreprises du CAC40
 
 ## Flashcards
-#flashcards/SI_et_environnement/Acteurs_du_numérique_responsable
+#flashcards
 
 Quel est le rôle du Shift Project dans le numérique responsable ? :: Think tank de référence sur la décarbonation. Il a produit le rapport "Lean ICT" (2018), premier rapport majeur sur l'empreinte carbone du numérique, et continue de publier des données et des recommandations sur l'impact environnemental du numérique.
 

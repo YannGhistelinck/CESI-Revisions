@@ -18,30 +18,24 @@ statut: pas vu
 | 5 | Est-il possible de rendre son système d'information éco-responsable ? |
 
 ## Notions clés
-
-```base
-filters:
-  and:
-    - file.inFolder("Notions")
-    - thèmes.contains("SI et environnement")
-properties:
-  file.name:
-    displayName: Notion
-  statut:
-    displayName: Statut
-  dernière_révision:
-    displayName: Dernière révision
-views:
-  - type: table
-    name: Notions clés
-    order:
-      - file.name
-      - statut
-      - dernière_révision
-    sort:
-      - property: file.name
-        direction: ASC
-```
+| Notion | Statut | Dernière révision |
+|--------|--------|-------------------|
+| [[Indicateurs environnementaux du SI]] | pas vu | |
+| [[Analyse du Cycle de Vie (ACV)]] | pas vu | |
+| [[Technologies de stockage]] | pas vu | |
+| [[Data Lifecycle Management]] | pas vu | |
+| [[Refroidissement des datacenters]] | pas vu | |
+| [[Infrastructure des datacenters]] | pas vu | |
+| [[Projets innovants de datacenters]] | pas vu | |
+| [[VDI et client léger]] | pas vu | |
+| [[Sobriété numérique]] | pas vu | |
+| [[Écoconception logicielle]] | pas vu | |
+| [[Économie circulaire du numérique]] | pas vu | |
+| [[Outils de mesure d'impact environnemental]] | pas vu | |
+| [[Cadre réglementaire environnemental du SI]] | pas vu | |
+| [[Normes ISO environnementales]] | pas vu | |
+| [[FinOps]] | pas vu | |
+| [[Acteurs du numérique responsable]] | pas vu | |
 
 ## Questions types du jury
 - Quel est le PUE de votre datacenter et comment l'améliorer ?

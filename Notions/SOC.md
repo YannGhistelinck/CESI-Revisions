@@ -107,7 +107,7 @@ Une PME de 500 salariés, victime d'un ransomware en 2022, souscrit à un servic
 - L'IA générative commence à être intégrée dans les SIEM (Microsoft Copilot for Security, CrowdStrike Charlotte AI) pour aider les analystes L1 dans leur triage.
 
 ## Flashcards
-#flashcards/Cybersécurité/SOC #flashcards/IA/SOC
+#flashcards
 
 Quelle est la différence entre un MSSP et un MDR ? :: Le MSSP (Managed Security Service Provider) surveille et alerte. Le MDR (Managed Detection and Response) va plus loin : il répond activement (isolation d'endpoint, confinement réseau) et inclut du Threat Hunting. Le MDR est une évolution du MSSP vers plus d'autonomie et de proactivité.
 

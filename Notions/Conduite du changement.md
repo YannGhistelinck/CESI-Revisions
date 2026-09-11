@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Transversal
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 ## En bref
@@ -137,7 +137,7 @@ Initialement modèle des stades du deuil (1969), la courbe est appliquée aux ch
 ---
 
 ## Flashcards
-#flashcards/Transversal/Conduite_du_changement
+#flashcards
 
 Quelles sont les 3 phases du modèle de Lewin ? :: **Dégel** (déstabiliser le statu quo), **Transition** (mettre en œuvre le changement), **Regel** (ancrer les nouvelles pratiques). C'est le modèle fondateur de la conduite du changement (1947).
 

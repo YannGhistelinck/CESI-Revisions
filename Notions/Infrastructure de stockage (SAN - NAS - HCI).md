@@ -128,7 +128,7 @@ Paradigme radicalement différent : les données sont stockées sous forme d'obj
 - Le **Software-Defined Storage** (SDS) — comme Ceph — permet de s'abstraire du matériel : tendance forte chez les GAFAM et opérateurs cloud
 
 ## Flashcards
-#flashcards/Big_DATA/Infrastructure_de_stockage_SAN_NAS_HCI #flashcards/SI_et_environnement/Infrastructure_de_stockage_SAN_NAS_HCI
+#flashcards
 
 Quelle est la différence fondamentale entre SAN et NAS ? :: Le SAN offre un accès bloc (le serveur voit un disque local) via un réseau dédié haute performance. Le NAS offre un accès fichier (partage réseau) via les protocoles SMB/NFS sur le LAN. Le SAN est plus performant mais plus coûteux et complexe.
 
