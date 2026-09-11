@@ -20,29 +20,30 @@ statut: pas vu
 | 27 | La gestion des données dans un SI |
 
 ## Notions clés
-| Notion | Statut | Dernière révision |
-|--------|--------|-------------------|
-| [[Big Data — fondamentaux]] | pas vu | |
-| [[Data Lake - Data Warehouse - Lakehouse]] | pas vu | |
-| [[ETL - ELT et pipelines de données]] | pas vu | |
-| [[Écosystème Hadoop - Spark - Kafka]] | pas vu | |
-| [[Bases NoSQL]] | pas vu | |
-| [[Plateformes cloud Big Data]] | pas vu | |
-| [[Sauvegarde et reprise d'activité]] | pas vu | |
-| [[Infrastructure de stockage (SAN - NAS - HCI)]] | pas vu | |
-| [[Data Governance]] | pas vu | |
-| [[Data Maturity et Data Literacy]] | pas vu | |
-| [[Business Intelligence (BI)]] | pas vu | |
-| [[Types d'analytics]] | pas vu | |
-| [[Data Mesh et Data Fabric]] | pas vu | |
-| [[Monétisation des données]] | pas vu | |
-| [[Privacy by Design]] | pas vu | |
-| [[Profilage et surveillance]] | pas vu | |
-| [[RGPD]] | pas vu | |
-| [[Réglementations internationales sur les données]] | pas vu | |
-| [[DSA - DMA]] | pas vu | |
-| [[Normes ISO liées aux données]] | pas vu | |
-| [[Souveraineté numérique]] | pas vu | |
+
+```base
+filters:
+  and:
+    - file.inFolder("Notions")
+    - thèmes.contains("Big DATA")
+properties:
+  file.name:
+    displayName: Notion
+  statut:
+    displayName: Statut
+  dernière_révision:
+    displayName: Dernière révision
+views:
+  - type: table
+    name: Notions clés
+    order:
+      - file.name
+      - statut
+      - dernière_révision
+    sort:
+      - property: file.name
+        direction: ASC
+```
 
 ## Questions types du jury
 - Qu'est-ce que les 5V du Big Data et pourquoi sont-ils importants ?

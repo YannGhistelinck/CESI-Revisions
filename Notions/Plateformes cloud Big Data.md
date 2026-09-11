@@ -155,7 +155,7 @@ Fondé en 2013 par les créateurs d'Apache Spark (UC Berkeley). Évalué à **43
 - **Iceberg comme standard ouvert** : AWS, Google, Snowflake, Databricks supportent tous Apache Iceberg pour éviter les silos de formats.
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/Plateformes_cloud_Big_Data #flashcards/Cloud_et_Virtualisation/Plateformes_cloud_Big_Data
 
 Quelle est l'architecture distinctive de Snowflake ? :: Séparation totale du stockage (S3/Azure/GCS) et du compute (virtual warehouses élastiques et indépendants). Les warehouses peuvent être suspendus en quelques secondes, ne facturant que le temps d'utilisation réel.
 

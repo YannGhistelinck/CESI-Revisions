@@ -94,7 +94,7 @@ Processus de labellisation : auto-évaluation, puis audit de vérification. Vala
 - EcoVadis couvre plus de 100 000 entreprises notées dans 200 pays : la notation RSE devient un critère contractuel courant dans les appels d'offres
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Normes_ISO_environnementales #flashcards/Optimisation_du_SI/Normes_ISO_environnementales
 
 Quelle est la différence entre ISO 14001 et ISO 50001 ? :: ISO 14001 est un système de management de l'ensemble des impacts environnementaux (eau, déchets, émissions…). ISO 50001 est spécifiquement dédié à la performance énergétique. Les deux utilisent le cycle PDCA et sont certifiables.
 

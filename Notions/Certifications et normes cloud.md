@@ -99,7 +99,7 @@ dernière_révision:
 - La Commission européenne a exclu les fournisseurs non souverains de certains marchés publics sensibles depuis 2023.
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Certifications_et_normes_cloud
 - Quelle est la différence entre ISO 27017 et ISO 27018 ? :: ISO 27017 couvre la sécurité générale des services cloud ; ISO 27018 est spécifique à la protection des données personnelles (PII) dans le cloud, aligné avec le RGPD.
 - Qu'est-ce que SOC 2 Type II et en quoi diffère-t-il du Type I ? :: SOC 2 Type II est un audit sur une période de 6-12 mois démontrant la permanence des contrôles de sécurité ; le Type I n'évalue qu'un instant T, ce qui est moins significatif.
 - Qu'est-ce que la certification HDS et pour qui est-elle obligatoire ? :: C'est la certification française obligatoire pour tout hébergeur traitant des données de santé à caractère personnel, délivrée par des organismes accrédités COFRAC sur base ISO 27001 + référentiel HDS.

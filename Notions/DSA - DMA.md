@@ -103,7 +103,7 @@ Interdictions des gatekeepers ("don'ts") :
 - Zalando a contesté sa désignation comme VLOP devant la CJUE (2023), arguant que sa plateforme n'est pas systémique comme les GAFAM. La CJUE a maintenu sa désignation.
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/DSA_DMA #flashcards/IA/DSA_DMA
 
 Quelle est la différence fondamentale entre le DSA et le DMA ? :: Le DSA régule la responsabilité des plateformes pour les contenus illicites et protège les utilisateurs (transparence algorithmique, droits en ligne). Le DMA régule la concurrence sur les marchés numériques en imposant des obligations aux gatekeepers pour garantir des marchés équitables et contestables.
 

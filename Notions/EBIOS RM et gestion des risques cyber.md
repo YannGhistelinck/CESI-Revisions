@@ -133,7 +133,7 @@ Une DSI industrielle souhaite investir 2 M€ dans un SOC managé (MDR). Elle ut
 - La quantification financière du risque cyber (FAIR, CVSS financier) progresse : 35 % des RSSI l'utilisent désormais pour dialoguer avec leur CFO (Gartner, 2024).
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/EBIOS_RM_et_gestion_des_risques_cyber
 
 Quels sont les 5 ateliers d'EBIOS RM ? :: 1. Cadrage et socle de sécurité (périmètre, valeurs métier, biens supports) → 2. Sources de risques (couples SR/OV) → 3. Scénarios stratégiques (chemins d'attaque à haut niveau, parties prenantes) → 4. Scénarios opérationnels (détails techniques, MITRE ATT&CK) → 5. Traitement du risque (PTR, risque résiduel).
 

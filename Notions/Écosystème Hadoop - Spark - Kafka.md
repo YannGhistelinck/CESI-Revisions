@@ -155,7 +155,7 @@ Alternative à Spark pour le streaming, Flink est natif streaming (contrairement
 - **Apache Flink** connaît une adoption croissante pour les cas d'usage streaming pur, au détriment du micro-batch Spark.
 
 ## Flashcards
-#flashcards
+#flashcards/Big_DATA/Écosystème_Hadoop_Spark_Kafka
 
 Qu'est-ce que le paradigme MapReduce ? :: Modèle de traitement distribué en deux phases : Map (application d'une fonction en parallèle sur chaque nœud, production de paires clé/valeur) et Reduce (agrégation des paires de même clé en un résultat). Hadoop en est l'implémentation de référence.
 

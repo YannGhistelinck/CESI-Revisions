@@ -98,7 +98,7 @@ Le framework est organisé en 3 composants :
 - La correspondance NIST CSF ↔ NIS2 est documentée par l'ENISA, facilitant la double conformité
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/NIST_Cybersecurity_Framework
 Quelles sont les 6 fonctions du NIST CSF 2.0 ? :: GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER. La fonction GOVERN est la nouveauté du CSF 2.0 (2024), elle pilote toutes les autres.
 
 Quelle est la différence entre un profil actuel et un profil cible dans le NIST CSF ? :: Le profil actuel décrit l'état de maturité cyber actuel de l'organisation. Le profil cible définit l'état souhaité. L'écart entre les deux guide le plan d'action.

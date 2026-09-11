@@ -142,7 +142,7 @@ Le **pair programming** est une pratique XP dans laquelle **deux développeurs**
 - Le **BDD** est adopté par **34 % des équipes agiles** dans les grandes organisations (VersionOne / Digital.ai State of Agile 2023).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/TDD_BDD
 Quelles sont les 3 phases du cycle TDD et que représente chacune ? :: **Red** (écrire un test qui échoue), **Green** (écrire le minimum de code pour faire passer le test), **Refactor** (améliorer la qualité du code sans changer le comportement).
 
 Quelle est la différence entre TDD et BDD ? :: Le **TDD** se concentre sur les tests unitaires techniques ; le **BDD** (Dan North, 2006) étend le TDD en exprimant les comportements dans un **langage naturel** (Gherkin Given-When-Then) partagé avec les parties prenantes non techniques.

@@ -99,7 +99,7 @@ Alerte Datadog → #incidents (Slack)
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Optimisation_du_SI/ChatOps #flashcards/Développement/ChatOps
 
 Qu'est-ce que le ChatOps ? :: Une pratique qui centralise les opérations IT dans une plateforme de messagerie (Slack, Teams) via des bots et intégrations, rendant les actions visibles et collaboratives.
 

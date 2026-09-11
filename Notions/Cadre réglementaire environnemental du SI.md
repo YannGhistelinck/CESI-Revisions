@@ -90,7 +90,7 @@ Obligation de reporting RSE pour les grandes entreprises cotées (>500 salariés
 - Le marché du conseil CSRD est estimé à plusieurs milliards d'euros en Europe pour 2024-2026
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Cadre_réglementaire_environnemental_du_SI #flashcards/Management_et_stratégie/Cadre_réglementaire_environnemental_du_SI #flashcards/Optimisation_du_SI/Cadre_réglementaire_environnemental_du_SI
 
 Qu'est-ce que la loi REEN et à qui s'applique-t-elle ? :: Loi française de novembre 2021 sur la Réduction de l'Empreinte Environnementale du Numérique. Elle impose notamment aux communes >50 000 habitants une stratégie numérique responsable et un label de performance environnementale pour les grands datacenters.
 

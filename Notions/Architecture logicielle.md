@@ -116,7 +116,7 @@ Les ADR sont versionnés avec le code (ex. : dans `/docs/adr/`). Ils constituent
 - Les formations DDD (DDD Europe, Domain-Driven Design Crew) connaissent une croissance de **25 % par an** depuis 2018.
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Architecture_logicielle
 Quelle est la règle de dépendance fondamentale de la Clean Architecture ? :: Les dépendances de code source ne peuvent pointer que **vers l'intérieur** des cercles concentriques — jamais vers l'extérieur. Le domaine ne dépend de rien.
 
 Quelle est la différence entre l'architecture hexagonale et la Clean Architecture ? :: Conceptuellement similaires (domaine au centre, indépendance technologique), mais terminologie différente : l'hexagonale parle de **ports** (interfaces) et **adaptateurs** (implémentations), la Clean Arch de couches concentriques.

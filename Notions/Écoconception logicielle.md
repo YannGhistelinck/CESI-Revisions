@@ -73,7 +73,7 @@ Un logiciel est dit "obsosolète" quand il nécessite du matériel plus récent 
 - La loi REEN (2021) impose aux communes de plus de 50 000 habitants une stratégie NR incluant l'écoconception des services publics numériques
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Écoconception_logicielle #flashcards/Développement/Écoconception_logicielle
 
 Qu'est-ce que le RGESN ? :: Le Référentiel Général d'Écoconception de Services Numériques, publié par la DINUM et le MTE. Il comporte 79 critères organisés en 9 thématiques pour réduire l'empreinte des services numériques.
 

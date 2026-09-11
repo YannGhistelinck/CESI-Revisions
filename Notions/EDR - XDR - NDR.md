@@ -94,7 +94,7 @@ Deux modèles :
 - Microsoft Defender XDR couvre nativement 5 vecteurs : endpoint, email, identité, cloud apps, données — représentant 85 % des cas d'usage XDR pour les environnements Microsoft.
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/EDR_XDR_NDR #flashcards/Mobilité/EDR_XDR_NDR
 Qu'est-ce qu'un EDR et en quoi diffère-t-il d'un antivirus ? :: L'EDR collecte une télémétrie comportementale continue sur les endpoints et détecte les menaces par analyse comportementale/IA, sans dépendre de signatures. L'antivirus traditionnel compare les fichiers à une base de signatures connues, inefficace contre les zero-days et les attaques fileless.
 
 Qu'est-ce qu'une attaque fileless et pourquoi est-elle difficile à détecter ? :: Attaque s'exécutant directement en mémoire RAM sans écrire de fichier sur le disque. Invisible aux antivirus basés sur les fichiers. Seule une analyse comportementale des processus (EDR) permet de la détecter.

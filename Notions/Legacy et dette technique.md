@@ -84,7 +84,7 @@ Outils d'analyse statique de code : SonarQube (SQALE Rating), Coverity, Checkmar
 - Le langage COBOL fait tourner 95 % des transactions ATM et 80 % des transactions en point de vente mondiales (Micro Focus, 2019)
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Legacy_et_dette_technique #flashcards/Développement/Legacy_et_dette_technique
 
 Qui a inventé le concept de dette technique et quelle est la métaphore utilisée ? :: Ward Cunningham, en 1992. La métaphore est celle de la dette financière : un code mal conçu livré rapidement est un emprunt, dont les "intérêts" se paient en ralentissement des développements futurs.
 

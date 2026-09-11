@@ -18,24 +18,30 @@ statut: pas vu
 | 49 | Blockchain et empreinte énergétique |
 
 ## Notions clés
-| Notion | Statut | Dernière révision |
-|--------|--------|-------------------|
-| [[Blockchain — fondamentaux]] | pas vu | |
-| [[Forks et évolutions de protocole]] | pas vu | |
-| [[Mécanismes de consensus]] | pas vu | |
-| [[Smart Contracts]] | pas vu | |
-| [[Tokens et tokenisation]] | pas vu | |
-| [[DeFi (Finance décentralisée)]] | pas vu | |
-| [[Web3 et wallets]] | pas vu | |
-| [[Blockchains d'entreprise]] | pas vu | |
-| [[Interopérabilité blockchain]] | pas vu | |
-| [[Blockchain et supply chain]] | pas vu | |
-| [[RFID - NFC et IoT pour la traçabilité]] | pas vu | |
-| [[Identité décentralisée (SSI)]] | pas vu | |
-| [[Zero-Knowledge Proof (ZKP)]] | pas vu | |
-| [[Cadre juridique crypto et blockchain]] | pas vu | |
-| [[eIDAS 2.0 et identité numérique]] | pas vu | |
-| [[Impact environnemental de la blockchain]] | pas vu | |
+
+```base
+filters:
+  and:
+    - file.inFolder("Notions")
+    - thèmes.contains("Blockchain")
+properties:
+  file.name:
+    displayName: Notion
+  statut:
+    displayName: Statut
+  dernière_révision:
+    displayName: Dernière révision
+views:
+  - type: table
+    name: Notions clés
+    order:
+      - file.name
+      - statut
+      - dernière_révision
+    sort:
+      - property: file.name
+        direction: ASC
+```
 
 ## Questions types du jury
 - Qu'est-ce que la blockchain et comment fonctionne-t-elle concrètement ?

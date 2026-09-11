@@ -100,7 +100,7 @@ Règlement européen entré en vigueur en 2024. Obligations pour les fournisseur
 - HashiCorp Terraform reste l'outil IaC multi-cloud le plus utilisé malgré le changement de licence (BSL) en 2023, qui a généré OpenTofu (fork open source CNCF)
 
 ## Flashcards
-#flashcards
+#flashcards/Cloud_et_Virtualisation/Vendor_lock_in_et_réversibilité #flashcards/Optimisation_du_SI/Vendor_lock_in_et_réversibilité
 
 Quels sont les 5 mécanismes principaux du vendor lock-in cloud ? :: 1) Lock-in technique (services propriétaires), 2) Lock-in des données (egress fees), 3) Lock-in contractuel (RI, EDP), 4) Lock-in des compétences (certifications propriétaires), 5) Lock-in des intégrations (APIs propriétaires).
 

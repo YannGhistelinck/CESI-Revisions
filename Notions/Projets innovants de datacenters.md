@@ -108,7 +108,7 @@ Certaines startups (ex. Hestiia, MintGreen au Canada) commercialisent des radiat
 - Le marché des datacenters sous-marins est encore au stade R&D, aucun déploiement commercial opérationnel en 2024
 
 ## Flashcards
-#flashcards
+#flashcards/SI_et_environnement/Projets_innovants_de_datacenters #flashcards/Blockchain/Projets_innovants_de_datacenters
 
 Quel était l'objectif principal du Projet Natick de Microsoft ? :: Explorer la faisabilité de datacenters sous-marins pour bénéficier du refroidissement naturel par l'eau de mer, réduire les pannes (atmosphère contrôlée à l'azote) et se rapprocher des câbles sous-marins.
 

@@ -136,7 +136,7 @@ Un chercheur en R&D, apprenant son licenciement imminent, commence à téléchar
 - Les attaques d'ingénierie sociale ciblant spécifiquement les dirigeants (whaling, BEC) ont augmenté de 65 % en 2023 (FBI IC3).
 
 ## Flashcards
-#flashcards
+#flashcards/Cybersécurité/Sensibilisation_et_facteur_humain #flashcards/Mobilité/Sensibilisation_et_facteur_humain
 
 Qu'est-ce qu'un Security Champion et quel est son rôle ? :: Référent sécurité bénévole au sein d'une équipe métier ou de développement. Il n'est pas un expert sécurité mais joue le rôle d'ambassadeur : relai entre DSI/RSSI et équipes, premier contact pour les questions sécurité, participation aux revues de code. Particulièrement efficace en DevSecOps.
 

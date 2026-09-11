@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Management et stratégie
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 # TOGAF et architecture d'entreprise
@@ -105,7 +105,7 @@ Stockage des livrables : paysage de l'architecture, modèles de référence, sta
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Management_et_stratégie/TOGAF_et_architecture_d_entreprise
 
 Qu'est-ce que l'ADM de TOGAF ? :: Architecture Development Method : méthode itérative en 9 phases (A à H + gestion des exigences) pour développer et gérer l'architecture d'entreprise, de la vision jusqu'à la gouvernance de l'implémentation.
 

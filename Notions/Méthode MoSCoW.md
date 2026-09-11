@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Transversal
 statut: pas vu
-dernière_révision: null
+dernière_révision: 
 ---
 
 ## En bref
@@ -101,7 +101,7 @@ Les Must have couvrent 55 % de la capacité du sprint (flux comptables, paie), l
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Transversal/Méthode_MoSCoW
 
 Que signifie l'acronyme MoSCoW ? :: **M**ust have (obligatoire), **S**hould have (important), **C**ould have (souhaitable), **W**on't have this time (exclu de la version actuelle). La casse des lettres reflète l'acronyme : les O sont en minuscule pour former le mot "Moscow".
 

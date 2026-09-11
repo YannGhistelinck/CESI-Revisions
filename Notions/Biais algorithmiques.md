@@ -4,7 +4,7 @@ thèmes:
   - IA
   - Big DATA
 statut: pas vu
-dernière_révision: 2026-09-08
+dernière_révision: 
 ---
 
 # Biais algorithmiques
@@ -64,7 +64,7 @@ Les algorithmes sont utilisés pour des décisions à fort impact (crédit, recr
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/IA/Biais_algorithmiques #flashcards/Big_DATA/Biais_algorithmiques
 
 **Qu'est-ce qu'un biais algorithmique ?** :: Erreur systématique d'un algorithme produisant des décisions injustes ou discriminatoires envers certains groupes, généralement due à des données biaisées ou des variables proxy.
 

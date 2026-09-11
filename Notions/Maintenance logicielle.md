@@ -85,7 +85,7 @@ En entreprise, la maintenance logicielle s'articule avec les processus ITIL v4 :
 - Les contrats de **TMA** représentent environ **30 % du marché des services informatiques** en France (Syntec Numérique, 2023).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/Maintenance_logicielle
 Quels sont les 4 types de maintenance définis par ISO 14764 ? :: **Corrective** (bugs), **Adaptative** (nouvel environnement/réglementation), **Perfective** (amélioration/nouvelles fonctionnalités), **Préventive** (refactoring, réduction de dette technique).
 
 Quelle est la 1ère loi de Lehman sur l'évolution logicielle ? :: **Loi du changement continu** : un logiciel E-type doit continuellement s'adapter à son environnement, sans quoi il devient progressivement moins satisfaisant et moins utile.

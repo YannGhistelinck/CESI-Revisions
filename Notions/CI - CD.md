@@ -89,7 +89,7 @@ Solutions : LaunchDarkly, Unleash, Flagsmith, OpenFeature (standard CNCF).
 - 62 % des pipelines CI/CD incluent désormais des étapes de sécurité automatisées (Snyk, 2024).
 
 ## Flashcards
-#flashcards
+#flashcards/Développement/CI_CD #flashcards/Cloud_et_Virtualisation/CI_CD #flashcards/Optimisation_du_SI/CI_CD
 - Quelle est la différence entre Continuous Delivery et Continuous Deployment ? :: Continuous Delivery maintient l'artefact prêt à déployer mais nécessite une validation humaine avant la mise en production. Continuous Deployment pousse automatiquement en production à chaque commit validé par les tests.
 - Qu'est-ce que le "trunk-based development" ? :: Une pratique où tous les développeurs intègrent leur code directement dans le tronc principal (main) ou via des branches éphémères de moins de 24h, évitant les divergences longues et les "merge hell".
 - À quoi servent les feature flags en CI/CD ? :: Ils permettent de déployer du code sans l'activer pour les utilisateurs, de faire des tests A/B, d'effectuer des rollbacks instantanés et de cibler progressivement les utilisateurs (canary release) sans redéploiement.

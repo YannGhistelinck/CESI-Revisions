@@ -119,7 +119,7 @@ Exemples de dérive :
 ---
 
 ## Flashcards
-#flashcards
+#flashcards/Optimisation_du_SI/KPI_et_pilotage_de_la_performance #flashcards/Management_et_stratégie/KPI_et_pilotage_de_la_performance
 
 Quelle est la différence entre un KPI et un KRI ? :: Le KPI mesure l'atteinte d'un objectif (performance), le KRI mesure l'exposition à un risque. L'un est orienté résultat, l'autre est orienté prévention.
 
