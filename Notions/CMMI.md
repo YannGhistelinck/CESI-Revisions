@@ -78,7 +78,7 @@ L'évaluation officielle CMMI suit la méthode **SCAMPI** (Standard CMMI Apprais
 - En France, le CMMI est surtout présent dans les secteurs **défense, spatial et systèmes critiques** (CNES, DGA, Thales).
 
 ## Flashcards
-#flashcards/Développement/CMMI #flashcards/Management_et_stratégie/CMMI
+#flashcards
 Que signifie CMMI et qui l'a développé ? :: **Capability Maturity Model Integration**, développé par le **SEI** (Software Engineering Institute, Carnegie Mellon University). La version 2.0 est gérée par le **CMMI Institute** (ISACA).
 
 Quels sont les 5 niveaux de maturité CMMI et leurs noms ? :: 1-Initial, 2-Managed (Géré), 3-Defined (Défini), 4-Quantitatively Managed, 5-Optimizing.

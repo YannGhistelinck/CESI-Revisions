@@ -21,30 +21,32 @@ statut: pas vu
 | 13 | Cybersécurité : Comment impliquer les utilisateurs ? |
 
 ## Notions clés
-
-```base
-filters:
-  and:
-    - file.inFolder("Notions")
-    - thèmes.contains("Cybersécurité")
-properties:
-  file.name:
-    displayName: Notion
-  statut:
-    displayName: Statut
-  dernière_révision:
-    displayName: Dernière révision
-views:
-  - type: table
-    name: Notions clés
-    order:
-      - file.name
-      - statut
-      - dernière_révision
-    sort:
-      - property: file.name
-        direction: ASC
-```
+| Notion                                          | Statut | Dernière révision |
+| ----------------------------------------------- | ------ | ----------------- |
+| [[Menaces cyber]]                               | pas vu |                   |
+| [[Ingénierie sociale]]                          | pas vu |                   |
+| [[Zero Trust]]                                  | pas vu |                   |
+| [[Défense en profondeur]]                       | pas vu |                   |
+| [[Cyber-résilience]]                            | pas vu |                   |
+| [[SIEM]]                                        | pas vu |                   |
+| [[SOAR]]                                        | pas vu |                   |
+| [[EDR - XDR - NDR]]                             | pas vu |                   |
+| [[Threat Intelligence et Threat Hunting]]       | pas vu |                   |
+| [[SOC]]                                         | pas vu |                   |
+| [[Red Team - Blue Team - Purple Team]]          | pas vu |                   |
+| [[Forensics]]                                   | pas vu |                   |
+| [[IA en cybersécurité]]                         | pas vu |                   |
+| [[Métriques de sécurité]]                       | pas vu |                   |
+| [[Sensibilisation et facteur humain]]           | pas vu |                   |
+| [[EBIOS RM et gestion des risques cyber]]       | pas vu |                   |
+| [[PCA - PRA]]                                   | pas vu |                   |
+| [[Cyber-assurance]]                             | pas vu |                   |
+| [[NIS2]]                                        | pas vu |                   |
+| [[ISO 27001 - 27002]]                           | pas vu |                   |
+| [[NIST Cybersecurity Framework]]                | pas vu |                   |
+| [[Authentification et gestion des accès (IAM)]] | pas vu |                   |
+| [[Outils de sécurité réseau]]                   | pas vu |                   |
+| [[ANSSI et acteurs de la cybersécurité]]        | pas vu |                   |
 
 ## Questions types du jury
 - Quelles sont les principales menaces cyber pour une PME en 2025 ?

@@ -4,7 +4,7 @@ thèmes:
   - Blockchain
   - Développement
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # RFID - NFC et IoT pour la traçabilité
@@ -83,7 +83,7 @@ RFID (Radio Frequency Identification) et NFC (Near Field Communication) sont des
 ---
 
 ## Flashcards
-#flashcards/Blockchain/RFID_NFC_et_IoT_pour_la_traçabilité #flashcards/Développement/RFID_NFC_et_IoT_pour_la_traçabilité
+#flashcards
 
 Quelle est la différence entre RFID et NFC ? :: Le NFC est un sous-ensemble du RFID, limité à une portée de moins de 10 cm et à la fréquence 13,56 MHz (HF). Le RFID couvre un spectre plus large de fréquences (LF, HF, UHF) et des portées allant jusqu'à plusieurs mètres.
 

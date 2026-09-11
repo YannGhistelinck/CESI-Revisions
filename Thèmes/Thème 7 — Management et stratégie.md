@@ -20,30 +20,22 @@ statut: pas vu
 | 44 | La gestion de l'énergie est-elle toujours d'actualité pour la DSI ? |
 
 ## Notions clés
-
-```base
-filters:
-  and:
-    - file.inFolder("Notions")
-    - thèmes.contains("Management et stratégie")
-properties:
-  file.name:
-    displayName: Notion
-  statut:
-    displayName: Statut
-  dernière_révision:
-    displayName: Dernière révision
-views:
-  - type: table
-    name: Notions clés
-    order:
-      - file.name
-      - statut
-      - dernière_révision
-    sort:
-      - property: file.name
-        direction: ASC
-```
+| Notion | Statut | Dernière révision |
+|--------|--------|-------------------|
+| [[Pénurie de talents IT]] | pas vu | |
+| [[Gestion des compétences IT]] | pas vu | |
+| [[Workforce planning et People Analytics]] | pas vu | |
+| [[Formation et certifications]] | pas vu | |
+| [[GPEC - GEPP]] | pas vu | |
+| [[Référentiels de compétences IT]] | pas vu | |
+| [[RSSI - CISO]] | pas vu | |
+| [[Gouvernance IT]] | pas vu | |
+| [[ITIL 4]] | pas vu | |
+| [[ITSM et gestion des services]] | pas vu | |
+| [[TOGAF et architecture d'entreprise]] | pas vu | |
+| [[SAFe et agilité à l'échelle]] | pas vu | |
+| [[RACI et outils de gouvernance projet]] | pas vu | |
+| [[DORA (Digital Operational Resilience Act)]] | pas vu | |
 
 ## Questions types du jury
 - Comment gérer la pénurie de talents IT dans une PME/ETI ?

@@ -121,7 +121,7 @@ Technologies complémentaires :
 - La migration vers le cloud public peut réduire l'empreinte carbone IT de **65 à 84 %** vs datacenter on-premise (étude Accenture/WSP pour Microsoft, 2020)
 
 ## Flashcards
-#flashcards/SI_et_environnement/Infrastructure_des_datacenters #flashcards/Cloud_et_Virtualisation/Infrastructure_des_datacenters
+#flashcards
 
 Qu'est-ce qu'un DCIM et à quoi sert-il ? :: Data Center Infrastructure Management : logiciel de supervision centralisée du datacenter (consommation par baie, température, état des UPS, PUE temps réel, planification de capacité).
 

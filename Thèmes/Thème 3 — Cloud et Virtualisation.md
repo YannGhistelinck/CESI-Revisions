@@ -20,30 +20,26 @@ statut: pas vu
 | 20 | Le Cloud : la réponse aux problèmes de sécurité des données |
 
 ## Notions clés
-
-```base
-filters:
-  and:
-    - file.inFolder("Notions")
-    - thèmes.contains("Cloud et Virtualisation")
-properties:
-  file.name:
-    displayName: Notion
-  statut:
-    displayName: Statut
-  dernière_révision:
-    displayName: Dernière révision
-views:
-  - type: table
-    name: Notions clés
-    order:
-      - file.name
-      - statut
-      - dernière_révision
-    sort:
-      - property: file.name
-        direction: ASC
-```
+| Notion | Statut | Dernière révision |
+|--------|--------|-------------------|
+| [[Modèles de service cloud]] | pas vu | |
+| [[Modèles de déploiement cloud]] | pas vu | |
+| [[Cloud souverain]] | pas vu | |
+| [[Économie du cloud]] | pas vu | |
+| [[Vendor lock-in et réversibilité]] | pas vu | |
+| [[CLOUD Act et transferts de données]] | pas vu | |
+| [[Sécurité cloud (CSPM - CASB - CNAPP)]] | pas vu | |
+| [[Chiffrement et gestion des clés]] | pas vu | |
+| [[SASE - SD-WAN]] | pas vu | |
+| [[Migration cloud (les 7R)]] | pas vu | |
+| [[Legacy et dette technique]] | pas vu | |
+| [[Virtualisation]] | pas vu | |
+| [[Conteneurisation (Docker - Kubernetes)]] | pas vu | |
+| [[Service Mesh]] | pas vu | |
+| [[Cloud Native et 12-Factor App]] | pas vu | |
+| [[Certifications et normes cloud]] | pas vu | |
+| [[Data Act]] | pas vu | |
+| [[Acteurs cloud]] | pas vu | |
 
 ## Questions types du jury
 - Quelle différence entre IaaS, PaaS et SaaS ? Dans quel cas choisir l'un ou l'autre ?

@@ -111,7 +111,7 @@ Un accès administrateur Azure est compromis suite à un credential stuffing. L'
 - Les EDR modernes (CrowdStrike, SentinelOne) intègrent des capacités de forensics "live" réduisant le temps de collecte de plusieurs jours à quelques heures.
 
 ## Flashcards
-#flashcards/Cybersécurité/Forensics
+#flashcards
 
 Qu'est-ce que la chaîne de custody (chain of custody) en forensics ? :: La traçabilité documentée de chaque pièce à conviction numérique : qui l'a collectée, quand, comment elle a été préservée et stockée. Sans chain of custody rigoureuse, les preuves peuvent être irrecevables en justice.
 

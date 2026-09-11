@@ -111,7 +111,7 @@ Un outil ITSM bien configuré réduit le Mean Time To Repair (MTTR), améliore l
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/Outils_ITSM
+#flashcards
 
 Que signifie ITSM et quels sont ses processus clés ? :: IT Service Management — gestion des incidents, problèmes, changements, actifs, configurations (CMDB) et niveaux de service (SLA).
 

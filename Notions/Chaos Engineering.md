@@ -74,7 +74,7 @@ Le Chaos Engineering est l'un des piliers du SRE (Google). Il s'articule avec le
 - Les environnements Kubernetes sont la cible principale des expériences de chaos (67 % des cas selon Chaos Mesh Survey 2023).
 
 ## Flashcards
-#flashcards/Développement/Chaos_Engineering #flashcards/Optimisation_du_SI/Chaos_Engineering
+#flashcards
 - Qu'est-ce que le Chaos Engineering ? :: La pratique d'introduire délibérément des défaillances dans un système pour valider sa résilience et identifier ses faiblesses avant qu'elles ne causent des incidents.
 - Qu'est-ce que Chaos Monkey ? :: Outil créé par Netflix en 2011 qui tue aléatoirement des instances en production pour forcer la conception de systèmes résilients.
 - Qu'est-ce qu'un "steady state" en Chaos Engineering ? :: Le comportement normal et mesurable d'un système (ex : taux d'erreur < 1 %, latence p99 < 200 ms) servant de référence pour évaluer l'impact d'une expérience de chaos.

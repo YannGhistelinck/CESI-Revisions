@@ -99,7 +99,7 @@ Une équipe de Threat Hunting formule l'hypothèse qu'un attaquant tente du Kerb
 - Le Threat Hunting managé (MDR incluant hunting) connaît une croissance de 25 % par an.
 
 ## Flashcards
-#flashcards/Cybersécurité/Threat_Intelligence_et_Threat_Hunting #flashcards/IA/Threat_Intelligence_et_Threat_Hunting
+#flashcards
 
 Qu'est-ce qu'un IoC (Indicator of Compromise) ? :: Un artefact observable indiquant qu'un système a été compromis : hash de fichier, adresse IP malveillante, nom de domaine, clé de registre. Les IoC sont de courte durée de vie car les attaquants les changent facilement.
 

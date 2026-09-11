@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - IA
 statut: pas vu
-dernière_révision: 
+dernière_révision: 2026-09-08
 ---
 
 # Audit algorithmique
@@ -73,7 +73,7 @@ Un audit algorithmique comprend généralement plusieurs étapes :
 ---
 
 ## Flashcards
-#flashcards/IA/Audit_algorithmique
+#flashcards
 
 **Qu'est-ce qu'un audit algorithmique ?** :: Processus d'évaluation systématique d'un système IA vérifiant sa conformité, son équité, sa transparence et sa fiabilité, réalisé par un tiers ou en interne.
 

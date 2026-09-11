@@ -188,7 +188,7 @@ Service cloud de reprise après sinistre managé. L'infrastructure de reprise es
 - L'immuabilité des sauvegardes devient une exigence explicite dans **NIS2** et les réglementations DORA (secteur financier).
 
 ## Flashcards
-#flashcards/Big_DATA/Sauvegarde_et_reprise_d_activité #flashcards/Cybersécurité/Sauvegarde_et_reprise_d_activité #flashcards/Management_et_stratégie/Sauvegarde_et_reprise_d_activité
+#flashcards
 
 Quelle est la différence entre sauvegarde incrémentale et différentielle ? :: Incrémentale : sauvegarde les données modifiées depuis la DERNIÈRE sauvegarde (complète ou incrémentale) — rapide, mais restauration complexe (chaîne complète). Différentielle : sauvegarde les données modifiées depuis la DERNIÈRE COMPLÈTE — taille croissante, mais restauration simplifiée (complète + 1 différentielle).
 

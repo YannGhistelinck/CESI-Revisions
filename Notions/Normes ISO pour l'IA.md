@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - IA
 statut: pas vu
-dernière_révision: 
+dernière_révision: 2026-09-08
 ---
 
 # Normes ISO pour l'IA
@@ -88,7 +88,7 @@ Fournit des lignes directrices pour intégrer la gestion des risques IA dans les
 ---
 
 ## Flashcards
-#flashcards/IA/Normes_ISO_pour_l_IA
+#flashcards
 
 **Qu'est-ce qu'ISO/IEC 42001 ?** :: Norme internationale (déc. 2023) définissant un système de management de l'intelligence artificielle (AIMS), analogue à ISO 27001 pour la sécurité, couvrant gouvernance, risques, opérations et amélioration continue.
 

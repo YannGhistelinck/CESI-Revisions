@@ -122,7 +122,7 @@ Le refactoring est un processus **discipliné** de restructuration du code :
 - L'adoption du **Clean Code dans les formations initiales** (écoles d'ingénieurs, IUT) est en forte progression depuis 2015.
 
 ## Flashcards
-#flashcards/Développement/Clean_Code_et_refactoring
+#flashcards
 Quelle est la règle fondamentale du Clean Code concernant les fonctions ? :: Une fonction doit faire **une seule chose** (Single Responsibility), avec idéalement 5-10 lignes et maximum 3 paramètres.
 
 Que signifie YAGNI et à quel mouvement appartient ce principe ? :: **You Aren't Gonna Need It** — n'implémentez pas ce qui n'est pas nécessaire maintenant. Principe issu de l'**Extreme Programming** (Kent Beck).

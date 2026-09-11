@@ -84,7 +84,7 @@ Complémentaire au Data Act, il se concentre sur les mécanismes de confiance po
 - Gaia-X compte plus de 350 membres en Europe (2024) et développe des cas d'usage sectoriels (santé, mobilité, agriculture, industrie).
 
 ## Flashcards
-#flashcards/Cloud_et_Virtualisation/Data_Act #flashcards/Big_DATA/Data_Act
+#flashcards
 - Qu'est-ce que le Data Act et quand est-il applicable ? :: C'est un règlement européen (UE 2023/2854) entré en vigueur le 11 janvier 2024, applicable à partir du 12 septembre 2025, qui régit l'accès et le partage des données des produits connectés (IoT) et impose la portabilité aux fournisseurs cloud.
 - Quelle est la différence entre le Data Act et le Data Governance Act ? :: Le Data Governance Act (sept. 2023) encadre les mécanismes de partage volontaire et les intermédiaires de données ; le Data Act (sept. 2025) impose des droits d'accès aux données IoT et la portabilité cloud.
 - Qu'est-ce que le B2G data sharing dans le Data Act ? :: La possibilité pour les autorités publiques d'accéder, en cas de nécessité (crise, catastrophe), aux données détenues par des entreprises privées dans l'intérêt général.

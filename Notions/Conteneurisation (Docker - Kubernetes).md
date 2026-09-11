@@ -74,7 +74,7 @@ Kubernetes orchestre des conteneurs sur un cluster de nœuds :
 - Le nombre de pods gérés par cluster a augmenté de 50 % en deux ans, signe d'une montée en maturité.
 
 ## Flashcards
-#flashcards/Cloud_et_Virtualisation/Conteneurisation_Docker_Kubernetes #flashcards/Développement/Conteneurisation_Docker_Kubernetes
+#flashcards
 - Qu'est-ce qu'un conteneur Docker ? :: Instance en cours d'exécution d'une image Docker, isolée via les namespaces et cgroups Linux, partageant le noyau de l'hôte.
 - Quelle est la différence entre une image et un conteneur ? :: L'image est un artefact immuable (modèle) ; le conteneur est une instance vivante de cette image.
 - Qu'est-ce qu'un Pod Kubernetes ? :: L'unité atomique de déploiement K8s, regroupant un ou plusieurs conteneurs qui partagent le même réseau et le même stockage local.

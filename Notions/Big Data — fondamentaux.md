@@ -110,7 +110,7 @@ Opposé conceptuel du Big Data : désigne des volumes de données modestes, cibl
 - Le coût moyen d'un problème de qualité des données pour une organisation est estimé à **12,9 millions de dollars par an** (Gartner, 2022).
 
 ## Flashcards
-#flashcards/Big_DATA/Big_Data_fondamentaux
+#flashcards
 
 Qu'est-ce que le Big Data ? :: Ensemble de données dont le volume, la variété et la vélocité dépassent les capacités des systèmes de gestion traditionnels, nécessitant des outils et architectures spécialisés.
 

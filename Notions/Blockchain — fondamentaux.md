@@ -90,7 +90,7 @@ La blockchain permet des échanges de valeur et d'information sans tiers de conf
 ---
 
 ## Flashcards
-#flashcards/Blockchain/Blockchain_fondamentaux
+#flashcards
 
 Qu'est-ce qu'une blockchain ? :: Base de données distribuée, décentralisée, structurée en blocs chaînés par hachage cryptographique, sans autorité centrale.
 

@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - IA
 statut: pas vu
-dernière_révision: 
+dernière_révision: 2026-09-08
 ---
 
 # Éthique de l'IA
@@ -79,7 +79,7 @@ L'IA peut produire des effets positifs massifs mais aussi causer des discriminat
 ---
 
 ## Flashcards
-#flashcards/IA/Éthique_de_l_IA
+#flashcards
 
 **Qu'est-ce que l'Ethics by Design ?** :: Intégration des considérations éthiques dès la conception d'un système IA, tout au long du cycle de développement, par analogie avec le Privacy by Design.
 

@@ -94,7 +94,7 @@ Un CHU déploie le télétravail pour ses 800 agents administratifs (RH, comptab
 - **Nomadisme numérique** : 35 millions de digital nomads dans le monde en 2023, en hausse de 131 % depuis 2019 (MBO Partners)
 
 ## Flashcards
-#flashcards/Mobilité/Télétravail_et_travail_hybride
+#flashcards
 
 Que dit l'article L1222-9 du Code du travail sur le télétravail ? :: Il définit le télétravail comme toute forme de travail effectuée hors des locaux de l'employeur avec les TIC, de manière volontaire. Il encadre les droits du salarié (retour au bureau possible), les obligations de l'employeur (prise en charge des coûts) et les cas exceptionnels où le télétravail peut être imposé.
 

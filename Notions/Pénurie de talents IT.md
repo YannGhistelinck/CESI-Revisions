@@ -78,7 +78,7 @@ L'**employer branding** repose sur la cohérence entre l'image externe (ce que p
 ---
 
 ## Flashcards
-#flashcards/Management_et_stratégie/Pénurie_de_talents_IT
+#flashcards
 
 Qu'est-ce que la "guerre des talents" ? :: Compétition intense entre organisations pour attirer et retenir des profils rares et qualifiés, concept popularisé par McKinsey en 1997.
 

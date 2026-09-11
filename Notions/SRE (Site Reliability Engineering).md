@@ -97,7 +97,7 @@ Les SRE assurent des astreintes (on-call) avec des runbooks documentés pour cha
 - Platform Engineering (2024) est souvent vu comme l'évolution du SRE : créer une "Internal Developer Platform" pour que les équipes dev soient autonomes sans toil opérationnel.
 
 ## Flashcards
-#flashcards/Développement/SRE_Site_Reliability_Engineering #flashcards/Optimisation_du_SI/SRE_Site_Reliability_Engineering
+#flashcards
 - Quelle est la différence entre SLI, SLO et SLA ? :: SLI = métrique mesurée (ex. taux de succès HTTP). SLO = objectif interne pour ce SLI (ex. 99,9 % sur 30 jours). SLA = engagement contractuel avec pénalités financières envers le client, toujours moins strict que le SLO interne.
 - Qu'est-ce qu'un error budget et comment est-il calculé ? :: Le complément du SLO : si SLO = 99,9 %, l'error budget = 0,1 % = 43,2 minutes/mois. Il représente la quantité de downtime/erreurs "autorisée". Quand il est épuisé, les déploiements sont gelés jusqu'au prochain cycle.
 - Qu'est-ce que le "toil" selon Google SRE et quel est l'objectif ? :: Le travail opérationnel manuel, répétitif, sans valeur ajoutée à long terme et scalant avec la taille du service. L'objectif SRE est de maintenir le toil sous 50 % du temps de travail et de l'éliminer via l'automatisation.

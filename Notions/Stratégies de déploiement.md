@@ -119,7 +119,7 @@ La nouvelle version reçoit une copie du trafic de production en temps réel mai
 - Le marché des feature flag management atteindra 1,2 Md$ en 2028.
 
 ## Flashcards
-#flashcards/Développement/Stratégies_de_déploiement
+#flashcards
 - Quelle est la différence entre un canary release et un A/B test ? :: Le canary release vise la stabilité technique (erreurs, latence) avec un % aléatoire d'utilisateurs pendant quelques heures. L'A/B test vise à mesurer un comportement utilisateur (conversion, clic) avec une segmentation ciblée sur plusieurs semaines.
 - Comment fonctionne le blue-green deployment ? :: Deux environnements identiques (Blue = actif, Green = nouveau) coexistent. Le trafic est basculé instantanément via un load balancer du Blue vers le Green une fois validé. Le Blue reste disponible pour un rollback immédiat.
 - Quel est le principal inconvénient du blue-green deployment ? :: Le double coût d'infrastructure (deux environnements complets maintenus en parallèle) et la complexité de gestion de l'état de la base de données (migrations de schéma compatibles avec les deux versions).

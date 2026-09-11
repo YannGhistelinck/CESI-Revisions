@@ -128,7 +128,7 @@ Un groupe retail externalise sa surveillance SOC à un MSSP avec des SLA : P1 no
 - NIS2 impose des reportings aux autorités nationales dans les 24h (alerte initiale), 72h (notification) et 1 mois (rapport final) — métriques réglementaires obligatoires.
 
 ## Flashcards
-#flashcards/Cybersécurité/Métriques_de_sécurité #flashcards/Optimisation_du_SI/Métriques_de_sécurité
+#flashcards
 
 Qu'est-ce que le MTTD et pourquoi est-il l'indicateur le plus critique ? :: Mean Time To Detect : temps moyen entre le début d'une compromission et sa détection. C'est l'indicateur le plus critique car il mesure directement la fenêtre d'opportunité de l'attaquant. Chaque jour supplémentaire augmente l'étendue de la compromission. Objectif d'un SOC mature : < 24h pour les incidents critiques.
 

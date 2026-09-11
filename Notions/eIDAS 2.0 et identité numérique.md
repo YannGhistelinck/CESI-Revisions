@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Blockchain
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # eIDAS 2.0 et identité numérique
@@ -96,7 +96,7 @@ eIDAS 2.0 (Electronic IDentification, Authentication and trust Services) est le 
 ---
 
 ## Flashcards
-#flashcards/Blockchain/eIDAS_2_0_et_identité_numérique
+#flashcards
 
 Qu'est-ce qu'eIDAS 2.0 et quelle est sa principale nouveauté par rapport à eIDAS 1.0 ? :: eIDAS 2.0 (règlement UE 2024/1183) est la révision du règlement européen sur l'identification électronique. Sa principale nouveauté est l'EUDI Wallet, un portefeuille d'identité numérique que chaque État membre doit proposer à ses citoyens, utilisable partout dans l'UE auprès des services publics et privés.
 

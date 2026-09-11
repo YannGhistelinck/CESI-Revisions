@@ -157,7 +157,7 @@ Utilisation d'opérateurs Google avancés pour trouver des informations sensible
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/Signal_faible_et_OSINT #flashcards/Cybersécurité/Signal_faible_et_OSINT
+#flashcards
 
 Qu'est-ce qu'un signal faible selon Ansoff ? :: Une information précoce, ambiguë et fragmentaire annonçant un changement stratégique potentiel, noyée dans le bruit informationnel, détectable avant que la tendance ne soit confirmée.
 

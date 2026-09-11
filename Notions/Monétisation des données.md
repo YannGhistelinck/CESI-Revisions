@@ -150,7 +150,7 @@ La CNIL française et la Commission européenne (Digital Services Act) ont comme
 - Le **Privacy Sandbox** de Google (remplacement des cookies tiers) est un enjeu structurant pour l'avenir de la publicité digitale — report de la dépréciation des cookies à 2025
 
 ## Flashcards
-#flashcards/Big_DATA/Monétisation_des_données #flashcards/IA/Monétisation_des_données
+#flashcards
 
 Qu'est-ce qu'un data broker et comment collecte-t-il ses données ? :: Entreprise dont le modèle économique repose sur la collecte, l'agrégation et la revente de données sur des individus, sans relation directe avec eux. Sources : données publiques (registres, actes civils), programmes de fidélité rachetés, pixels de tracking web, applications mobiles, données télécoms.
 

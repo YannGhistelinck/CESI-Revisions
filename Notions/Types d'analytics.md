@@ -159,7 +159,7 @@ Approche de management consistant à fonder toutes les décisions stratégiques 
 - L'essor des **LLM** (ChatGPT, Claude) redéfinit l'analytics descriptive et diagnostique : on peut désormais interroger ses données en langage naturel
 
 ## Flashcards
-#flashcards/Big_DATA/Types_d_analytics #flashcards/IA/Types_d_analytics
+#flashcards
 
 Quels sont les 4 types d'analytics et les questions auxquelles ils répondent ? :: Descriptive ("Que s'est-il passé ?"), Diagnostique ("Pourquoi ?"), Prédictive ("Que va-t-il se passer ?"), Prescriptive ("Que doit-on faire ?"). Chaque niveau apporte plus de valeur mais nécessite plus de complexité et de maturité data.
 

@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Transversal
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 ## En bref
@@ -93,7 +93,7 @@ Une entreprise dont 90 % de l'infrastructure est sur un seul provider cloud (qua
 ---
 
 ## Flashcards
-#flashcards/Transversal/Matrice_de_Kraljic
+#flashcards
 
 Quels sont les 4 quadrants de la matrice de Kraljic ? :: **Simples** (faible impact, marché facile), **Leviers** (fort impact, marché facile), **Critiques** (faible impact, marché complexe), **Stratégiques** (fort impact, marché complexe).
 

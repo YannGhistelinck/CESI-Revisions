@@ -89,7 +89,7 @@ Les assureurs imposent désormais un niveau minimal de maturité cyber avant d'a
 - Le règlement DORA impose aux entités financières de gérer le risque cyber de leurs prestataires, créant de nouvelles obligations d'assurance
 
 ## Flashcards
-#flashcards/Cybersécurité/Cyber_assurance #flashcards/Management_et_stratégie/Cyber_assurance
+#flashcards
 Qu'est-ce que la cyber-assurance ? :: Un contrat d'assurance couvrant les pertes financières et frais liés à un incident de sécurité informatique (ransomware, violation de données, interruption de service).
 
 Que couvre une police cyber en first-party ? :: Les pertes directes de l'assuré : frais de réponse à incident, pertes d'exploitation, restauration des données, frais de notification RGPD, gestion de crise.

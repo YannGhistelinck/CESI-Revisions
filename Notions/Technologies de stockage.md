@@ -102,7 +102,7 @@ Le SDS dissocie le logiciel de gestion du stockage du matériel sous-jacent. Per
 - Le dark data (données stockées mais inutilisées) représenterait **55 % du volume total** stocké en entreprise
 
 ## Flashcards
-#flashcards/SI_et_environnement/Technologies_de_stockage #flashcards/Big_DATA/Technologies_de_stockage
+#flashcards
 
 Qu'est-ce que le tiering de stockage ? :: Organisation des données en niveaux (tiers) selon leur fréquence d'accès, des plus rapides/coûteux (SSD NVMe) aux plus lents/économiques (LTO, stockage objet froid), avec déplacement automatique.
 

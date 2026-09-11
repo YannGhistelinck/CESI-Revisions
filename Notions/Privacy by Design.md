@@ -82,7 +82,7 @@ Processus de recombination de données supposément anonymes pour retrouver l'id
 - La CNIL a publié en 2023 un guide pratique sur les techniques d'anonymisation incluant le bruit différentiel et le k-anonymat.
 
 ## Flashcards
-#flashcards/Big_DATA/Privacy_by_Design #flashcards/Cybersécurité/Privacy_by_Design
+#flashcards
 
 Quels sont les 7 principes fondateurs du Privacy by Design selon Ann Cavoukian ? :: 1. Proactif, pas réactif ; 2. Vie privée par défaut ; 3. Vie privée intégrée à la conception ; 4. Fonctionnalité totale (jeu à somme positive) ; 5. Sécurité de bout en bout ; 6. Visibilité et transparence ; 7. Respect centré sur l'utilisateur.
 

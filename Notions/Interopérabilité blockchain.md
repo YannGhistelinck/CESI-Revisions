@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Blockchain
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 # Interopérabilité blockchain
@@ -66,7 +66,7 @@ L'interopérabilité repose sur plusieurs mécanismes :
 ---
 
 ## Flashcards
-#flashcards/Blockchain/Interopérabilité_blockchain
+#flashcards
 
 Qu'est-ce qu'un bridge blockchain ? :: Un contrat intelligent qui verrouille des actifs sur une chaîne source et émet des tokens équivalents (wrapped tokens) sur une chaîne de destination, permettant le transfert de valeur cross-chain.
 

@@ -91,7 +91,7 @@ L'évolutivité des blockchains publiques est un défi majeur : Bitcoin traite ~
 ---
 
 ## Flashcards
-#flashcards/Blockchain/Forks_et_évolutions_de_protocole
+#flashcards
 
 Quelle est la différence entre un hard fork et un soft fork ? :: Un hard fork est une modification incompatible pouvant créer deux chaînes distinctes ; un soft fork est rétrocompatible, les anciens nœuds acceptent toujours les nouveaux blocs.
 

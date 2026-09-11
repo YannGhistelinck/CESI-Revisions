@@ -100,7 +100,7 @@ Une banque d'investissement impose le COBO à ses traders et gérants de portefe
 - Tendance 2024-2025 : convergence vers le **COPE léger** — l'entreprise achète des terminaux reconditionnés pour réduire les coûts tout en maintenant le contrôle
 
 ## Flashcards
-#flashcards/Mobilité/Politiques_de_terminaux_BYOD_COPE
+#flashcards
 
 Quelle est la différence entre BYOD et COPE ? :: En BYOD, l'employé utilise son propre terminal à des fins professionnelles ; en COPE, l'entreprise fournit le terminal mais autorise un usage personnel. Le COPE offre un meilleur contrôle IT tout en préservant le confort de l'utilisateur.
 

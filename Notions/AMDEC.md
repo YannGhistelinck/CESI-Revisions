@@ -3,7 +3,7 @@ type: notion
 thèmes:
   - Transversal
 statut: pas vu
-dernière_révision: 
+dernière_révision: null
 ---
 
 ## En bref
@@ -94,7 +94,7 @@ L'AMDEC se déroule en équipe pluridisciplinaire et suit une logique structuré
 ---
 
 ## Flashcards
-#flashcards/Transversal/AMDEC
+#flashcards
 
 Qu'est-ce que l'IPR dans une AMDEC ? :: L'Indice de Priorité du Risque, calculé par la formule **G × O × D** (Gravité × Occurrence × Détection), sur une échelle de 1 à 1000. Il permet de hiérarchiser les défaillances à traiter en priorité.
 

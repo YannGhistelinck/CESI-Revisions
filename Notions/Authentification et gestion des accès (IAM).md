@@ -87,7 +87,7 @@ Le modèle Zero Trust ("ne jamais faire confiance, toujours vérifier") place l'
 - Passwordless (sans mot de passe) : montée en puissance de FIDO2/WebAuthn comme standard d'authentification forte sans mot de passe
 
 ## Flashcards
-#flashcards/Cybersécurité/Authentification_et_gestion_des_accès_IAM #flashcards/Cloud_et_Virtualisation/Authentification_et_gestion_des_accès_IAM #flashcards/Mobilité/Authentification_et_gestion_des_accès_IAM
+#flashcards
 Qu'est-ce que l'IAM ? :: Identity and Access Management : ensemble des processus et technologies gérant les identités numériques et les droits d'accès. Repose sur trois piliers : authentification (qui êtes-vous ?), autorisation (que pouvez-vous faire ?) et traçabilité (qu'avez-vous fait ?).
 
 Quels sont les 3 facteurs d'authentification ? :: Ce que l'on sait (mot de passe), ce que l'on possède (token, smartphone), ce que l'on est (biométrie). Le MFA combine au moins deux de ces facteurs.

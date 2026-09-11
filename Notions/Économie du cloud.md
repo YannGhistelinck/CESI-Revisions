@@ -79,7 +79,7 @@ Tendance consistant à rapatrier certains workloads du cloud public vers une inf
 - Tendance : émergence du FinOps comme discipline à part entière (certification FinOps Certified Practitioner de la FinOps Foundation)
 
 ## Flashcards
-#flashcards/Cloud_et_Virtualisation/Économie_du_cloud #flashcards/Optimisation_du_SI/Économie_du_cloud
+#flashcards
 
 Quelle est la différence entre CAPEX et OPEX dans le contexte cloud ? :: CAPEX = investissement en immobilisation (serveurs physiques, licences perpétuelles), amorti sur plusieurs années. OPEX = charge opérationnelle courante (abonnements, facturation à l'usage). Le cloud convertit structurellement le CAPEX en OPEX.
 

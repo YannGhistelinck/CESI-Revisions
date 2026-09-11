@@ -141,7 +141,7 @@ Intendance, collaboration, parties prenantes, valeur, pensée systémique, leade
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/Frameworks_de_gestion_de_projet #flashcards/Management_et_stratégie/Frameworks_de_gestion_de_projet
+#flashcards
 
 Quels sont les 5 groupes de processus PMBOK 6 ? :: Démarrage, Planification, Exécution, Surveillance & Contrôle, Clôture.
 

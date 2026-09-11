@@ -87,7 +87,7 @@ dernière_révision:
 - Pénurie mondiale de talents cyber : 4 millions de postes non pourvus en 2023 (ISC2 Cybersecurity Workforce Study) — le SOAR est une réponse partielle à cette contrainte.
 
 ## Flashcards
-#flashcards/Cybersécurité/SOAR
+#flashcards
 Qu'est-ce qu'un SOAR ? :: Security Orchestration, Automation and Response : plateforme orchestrant les outils de sécurité, automatisant les tâches répétitives de réponse aux incidents et standardisant les procédures via des playbooks.
 
 Quelle est la différence entre SIEM et SOAR ? :: Le SIEM détecte et alerte (visibilité, corrélation). Le SOAR agit et automatise (réponse, orchestration). Ils sont complémentaires : le SIEM alimente le SOAR en alertes.

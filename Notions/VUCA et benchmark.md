@@ -80,7 +80,7 @@ Dans un contexte VUCA, les DSI ne peuvent plus piloter leur SI sur des cycles lo
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/VUCA_et_benchmark #flashcards/Management_et_stratégie/VUCA_et_benchmark
+#flashcards
 
 Que signifie l'acronyme VUCA ? :: Volatility, Uncertainty, Complexity, Ambiguity — concept militaire décrivant un environnement instable et imprévisible.
 

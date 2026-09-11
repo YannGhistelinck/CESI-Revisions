@@ -114,7 +114,7 @@ Révision 2024 : intégration du stockage NVMe (NVMe-oF, NVMe over Fabrics), du 
 - L'ENISA recommande l'ISO 27701 comme cadre de référence pour la conformité RGPD des sous-traitants dans ses lignes directrices sur les mesures techniques et organisationnelles.
 
 ## Flashcards
-#flashcards/Big_DATA/Normes_ISO_liées_aux_données #flashcards/Cloud_et_Virtualisation/Normes_ISO_liées_aux_données
+#flashcards
 
 Qu'est-ce que l'ISO 27701 et quel est son prérequis ? :: Norme internationale (2019) définissant un système de management de la protection des données personnelles (PIMS), extension de l'ISO 27001. Son prérequis est d'avoir une ISO 27001 en place — la certification ISO 27701 se réalise toujours conjointement avec ISO 27001.
 

@@ -83,7 +83,7 @@ dernière_révision:
 - D'ici 2025, 60 % des entreprises remplaceront leur VPN par du ZTNA (Gartner).
 
 ## Flashcards
-#flashcards/Cybersécurité/Zero_Trust #flashcards/Cloud_et_Virtualisation/Zero_Trust #flashcards/Mobilité/Zero_Trust
+#flashcards
 Quel est le principe fondamental du Zero Trust ? :: "Never Trust, Always Verify" — ne jamais présupposer la confiance, qu'un utilisateur soit interne ou externe au réseau. Chaque accès est vérifié en fonction de l'identité, de l'appareil et du contexte.
 
 Qu'est-ce que le ZTNA et en quoi remplace-t-il le VPN ? :: Zero Trust Network Access : accorde l'accès application par application après vérification de l'identité et du contexte. Contrairement au VPN, l'utilisateur n'accède pas à tout le réseau, réduisant la surface d'attaque.

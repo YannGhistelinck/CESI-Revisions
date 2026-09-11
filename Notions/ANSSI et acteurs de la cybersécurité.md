@@ -101,7 +101,7 @@ Le guide PA-054 (référence interne ANSSI) correspond aux recommandations relat
 - Tendance : montée de la coopération européenne (EU-CyCLONe, Joint Cyber Unit) dans la gestion des crises cyber transfrontalières
 
 ## Flashcards
-#flashcards/Cybersécurité/ANSSI_et_acteurs_de_la_cybersécurité #flashcards/Cloud_et_Virtualisation/ANSSI_et_acteurs_de_la_cybersécurité #flashcards/Mobilité/ANSSI_et_acteurs_de_la_cybersécurité
+#flashcards
 Quelles sont les 4 missions principales de l'ANSSI ? :: Défense (protection des SI critiques, CERT-FR), Régulation (autorité NIS2, qualifications), Promotion (guides, sensibilisation) et Coordination internationale (ENISA, OTAN).
 
 Qu'est-ce qu'un OIV et quel est le cadre réglementaire associé ? :: Opérateur d'Importance Vitale : organisation opérant des infrastructures critiques pour la nation (énergie, santé, transport...). Soumis à la LPM (Loi de Programmation Militaire) qui impose des règles de sécurité renforcées et la notification des incidents à l'ANSSI.

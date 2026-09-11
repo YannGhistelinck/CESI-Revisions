@@ -105,7 +105,7 @@ Bonnes pratiques d'archivage :
 - La mise en conformité RGPD est aujourd'hui le principal driver d'adoption des politiques DLM en Europe
 
 ## Flashcards
-#flashcards/SI_et_environnement/Data_Lifecycle_Management #flashcards/Big_DATA/Data_Lifecycle_Management
+#flashcards
 
 Quelle est la différence entre sauvegarde et archivage ? :: La sauvegarde protège les données actives contre les sinistres (restauration rapide). L'archivage déplace les données inactives vers un stockage moins coûteux pour conservation long terme. Objectifs et supports différents.
 

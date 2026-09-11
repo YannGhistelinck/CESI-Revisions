@@ -89,7 +89,7 @@ Lors de l'embauche d'un nouveau collaborateur, un attended bot guide le gestionn
 - Risque : le "bot sprawl" — prolifération incontrôlée de robots, difficiles à maintenir et à gouverner
 
 ## Flashcards
-#flashcards/Mobilité/RPA_Robotic_Process_Automation #flashcards/Optimisation_du_SI/RPA_Robotic_Process_Automation
+#flashcards
 
 Quelle est la différence entre un attended bot et un unattended bot ? :: Un attended bot est déclenché manuellement par un utilisateur et travaille en collaboration avec lui (traitement de demandes en temps réel). Un unattended bot fonctionne de manière autonome, déclenché par un scheduler ou un événement, sans intervention humaine (traitements nocturnes).
 

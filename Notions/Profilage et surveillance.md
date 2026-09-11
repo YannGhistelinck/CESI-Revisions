@@ -83,7 +83,7 @@ Toute décision fondée exclusivement sur un traitement automatisé produisant d
 - Les data brokers génèrent un marché mondial estimé à 300 Md$ en 2023 (IAPP).
 
 ## Flashcards
-#flashcards/Big_DATA/Profilage_et_surveillance #flashcards/IA/Profilage_et_surveillance
+#flashcards
 
 Quelle est la définition du profilage automatisé selon le RGPD ? :: L'article 4(4) du RGPD définit le profilage comme tout traitement automatisé de données personnelles visant à évaluer des aspects personnels d'un individu (comportement, préférences, santé, situation économique, localisation…).
 

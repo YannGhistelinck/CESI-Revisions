@@ -128,7 +128,7 @@ Outil phare de la veille technologique :
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/Veille_stratégique_et_technologique
+#flashcards
 
 Quelles sont les 5 étapes du cycle de la veille ? :: Planification, Collecte, Traitement, Diffusion, Décision (avec rétroaction vers la planification).
 

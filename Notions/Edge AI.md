@@ -4,7 +4,7 @@ thèmes:
   - IA
   - Mobilité
 statut: pas vu
-dernière_révision: 
+dernière_révision: 2026-09-08
 ---
 
 # Edge AI
@@ -96,7 +96,7 @@ L'inférence (prédiction) s'effectue en local ; l'entraînement reste général
 ---
 
 ## Flashcards
-#flashcards/IA/Edge_AI #flashcards/Mobilité/Edge_AI
+#flashcards
 
 **Qu'est-ce que l'Edge AI ?** :: Exécution de modèles IA directement sur des dispositifs locaux (smartphones, capteurs, caméras) sans dépendance au cloud, pour des raisons de latence, confidentialité et disponibilité hors ligne.
 

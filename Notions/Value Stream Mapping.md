@@ -85,7 +85,7 @@ Dans un SI complexe, les processus de delivery (développement, déploiement, ge
 ---
 
 ## Flashcards
-#flashcards/Optimisation_du_SI/Value_Stream_Mapping
+#flashcards
 
 Qu'est-ce que la Value Stream Mapping ? :: Un outil visuel lean permettant de cartographier toutes les étapes (VA et NVA) d'un flux de valeur pour identifier les gaspillages et optimiser le processus.
 

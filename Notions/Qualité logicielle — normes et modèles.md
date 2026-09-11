@@ -93,7 +93,7 @@ La révision 2023 ajoute **Sûreté** (Safety) et réorganise certaines sous-car
 - La révision 2023 d'ISO 25010 intègre la **sûreté fonctionnelle** (Safety), répondant aux enjeux des systèmes embarqués et de l'IA.
 
 ## Flashcards
-#flashcards/Développement/Qualité_logicielle_normes_et_modèles
+#flashcards
 Quel modèle de qualité organise les critères selon 3 axes : Opération, Révision, Transition ? :: Le modèle de **McCall** (1977).
 
 Quelle norme remplace ISO 9126 et constitue la référence actuelle pour la qualité logicielle ? :: **ISO 25010** (famille SQuaRE — ISO 2500x), publiée en 2011 et révisée en 2023.

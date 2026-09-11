@@ -92,7 +92,7 @@ Contexte géopolitique : la PIPL permet à la Chine de contrôler les transferts
 - La fragmentation réglementaire engendre un coût estimé à 2-4 % du budget IT pour la conformité multi-juridictionnelle dans les grandes organisations (Gartner, 2023).
 
 ## Flashcards
-#flashcards/Big_DATA/Réglementations_internationales_sur_les_données
+#flashcards
 
 Quels sont les seuils d'application du CCPA/CPRA pour une entreprise ? :: L'entreprise doit dépasser l'un des seuils : CA annuel > 25 M$, ou traitement des données de > 100 000 consommateurs/ménages californiens par an, ou > 50 % des revenus issus de la vente de données personnelles.
 

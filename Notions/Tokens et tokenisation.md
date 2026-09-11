@@ -105,7 +105,7 @@ La tokenisation est la promesse de rendre tout actif (immobilier, art, actions, 
 ---
 
 ## Flashcards
-#flashcards/Blockchain/Tokens_et_tokenisation
+#flashcards
 
 Quelle est la différence entre un token fongible et un NFT ? :: Un token fongible (ERC-20) est interchangeable et divisible (1 USDT = 1 USDT) ; un NFT (ERC-721) est unique et indivisible, représentant un actif spécifique.
 

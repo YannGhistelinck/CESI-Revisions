@@ -101,7 +101,7 @@ Lunettes AR rugged montées sur la tête (head-mounted), mains libres, résistan
 - Les technologies XR génèrent 60 % de réduction du temps de diagnostic lors des interventions de maintenance guidée (PTC, 2023).
 
 ## Flashcards
-#flashcards/Développement/Industrie_4_0_et_XR
+#flashcards
 - Qu'est-ce que l'Industrie 4.0 ? :: La quatrième révolution industrielle (depuis 2011), caractérisée par la convergence du numérique (IoT, IA, cloud, XR, robotique) avec les systèmes de production physiques.
 - Quels sont les trois principaux usages du XR dans l'industrie ? :: La formation immersive (VR), la maintenance augmentée (RA), et la conception collaborative (RM/VR sur maquette numérique).
 - Quelle est la différence entre HoloLens 2 et Meta Quest 3 ? :: HoloLens 2 est un casque de réalité mixte enterprise (hologrammes dans l'espace réel, ~3 500 €) ; Meta Quest 3 est un casque VR/MR grand public et enterprise (passthrough couleur, < 600 €).
