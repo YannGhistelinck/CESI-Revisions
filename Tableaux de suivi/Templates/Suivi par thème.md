@@ -11,16 +11,16 @@ type: suivi
 | Thème | Notions | Maîtrisé | Vu | Pas vu | % |
 |-------|---------|----------|----|--------|---|
 | [[Thème 1 — SI et environnement]] | 16 | 0 | 0 | 16 | 0% |
-| [[Thème 2 — Cybersécurité]] | 24 | 0 | 0 | 24 | 0% |
+| [[Thème 2 — Cybersécurité]] | 26 | 0 | 0 | 26 | 0% |
 | [[Thème 3 — Cloud et Virtualisation]] | 18 | 0 | 0 | 18 | 0% |
 | [[Thème 4 — Big DATA]] | 21 | 0 | 0 | 21 | 0% |
-| [[Thème 5 — Développement]] | 25 | 0 | 0 | 25 | 0% |
+| [[Thème 5 — Développement]] | 27 | 0 | 0 | 27 | 0% |
 | [[Thème 6 — Mobilité]] | 8 | 0 | 0 | 8 | 0% |
-| [[Thème 7 — Management et stratégie]] | 14 | 0 | 0 | 14 | 0% |
+| [[Thème 7 — Management et stratégie]] | 15 | 0 | 0 | 15 | 0% |
 | [[Thème 8 — Blockchain]] | 16 | 0 | 0 | 16 | 0% |
 | [[Thème 9 — IA]] | 18 | 0 | 0 | 18 | 0% |
-| [[Thème 10 — Optimisation du SI]] | 18 | 0 | 0 | 18 | 0% |
-| Transversal | 7 | 0 | 0 | 7 | 0% |
+| [[Thème 10 — Optimisation du SI]] | 20 | 0 | 0 | 20 | 0% |
+| Transversal | 9 | 0 | 0 | 9 | 0% |
 
 ---
 
@@ -75,6 +75,8 @@ type: suivi
 | [[Authentification et gestion des accès (IAM)]] | pas vu | |
 | [[Outils de sécurité réseau]] | pas vu | |
 | [[ANSSI et acteurs de la cybersécurité]] | pas vu | |
+| [[OWASP Top 10 et sécurité applicative]] | pas vu | |
+| [[Audit SI]] | pas vu | |
 
 ---
 
@@ -160,6 +162,8 @@ type: suivi
 | [[Réalité étendue (XR)]] | pas vu | |
 | [[Digital Twin]] | pas vu | |
 | [[Industrie 4.0 et XR]] | pas vu | |
+| [[OWASP Top 10 et sécurité applicative]] | pas vu | |
+| [[Stratégie de tests logiciels]] | pas vu | |
 
 ---
 
@@ -196,6 +200,7 @@ type: suivi
 | [[SAFe et agilité à l'échelle]] | pas vu | |
 | [[RACI et outils de gouvernance projet]] | pas vu | |
 | [[DORA (Digital Operational Resilience Act)]] | pas vu | |
+| [[Tableau de Bord DSI]] | pas vu | |
 
 ## Blockchain
 
@@ -263,6 +268,8 @@ type: suivi
 | [[ISO 9001 et qualité]] | pas vu | |
 | [[Acteurs cybersécurité (éditeurs)]] | pas vu | |
 | [[Sauvegarde et solutions de protection des données]] | pas vu | |
+| [[Tableau de Bord DSI]] | pas vu | |
+| [[Audit SI]] | pas vu | |
 
 ## Transversal
 
@@ -275,3 +282,5 @@ type: suivi
 | [[Méthode MoSCoW]] | pas vu | |
 | [[SWOT - PESTEL]] | pas vu | |
 | [[Scrum]] | pas vu | |
+| [[Indicateurs financiers du SI]] | pas vu | |
+| [[Management interculturel]] | pas vu | |

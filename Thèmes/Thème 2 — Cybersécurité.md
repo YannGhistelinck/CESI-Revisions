@@ -47,6 +47,8 @@ statut: pas vu
 | [[Authentification et gestion des accès (IAM)]] | pas vu |                   |
 | [[Outils de sécurité réseau]]                   | pas vu |                   |
 | [[ANSSI et acteurs de la cybersécurité]]        | pas vu |                   |
+| [[OWASP Top 10 et sécurité applicative]]        | pas vu |                   |
+| [[Audit SI]]                                    | pas vu |                   |
 
 ## Questions types du jury
 - Quelles sont les principales menaces cyber pour une PME en 2025 ?

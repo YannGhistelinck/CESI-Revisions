@@ -46,6 +46,8 @@ statut: pas vu
 | [[Réalité étendue (XR)]] | pas vu | |
 | [[Digital Twin]] | pas vu | |
 | [[Industrie 4.0 et XR]] | pas vu | |
+| [[OWASP Top 10 et sécurité applicative]] | pas vu | |
+| [[Stratégie de tests logiciels]] | pas vu | |
 
 ## Questions types du jury
 - ISO 9126 vs ISO 25010 : pourquoi la norme a-t-elle évolué ?

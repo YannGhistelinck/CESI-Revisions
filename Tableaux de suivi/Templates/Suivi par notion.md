@@ -194,5 +194,11 @@ type: suivi
 | [[Méthode MoSCoW]]                                    | Transversal                          | pas vu |                   |
 | [[SWOT - PESTEL]]                                     | Transversal                          | pas vu |                   |
 | [[Scrum]]                                             | Transversal, Développement           | pas vu |                   |
+| [[Tableau de Bord DSI]]                               | Optim. SI, Management                | pas vu |                   |
+| [[Indicateurs financiers du SI]]                      | Transversal                          | pas vu |                   |
+| [[OWASP Top 10 et sécurité applicative]]              | Cyber, Développement                 | pas vu |                   |
+| [[Audit SI]]                                          | Optim. SI, Cyber                     | pas vu |                   |
+| [[Stratégie de tests logiciels]]                      | Développement                        | pas vu |                   |
+| [[Management interculturel]]                          | Transversal                          | pas vu |                   |
 
 > **Légende statuts** : `pas vu` | `vu` | `maîtrisé`

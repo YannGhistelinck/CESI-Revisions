@@ -40,6 +40,8 @@ statut: pas vu
 | [[ISO 9001 et qualité]] | pas vu | |
 | [[Acteurs cybersécurité (éditeurs)]] | pas vu | |
 | [[Sauvegarde et solutions de protection des données]] | pas vu | |
+| [[Tableau de Bord DSI]] | pas vu | |
+| [[Audit SI]] | pas vu | |
 
 ## Questions types du jury
 - Comment optimiser un SI sans passer par le cloud ?
