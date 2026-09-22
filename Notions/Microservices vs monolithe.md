@@ -9,6 +9,7 @@ dernière_révision:
 
 # Microservices vs monolithe
 
+![[N — Microservices vs monolithe.mp3]]
 ## En bref
 > **Définition** : Un **monolithe** est une application dans laquelle tous les composants fonctionnels sont déployés comme une seule unité. Une architecture **microservices** décompose l'application en services indépendants, chacun responsable d'une capacité métier, déployables et scalables indépendamment. L'**event-driven architecture** (EDA) est un style complémentaire dans lequel les services communiquent via des événements asynchrones.
 > **Pourquoi c'est important** : Le choix entre monolithe et microservices est l'une des décisions architecturales les plus structurantes pour une DSI. Il impacte le modèle organisationnel (loi de Conway), les coûts d'infrastructure, la complexité opérationnelle et la capacité à scaler.

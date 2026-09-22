@@ -10,6 +10,7 @@ dernière_révision:
 
 # NIS2
 
+![[N — NIS2.mp3]]
 ## En bref
 > **Définition** : La directive NIS2 (Network and Information Security 2) est une directive européenne adoptée en janvier 2023 (2022/2555/UE), remplaçant la directive NIS1 de 2016. Elle élargit le champ des entités soumises à des obligations de cybersécurité et renforce significativement les exigences, notamment en matière de gouvernance, de gestion des risques et de notification des incidents.
 > **Pourquoi c'est important** : NIS2 impose des obligations contraignantes à un périmètre beaucoup plus large d'organisations (estimé à 10 000 à 15 000 entités en France), avec des sanctions pouvant atteindre 10 M€ ou 2 % du CA mondial. La DSI doit piloter la mise en conformité et anticiper les exigences techniques et organisationnelles.

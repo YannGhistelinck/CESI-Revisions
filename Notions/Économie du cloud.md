@@ -9,6 +9,7 @@ dernière_révision:
 
 # Économie du cloud
 
+![[N — Économie du cloud.mp3]]
 ## En bref
 > **Définition** : L'économie du cloud repose sur la transformation des dépenses informatiques de CAPEX (investissements) en OPEX (charges opérationnelles), avec un modèle pay-as-you-go. Elle introduit des mécanismes d'optimisation spécifiques (reserved instances, savings plans) et des coûts cachés (egress fees) qu'une DSI doit maîtriser pour éviter le dérapage budgétaire.
 > **Pourquoi c'est important** : Le cloud ne réduit pas mécaniquement les coûts. Sans gouvernance FinOps, les entreprises constatent fréquemment une dérive de 30 à 40% par rapport aux prévisions. La maîtrise des modèles tarifaires est un enjeu stratégique pour la DSI.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Menaces cyber
 
+![[N — Menaces cyber.mp3]]
 ## En bref
 > **Définition** : Les menaces cyber désignent l'ensemble des attaques informatiques malveillantes visant à compromettre la confidentialité, l'intégrité ou la disponibilité des systèmes d'information. Elles couvrent un spectre large : ransomware, phishing, APT, zero-day et attaques sur la supply chain.
 > **Pourquoi c'est important** : Pour une DSI, connaître la taxonomie des menaces est indispensable pour prioriser les investissements en sécurité, choisir les bons outils de détection et construire des plans de réponse adaptés.

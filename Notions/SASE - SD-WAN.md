@@ -10,6 +10,7 @@ dernière_révision:
 
 # SASE - SD-WAN
 
+![[N — SASE - SD-WAN.mp3]]
 ## En bref
 > **Définition** : Le SASE (Secure Access Service Edge, prononcé "sassy") est un cadre architectural défini par Gartner en 2019 qui converge les fonctions réseau (SD-WAN) et les fonctions de sécurité cloud (SSE : SWG, CASB, ZTNA, FWaaS) dans un service cloud unifié et distribué. L'objectif est de connecter et sécuriser tous les utilisateurs, appareils et applications depuis n'importe quel endroit, sans backhauling vers un datacenter central.
 > **Pourquoi c'est important** : Avec la généralisation du télétravail et le déplacement des applications vers le cloud (SaaS, IaaS), l'architecture réseau traditionnelle en "château-fort" (VPN vers datacenter central) est devenue un goulot d'étranglement. La DSI doit repenser l'architecture réseau pour connecter directement les utilisateurs au cloud tout en maintenant un niveau de sécurité homogène.

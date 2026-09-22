@@ -9,6 +9,7 @@ dernière_révision:
 
 # Chiffrement et gestion des clés
 
+![[N — Chiffrement et gestion des clés.mp3]]
 ## En bref
 > **Définition** : Le chiffrement est le processus de transformation de données lisibles en données illisibles sans clé de déchiffrement. Dans le cloud, on distingue le chiffrement at rest (données stockées), in transit (données en mouvement) et in use (données en cours de traitement). La gestion des clés (KMS) définit qui contrôle les clés et donc l'accès ultime aux données.
 > **Pourquoi c'est important** : Pour une DSI, la question du chiffrement est centrale dans toute stratégie cloud, notamment pour la conformité RGPD, NIS2 et PCI-DSS. La gestion des clés détermine le niveau de dépendance vis-à-vis du fournisseur cloud et la capacité à révoquer l'accès aux données en cas d'incident ou de résiliation de contrat.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Blockchain et supply chain
 
+![[N — Blockchain et supply chain.mp3]]
 ## En bref
 
 La blockchain appliquée à la supply chain permet de créer un registre immuable et partagé de toutes les étapes de la vie d'un produit, de sa production à sa livraison au consommateur. Elle répond à un problème fondamental de la chaîne logistique : la **fragmentation de l'information** entre acteurs multiples (producteurs, transporteurs, douanes, distributeurs). En assurant une **single source of truth** (SSOT), elle renforce la traçabilité, lutte contre la contrefaçon et améliore la gestion des crises (rappels produits).

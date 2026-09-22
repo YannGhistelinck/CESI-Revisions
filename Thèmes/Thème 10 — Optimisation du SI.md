@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 10 — Architecture_et_pilotage_des_systèmes_d_information.m4a]]
 # Optimisation du SI
 
+![[T10 — Optimisation du SI.mp3]]
 ## Présentation
 > Thème centré sur les méthodes et outils pour optimiser un système d'information : ITIL, automatisation, KPI, veille technologique, amélioration continue. Approche orientée gouvernance et performance opérationnelle.
 

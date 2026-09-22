@@ -9,6 +9,7 @@ dernière_révision:
 
 # Bases NoSQL
 
+![[N — Bases NoSQL.mp3]]
 ## En bref
 > **Définition** : Les bases de données NoSQL (Not Only SQL) sont des systèmes de gestion de données qui renoncent au modèle relationnel strict pour offrir une flexibilité de schéma, une scalabilité horizontale et des performances adaptées à des types de données spécifiques. Elles se déclinent en plusieurs familles : documentaires, clé-valeur, colonnes larges, graphes et vectorielles.
 > **Pourquoi c'est important** : Les bases relationnelles traditionnelles montrent leurs limites face aux volumes, à la variété et à la vélocité du Big Data. Les DSI doivent maîtriser les différentes familles NoSQL pour choisir le bon outil selon le cas d'usage : haute disponibilité, faible latence, données de graphe ou recherche par similarité pour l'IA.

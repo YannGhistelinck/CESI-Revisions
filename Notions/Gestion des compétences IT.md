@@ -8,6 +8,7 @@ dernière_révision:
 
 # Gestion des compétences IT
 
+![[N — Gestion des compétences IT.mp3]]
 ## En bref
 
 ### Définition

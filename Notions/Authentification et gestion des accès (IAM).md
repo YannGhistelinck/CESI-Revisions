@@ -10,6 +10,7 @@ dernière_révision:
 
 # Authentification et gestion des accès (IAM)
 
+![[N — Authentification et gestion des accès (IAM).mp3]]
 ## En bref
 > **Définition** : L'IAM (Identity and Access Management) désigne l'ensemble des processus et technologies permettant de gérer les identités numériques et de contrôler les droits d'accès aux ressources informatiques. Il repose sur trois piliers : l'authentification (qui êtes-vous ?), l'autorisation (qu'avez-vous le droit de faire ?) et la traçabilité (qu'avez-vous fait ?).
 > **Pourquoi c'est important** : Plus de 80 % des violations de données impliquent des identifiants compromis ou des accès mal configurés (Verizon DBIR, 2023). L'IAM est le premier rempart contre les cyberattaques et une exigence centrale des référentiels NIS2, ISO 27001 et des cyber-assureurs. Dans les environnements cloud et mobilité, la gestion des identités remplace le périmètre réseau comme frontière de sécurité.

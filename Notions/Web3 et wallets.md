@@ -8,6 +8,7 @@ dernière_révision:
 
 # Web3 et wallets
 
+![[N — Web3 et wallets.mp3]]
 ## En bref
 
 ### Définition

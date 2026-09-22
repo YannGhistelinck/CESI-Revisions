@@ -8,6 +8,7 @@ dernière_révision:
 
 # Gestion de la mobilité (UEM)
 
+![[N — Gestion de la mobilité (UEM).mp3]]
 ## En bref
 > **Définition** : L'UEM (Unified Endpoint Management) est une approche unifiée de gestion de l'ensemble des terminaux d'une organisation (smartphones, tablettes, PC, objets connectés) depuis une console centrale. Elle fait converger MDM, MAM et MCM en un seul outil pour administrer le cycle de vie des appareils, des applications et des contenus mobiles.
 > **Pourquoi c'est important** : Dans une DSI, la multiplication des terminaux et des usages mobiles crée des risques de sécurité majeurs (perte/vol, fuite de données, shadow IT). L'UEM permet d'appliquer des politiques de sécurité cohérentes tout en maintenant la productivité des collaborateurs, qu'ils utilisent des équipements professionnels ou personnels.

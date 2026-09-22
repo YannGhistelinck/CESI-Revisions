@@ -8,6 +8,7 @@ dernière_révision:
 
 # TDD - BDD
 
+![[N — TDD - BDD.mp3]]
 ## En bref
 > **Définition** : Le **TDD** (Test-Driven Development) est une pratique de développement dans laquelle on écrit un test automatisé avant le code de production, puis on fait passer le test avec le minimum de code, puis on refactorise. Le **BDD** (Behavior-Driven Development) étend le TDD en exprimant les comportements attendus dans un langage naturel partagé avec les parties prenantes non techniques. Ces pratiques s'inscrivent dans un écosystème plus large incluant la revue de code et le pair programming.
 > **Pourquoi c'est important** : Pour une DSI, le TDD et le BDD permettent de réduire les bugs en production, de documenter les comportements attendus, d'accélérer le refactoring en toute sécurité et d'améliorer la communication entre équipes techniques et métier. Ils sont des piliers de l'Extreme Programming et de l'agilité mature.

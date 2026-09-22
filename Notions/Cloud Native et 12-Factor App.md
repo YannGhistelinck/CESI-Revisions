@@ -9,6 +9,7 @@ dernière_révision:
 
 # Cloud Native et 12-Factor App
 
+![[N — Cloud Native et 12-Factor App.mp3]]
 ## En bref
 > **Définition** : Le terme "Cloud Native" désigne une approche de conception et d'exploitation d'applications qui exploite pleinement les capacités du cloud (élasticité, automatisation, résilience) en s'appuyant sur des microservices, des conteneurs, l'orchestration et des pratiques DevOps/CI-CD. La méthodologie **12-Factor App**, formalisée par Heroku (2012), définit 12 principes pour concevoir des applications cloud native portables, scalables et maintenables.
 > **Pourquoi c'est important** : Une DSI qui adopte le cloud native réduit le time-to-market, améliore la résilience de ses services et optimise ses coûts via l'auto-scaling. Les applications "lift-and-shift" (migration sans refonte) ne bénéficient pas pleinement du cloud ; le cloud native en est l'exploitation maximale.

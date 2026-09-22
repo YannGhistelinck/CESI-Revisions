@@ -9,6 +9,7 @@ dernière_révision:
 
 # SRE (Site Reliability Engineering)
 
+![[N — SRE (Site Reliability Engineering).mp3]]
 ## En bref
 > **Définition** : Le Site Reliability Engineering (SRE) est une discipline née chez Google en 2003, formalisée par Ben Treynor Sloss (VP Engineering Google) et documentée dans le livre *Site Reliability Engineering* (O'Reilly, 2016). Le SRE applique les principes du génie logiciel aux problèmes opérationnels, en traitant l'exploitation de systèmes à grande échelle comme un problème d'ingénierie. Les concepts clés sont : **SLI/SLO/SLA**, **error budget**, **toil** et **blameless post-mortem**.
 > **Pourquoi c'est important** : Le SRE résout la tension fondamentale entre fiabilité (vouloir par les Ops) et vélocité (voulée par les Dev) via un mécanisme objectif : l'**error budget**. Si le système est trop fiable, on peut prendre plus de risques (déployer davantage). S'il dépasse son quota d'erreurs, on arrête les déploiements et on se concentre sur la fiabilité. Le SRE est la mise en pratique du DevOps dans des environnements à très grande échelle.

@@ -6,6 +6,7 @@ statut: pas vu
 dernière_révision: 
 ---
 
+![[N — Conduite du changement.mp3]]
 ## En bref
 
 ### Définition

@@ -10,6 +10,7 @@ dernière_révision:
 
 # MLOps - DataOps
 
+![[N — MLOps - DataOps.mp3]]
 ## En bref
 
 ### Définition

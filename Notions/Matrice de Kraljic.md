@@ -6,6 +6,7 @@ statut: pas vu
 dernière_révision: 
 ---
 
+![[N — Matrice de Kraljic.mp3]]
 ## En bref
 
 ### Définition

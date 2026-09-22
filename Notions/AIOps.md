@@ -9,6 +9,7 @@ dernière_révision:
 
 # AIOps
 
+![[N — AIOps.mp3]]
 ## En bref
 
 ### Définition

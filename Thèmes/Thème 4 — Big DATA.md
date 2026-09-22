@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 4 — Architecture_et_gouvernance_des_données_modernes.m4a]]
 # Big DATA
 
+![[T4 — Big DATA.mp3]]
 ## Présentation
 > Thème autour de la collecte, du traitement et de la valorisation des données massives. Couvre les enjeux business, les outils, la législation (RGPD) et les liens avec l'IA. Sujet stratégique pour la prise de décision en entreprise.
 

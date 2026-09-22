@@ -9,6 +9,7 @@ dernière_révision:
 
 # VPN et accès distant
 
+![[N — VPN et accès distant.mp3]]
 ## En bref
 > **Définition** : Un VPN (Virtual Private Network) est un tunnel chiffré établi entre un terminal distant et le réseau de l'entreprise, permettant à un utilisateur de se connecter aux ressources internes comme s'il était physiquement présent sur le réseau local. Le ZTNA (Zero Trust Network Access) est l'évolution moderne du VPN : plutôt que d'ouvrir un accès au réseau entier, il octroie un accès granulaire à des applications spécifiques après vérification continue de l'identité et du contexte.
 > **Pourquoi c'est important** : Avec la généralisation du télétravail et de la mobilité, l'accès sécurisé au SI depuis l'extérieur est devenu un enjeu critique pour toute DSI. Un VPN mal configuré ou un accès distant non protégé représente l'un des vecteurs d'attaque les plus exploités par les cybercriminels (ransomwares, APT). Le passage au ZTNA est une priorité de modernisation des architectures de sécurité.

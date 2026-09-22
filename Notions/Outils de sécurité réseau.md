@@ -9,6 +9,7 @@ dernière_révision:
 
 # Outils de sécurité réseau
 
+![[N — Outils de sécurité réseau.mp3]]
 ## En bref
 > **Définition** : Les outils de sécurité réseau constituent l'arsenal technique permettant de protéger les infrastructures informatiques contre les intrusions, les malwares, les fuites de données et les vulnérabilités. Ils couvrent un spectre large : du filtrage réseau (firewall, WAF) à la prévention des fuites de données (DLP), en passant par la gestion des vulnérabilités (patch management) et le contrôle des accès réseau (NAC).
 > **Pourquoi c'est important** : Pour une DSI, ces outils constituent le socle technique de la posture de sécurité. Leur absence ou leur mauvaise configuration est à l'origine de la majorité des incidents. Ils sont exigés par les référentiels NIS2, ISO 27001, et les cyber-assureurs, et doivent être adaptés aux environnements hybrides (cloud + on-premise) et mobiles.

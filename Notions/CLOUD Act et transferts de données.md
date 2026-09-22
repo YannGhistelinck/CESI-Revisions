@@ -10,6 +10,7 @@ dernière_révision:
 
 # CLOUD Act et transferts de données
 
+![[N — CLOUD Act et transferts de données.mp3]]
 ## En bref
 > **Définition** : Le CLOUD Act (Clarifying Lawful Overseas Use of Data Act, 2018) est une loi fédérale américaine permettant aux autorités américaines de contraindre des entreprises de droit américain à fournir des données stockées à l'étranger. Il s'inscrit dans un cadre plus large incluant FISA Section 702 (surveillance des non-Américains) et génère des conflits de juridiction avec le RGPD européen, illustrés par les arrêts Schrems I et II.
 > **Pourquoi c'est important** : Toute organisation utilisant AWS, Azure, Google Cloud ou Microsoft 365 utilise des services d'entreprises soumises au CLOUD Act. Les données peuvent donc théoriquement être accessibles par les autorités américaines, indépendamment de leur localisation physique. C'est l'argument central du cloud souverain.

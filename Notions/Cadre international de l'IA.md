@@ -8,6 +8,7 @@ dernière_révision: 2026-09-08
 
 # Cadre international de l'IA
 
+![[N — Cadre international de l'IA.mp3]]
 ## En bref
 
 ### Définition

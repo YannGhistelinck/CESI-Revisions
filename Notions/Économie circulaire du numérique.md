@@ -8,6 +8,7 @@ dernière_révision:
 
 # Économie circulaire du numérique
 
+![[N — Économie circulaire du numérique.mp3]]
 ## En bref
 > **Définition** : L'économie circulaire appliquée au numérique vise à maintenir les équipements et les matériaux à leur niveau de valeur le plus élevé le plus longtemps possible : réemploi, reconditionnement, réparation, recyclage. Elle s'oppose au modèle linéaire "fabriquer – utiliser – jeter" qui domine encore le secteur des équipements informatiques.
 > **Pourquoi c'est important** : La fabrication des équipements représente 78 % de l'empreinte carbone du numérique français. Allonger la durée de vie des terminaux et des serveurs est le levier environnemental le plus puissant à disposition des DSI et des directions achats.

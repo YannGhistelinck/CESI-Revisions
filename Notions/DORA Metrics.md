@@ -9,6 +9,7 @@ dernière_révision:
 
 # DORA Metrics
 
+![[N — DORA Metrics.mp3]]
 ## En bref
 > **Définition** : Les DORA Metrics (DevOps Research and Assessment) sont quatre indicateurs clés permettant de mesurer la performance des équipes de livraison logicielle. Issus d'un programme de recherche mené par Google depuis 2014, ils distinguent les équipes "Elite", "High", "Medium" et "Low" en termes de performance DevOps.
 > **Pourquoi c'est important** : Pour une DSI, ces métriques offrent un référentiel objectif pour piloter l'amélioration continue des pipelines CI/CD, justifier des investissements d'outillage, et aligner la performance technique avec les objectifs métier.

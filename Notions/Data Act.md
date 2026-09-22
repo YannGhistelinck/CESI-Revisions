@@ -9,6 +9,7 @@ dernière_révision:
 
 # Data Act
 
+![[N — Data Act.mp3]]
 ## En bref
 > **Définition** : Le **Data Act** est un règlement européen entré en vigueur le 11 janvier 2024 (applicable à partir de septembre 2025) qui régit le partage, l'accès et l'utilisation des données générées par les produits connectés (IoT) et les services associés. Il complète le **Data Governance Act** (DGA, en application depuis septembre 2023), qui encadre quant à lui les mécanismes de partage volontaire de données entre entreprises, avec le secteur public et via des intermédiaires de données (data intermediaries).
 > **Pourquoi c'est important** : Pour une DSI, le Data Act impose de nouvelles obligations sur les fabricants de produits connectés et les fournisseurs de services cloud : portabilité des données, droits d'accès des utilisateurs, changement de fournisseur cloud facilité. Il redessine les règles du marché européen de la donnée et renforce la souveraineté numérique de l'UE.

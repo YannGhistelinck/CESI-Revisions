@@ -8,6 +8,7 @@ dernière_révision:
 
 # VeriSM
 
+![[N — VeriSM.mp3]]
 ## En bref
 
 ### Définition

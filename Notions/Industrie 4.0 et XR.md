@@ -8,6 +8,7 @@ dernière_révision:
 
 # Industrie 4.0 et XR
 
+![[N — Industrie 4.0 et XR.mp3]]
 ## En bref
 > **Définition** : L'Industrie 4.0 désigne la quatrième révolution industrielle, caractérisée par la convergence des technologies numériques (IoT, IA, big data, robotique, cloud, XR) avec les systèmes de production physiques. La réalité étendue (XR) y joue un rôle central en transformant la formation des opérateurs, la maintenance des équipements et la conception des lignes de production.
 > **Pourquoi c'est important** : Les DSI industrielles font face à un double défi : moderniser des systèmes OT (Operational Technology) souvent vieux de 20 à 30 ans tout en formant une main-d'œuvre sur des équipements complexes. Le XR adresse ces deux enjeux en rendant la formation immersive, la maintenance guidée et la conception collaborative sans nécessiter d'arrêt de production.

@@ -9,6 +9,7 @@ dernière_révision:
 
 # Legacy et dette technique
 
+![[N — Legacy et dette technique.mp3]]
 ## En bref
 > **Définition** : Un système legacy est une application ou une infrastructure ancienne, difficile à maintenir et à faire évoluer, mais qui reste en production car elle assure des fonctions métier critiques. La dette technique (concept de Ward Cunningham, 1992) désigne l'accumulation de compromis de conception et de développement qui ralentissent les futures évolutions et augmentent le coût de maintenance. Plus elle est ignorée, plus les "intérêts" à payer augmentent.
 > **Pourquoi c'est important** : Pour une DSI, la dette technique et les systèmes legacy consomment entre 60 et 80 % du budget IT en maintenance, laissant peu de ressources pour l'innovation. La modernisation est un enjeu stratégique majeur, notamment pour préparer les migrations cloud et répondre aux exigences de performance et de sécurité modernes.

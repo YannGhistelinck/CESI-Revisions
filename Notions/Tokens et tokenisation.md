@@ -8,6 +8,7 @@ dernière_révision:
 
 # Tokens et tokenisation
 
+![[N — Tokens et tokenisation.mp3]]
 ## En bref
 
 ### Définition

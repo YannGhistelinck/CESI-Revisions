@@ -9,6 +9,7 @@ dernière_révision:
 
 # IA et automatisation des tests
 
+![[N — IA et automatisation des tests.mp3]]
 ## En bref
 > **Définition** : L'IA appliquée aux tests logiciels désigne l'ensemble des techniques d'intelligence artificielle (machine learning, LLM, vision par ordinateur) utilisées pour automatiser, améliorer et accélérer les activités de test : génération automatique de cas de test, auto-guérison des tests cassés (auto-healing), sélection prédictive des tests à exécuter, et détection d'anomalies visuelles dans les interfaces.
 > **Pourquoi c'est important** : La maintenance des tests automatisés est l'un des principaux freins à l'adoption du test automation — notamment les tests E2E qui se cassent à chaque modification d'interface. L'IA réduit ce fardeau, permet de couvrir plus de cas sans effort humain proportionnel, et rend les pipelines CI/CD plus intelligents.

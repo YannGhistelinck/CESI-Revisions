@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 3 — Cloud et Virtualisation.m4a]]
 # Cloud et Virtualisation
 
+![[T3 — Cloud et Virtualisation.mp3]]
 ## Présentation
 > Thème traitant des infrastructures cloud (IaaS, PaaS, SaaS), de la virtualisation, de la conteneurisation et des enjeux de migration. Transformation majeure des SI avec des implications en termes de coûts, sécurité et souveraineté.
 

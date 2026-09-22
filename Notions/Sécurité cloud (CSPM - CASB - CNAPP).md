@@ -9,6 +9,7 @@ dernière_révision:
 
 # Sécurité cloud (CSPM - CASB - CNAPP)
 
+![[N — Sécurité cloud (CSPM - CASB - CNAPP).mp3]]
 ## En bref
 > **Définition** : La sécurité cloud regroupe un ensemble d'outils et de pratiques visant à protéger les environnements cloud contre les mauvaises configurations, les accès non autorisés et les menaces. Les acronymes CSPM, CASB et CNAPP désignent des catégories d'outils complémentaires couvrant respectivement la posture de sécurité, l'accès aux applications cloud et la protection native des applications cloud.
 > **Pourquoi c'est important** : Dans une DSI, la majorité des incidents cloud sont causés par des erreurs de configuration (misconfiguration) et non par des failles zero-day. Ces outils permettent d'automatiser la détection des dérives et de maintenir une posture de sécurité conforme en continu, notamment dans les architectures multi-cloud.

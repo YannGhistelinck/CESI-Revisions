@@ -9,6 +9,7 @@ dernière_révision:
 
 # Projets innovants de datacenters
 
+![[N — Projets innovants de datacenters.mp3]]
 ## En bref
 > **Définition** : Face aux contraintes énergétiques et environnementales, des projets innovants réinventent le concept de datacenter : placement sous-marin pour profiter du refroidissement naturel, valorisation de la chaleur fatale comme source de chauffage domestique ("chaudière numérique"), ou encore couplage entre minage de cryptomonnaies et besoins de chaleur.
 > **Pourquoi c'est important** : Ces innovations illustrent des approches systémiques qui dépassent la simple optimisation interne : elles cherchent à intégrer le datacenter dans son écosystème (réseau de chaleur, bâtiment, milieu marin), transformant un déchet (chaleur) ou une contrainte (refroidissement) en ressource. La DSI doit connaître ces tendances pour les anticiper dans ses choix d'hébergement.

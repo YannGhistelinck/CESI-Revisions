@@ -8,6 +8,7 @@ dernière_révision:
 
 # EBIOS RM et gestion des risques cyber
 
+![[N — EBIOS RM et gestion des risques cyber.mp3]]
 ## En bref
 > **Définition** : EBIOS Risk Manager (EBIOS RM) est la méthode française d'analyse et de traitement des risques de sécurité des systèmes d'information, publiée par l'ANSSI en 2018. Elle permet d'identifier les risques numériques pesant sur une organisation, d'évaluer leur criticité et de définir les mesures de traitement adaptées. Elle s'inscrit dans un ensemble de cadres de gestion des risques cyber incluant ISO 27005, NIST RMF et FAIR.
 > **Pourquoi c'est important** : La gestion des risques cyber est la colonne vertébrale de toute stratégie de sécurité. Sans analyse de risques structurée, les investissements sécurité sont dispersés et non prioritarisés. EBIOS RM est la référence recommandée par l'ANSSI pour les OIV, les OES et les entités soumises à NIS2. Elle permet au RSSI de justifier ses choix au COMEX avec une approche rationnelle.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Fine-tuning et prompt engineering
 
+![[N — Fine-tuning et prompt engineering.mp3]]
 ## En bref
 
 ### Définition

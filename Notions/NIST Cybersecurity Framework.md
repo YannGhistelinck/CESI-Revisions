@@ -8,6 +8,7 @@ dernière_révision:
 
 # NIST Cybersecurity Framework
 
+![[N — NIST Cybersecurity Framework.mp3]]
 ## En bref
 > **Définition** : Le NIST Cybersecurity Framework (NIST CSF) est un cadre de référence volontaire développé par le National Institute of Standards and Technology (NIST) américain, publié en 2014 et mis à jour en version 2.0 en février 2024. Il structure la gestion des risques cyber en 6 fonctions (GOVERN, IDENTIFY, PROTECT, DETECT, RESPOND, RECOVER) et fournit un langage commun pour piloter la cybersécurité à tous les niveaux de l'organisation.
 > **Pourquoi c'est important** : Adopté par des milliers d'organisations dans le monde, le NIST CSF est devenu un standard de facto pour évaluer et améliorer la maturité cyber. Il est utilisé par les RSSI et DSI pour structurer leur stratégie, prioriser les investissements et communiquer avec la direction. Il est complémentaire des normes ISO 27001 et sert de référence pour de nombreux cadres réglementaires.

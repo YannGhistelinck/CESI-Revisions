@@ -9,6 +9,7 @@ dernière_révision:
 
 # Amélioration continue (PDCA - Lean - Kaizen)
 
+![[N — Amélioration continue (PDCA - Lean - Kaizen).mp3]]
 ## En bref
 
 ### Définition

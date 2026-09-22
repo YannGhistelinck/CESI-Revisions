@@ -9,6 +9,7 @@ dernière_révision:
 
 # RPA (Robotic Process Automation)
 
+![[N — RPA (Robotic Process Automation).mp3]]
 ## En bref
 > **Définition** : La RPA (Robotic Process Automation) est une technologie qui permet de créer des robots logiciels capables de reproduire les actions qu'un humain effectuerait sur un ordinateur : clics, saisies, extraction de données, copier-coller entre applications, envoi d'e-mails. Les robots RPA opèrent sur la couche de présentation des applications existantes, sans modifier le code source, ce qui les rend très rapides à déployer sur des systèmes legacy.
 > **Pourquoi c'est important** : Dans une DSI ou une direction métier, la RPA permet d'automatiser des tâches répétitives et à faible valeur ajoutée (saisie de données, rapprochements, transferts de fichiers) sans refonte du SI. Elle libère les collaborateurs pour des tâches à plus forte valeur, réduit les erreurs et accélère les traitements. Elle est un levier d'optimisation du SI sans nécessiter d'intégration lourde.

@@ -9,6 +9,7 @@ dernière_révision:
 
 # VUCA et benchmark
 
+![[N — VUCA et benchmark.mp3]]
 ## En bref
 
 ### Définition

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Gouvernance IT
 
+![[N — Gouvernance IT.mp3]]
 ## En bref
 
 ### Définition

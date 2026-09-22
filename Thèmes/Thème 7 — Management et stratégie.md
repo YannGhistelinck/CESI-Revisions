@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 7 — Management_informatique_des_talents_à_DORA.m4a]]
 # Management et stratégie
 
+![[T7 — Management et stratégie.mp3]]
 ## Présentation
 > Thème centré sur le rôle stratégique de la DSI : gouvernance, gestion des talents IT, PCA/PRA, consommation énergétique, impact du cloud sur les métiers. Posture de manager attendue par le jury.
 

@@ -8,6 +8,7 @@ dernière_révision:
 
 # SOAR
 
+![[N — SOAR.mp3]]
 ## En bref
 > **Définition** : Le SOAR (Security Orchestration, Automation and Response) est une plateforme permettant d'orchestrer les outils de sécurité, d'automatiser les tâches répétitives de réponse aux incidents et de standardiser les procédures via des playbooks. Il complète le SIEM en transformant les alertes en actions concrètes, avec ou sans intervention humaine.
 > **Pourquoi c'est important** : Face au volume d'alertes croissant (11 000/jour en moyenne dans un SOC) et à la pénurie de talents en cybersécurité, l'automatisation n'est plus une option. Le SOAR permet aux analystes SOC de se concentrer sur les tâches à haute valeur ajoutée en confiant les tâches répétitives à des playbooks automatisés. Il réduit le MTTR (Mean Time To Respond).

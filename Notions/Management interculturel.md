@@ -8,6 +8,7 @@ dernière_révision:
 
 # Management interculturel
 
+![[N — Management interculturel.mp3]]
 ## En bref
 > **Définition** : Le management interculturel désigne l'ensemble des pratiques et compétences permettant de manager efficacement des équipes composées de personnes issues de cultures différentes. Il s'appuie sur des modèles théoriques (Erin Meyer, Hofstede) pour décoder les différences culturelles et adapter son style de leadership, de communication et de prise de décision.
 > **Pourquoi c'est important** : Les projets IT internationaux (nearshore, offshore, équipes distribuées) sont devenus la norme dans les ESN et les grandes entreprises. Un DSI qui ne maîtrise pas les dimensions culturelles génère des conflits, des malentendus et des pertes de productivité. La maîtrise de l'interculturel est un facteur différenciant de leadership pour les managers MAALSI.

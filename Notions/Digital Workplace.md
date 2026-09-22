@@ -9,6 +9,7 @@ dernière_révision:
 
 # Digital Workplace
 
+![[N — Digital Workplace.mp3]]
 ## En bref
 > **Définition** : La Digital Workplace (ou espace de travail numérique) désigne l'ensemble des outils, plateformes et services numériques mis à disposition des collaborateurs pour travailler, collaborer et communiquer, quel que soit leur lieu ou leur terminal. Elle vise à reproduire et enrichir numériquement l'environnement de travail physique du bureau, en intégrant communication unifiée, collaboration, accès aux applications et gestion de l'expérience employé.
 > **Pourquoi c'est important** : La Digital Workplace est devenue un enjeu stratégique pour la DSI depuis la généralisation du télétravail. Elle conditionne directement la productivité, l'attractivité et la rétention des talents. Un mauvais environnement numérique dégrade l'expérience employé (DEX) et génère du shadow IT. La DSI est désormais productrice d'une expérience, pas seulement d'une infrastructure.

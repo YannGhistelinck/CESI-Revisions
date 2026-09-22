@@ -9,6 +9,7 @@ dernière_révision:
 
 # SOC
 
+![[N — SOC.mp3]]
 ## En bref
 > **Définition** : Un Security Operations Center (SOC) est une équipe centralisée — appuyée par des outils technologiques — dont la mission est de surveiller en continu le SI d'une organisation, détecter les incidents de sécurité, y répondre et améliorer la posture de sécurité. Il constitue le centre névralgique opérationnel de la cybersécurité d'une organisation.
 > **Pourquoi c'est important** : Face à la sophistication croissante des attaques et aux exigences réglementaires (NIS2, DORA, LPM), disposer d'une capacité de détection et de réponse 24/7 est devenu incontournable pour les DSI. Le SOC est la réponse organisationnelle et technique à cet impératif.

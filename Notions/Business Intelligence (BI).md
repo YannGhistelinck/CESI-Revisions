@@ -8,6 +8,7 @@ dernière_révision:
 
 # Business Intelligence (BI)
 
+![[N — Business Intelligence (BI).mp3]]
 ## En bref
 > **Définition** : La Business Intelligence (BI) désigne l'ensemble des technologies, processus et méthodes permettant de collecter, transformer et visualiser les données d'une organisation pour faciliter la prise de décision. Elle englobe la conception de tableaux de bord (dashboards), les rapports automatisés, l'analyse exploratoire et, plus récemment, le self-service BI et l'augmented analytics (BI enrichie par l'IA).
 > **Pourquoi c'est important** : La BI transforme les données brutes en informations actionnables. Elle est le principal point de contact entre les équipes data et les métiers. Un dashboard bien conçu peut remplacer des heures de travail manuel et accélérer drastiquement les cycles de décision.

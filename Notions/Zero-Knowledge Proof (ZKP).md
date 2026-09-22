@@ -9,6 +9,7 @@ dernière_révision:
 
 # Zero-Knowledge Proof (ZKP)
 
+![[N — Zero-Knowledge Proof (ZKP).mp3]]
 ## En bref
 
 Un Zero-Knowledge Proof (ZKP), ou preuve à divulgation nulle de connaissance, est un protocole cryptographique permettant à une partie (le prouveur) de convaincre une autre partie (le vérificateur) qu'elle possède une information ou satisfait une condition, **sans jamais révéler l'information elle-même**. Le ZKP constitue un outil fondamental pour concilier deux impératifs antagonistes : **transparence** et **confidentialité**, aussi bien en cybersécurité que dans les systèmes blockchain.

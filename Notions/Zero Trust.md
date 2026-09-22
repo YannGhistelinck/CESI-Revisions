@@ -10,6 +10,7 @@ dernière_révision:
 
 # Zero Trust
 
+![[N — Zero Trust.mp3]]
 ## En bref
 > **Définition** : Zero Trust est une architecture de sécurité fondée sur le principe "ne jamais faire confiance, toujours vérifier" (Never Trust, Always Verify). Elle refuse la notion de périmètre réseau de confiance et exige une authentification et une autorisation continues pour chaque utilisateur, appareil et flux réseau, qu'ils soient internes ou externes.
 > **Pourquoi c'est important** : Avec la généralisation du cloud, du télétravail et des appareils mobiles, le périmètre réseau traditionnel a disparu. Une DSI ne peut plus présupposer qu'un utilisateur connecté au VPN est digne de confiance. Zero Trust réduit drastiquement la surface d'attaque et limite les dégâts en cas de compromission.

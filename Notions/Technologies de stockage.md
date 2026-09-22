@@ -9,6 +9,7 @@ dernière_révision:
 
 # Technologies de stockage
 
+![[N — Technologies de stockage.mp3]]
 ## En bref
 > **Définition** : Les technologies de stockage désignent l'ensemble des solutions matérielles et logicielles permettant de conserver les données d'un SI. Dans une optique Green IT, le choix de la technologie, de l'architecture et des politiques de gestion des données a un impact direct sur la consommation énergétique et les émissions de GES.
 > **Pourquoi c'est important** : Le stockage est le poste de consommation électrique qui croît le plus rapidement dans les datacenters. Avec l'explosion du volume de données (+25 % par an), la DSI doit arbitrer entre performance, coût et impact environnemental pour éviter l'accumulation de "dark data" inutile.

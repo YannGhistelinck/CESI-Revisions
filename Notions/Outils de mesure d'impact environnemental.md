@@ -8,6 +8,7 @@ dernière_révision:
 
 # Outils de mesure d'impact environnemental
 
+![[N — Outils de mesure d'impact environnemental.mp3]]
 ## En bref
 > **Définition** : Les outils de mesure d'impact environnemental du numérique permettent de quantifier la consommation de ressources (énergie, réseau, CPU, RAM) et les émissions de GES associées à un service numérique (site web, application, infrastructure). Ils constituent le prérequis indispensable à toute démarche d'écoconception ou de sobriété numérique : on ne peut optimiser que ce qu'on mesure.
 > **Pourquoi c'est important** : Sans mesure, les démarches NR restent déclaratives et non vérifiables. Les DSI doivent outiller leurs équipes pour intégrer la mesure d'impact dans les cycles de développement et de pilotage du SI.

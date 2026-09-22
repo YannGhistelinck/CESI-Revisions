@@ -9,6 +9,7 @@ dernière_révision:
 
 # Data Lifecycle Management
 
+![[N — Data Lifecycle Management.mp3]]
 ## En bref
 > **Définition** : Le Data Lifecycle Management (DLM) désigne l'ensemble des politiques, processus et technologies permettant de gérer les données tout au long de leur cycle de vie, depuis leur création jusqu'à leur destruction définitive. Il inclut la classification des données selon leur "température" (hot/warm/cold), les règles de rétention et les politiques d'archivage.
 > **Pourquoi c'est important** : Sans DLM, les entreprises accumulent du "dark data" (données inutilisées mais stockées à coût plein), ce qui augmente inutilement la consommation électrique, les risques légaux (RGPD) et les coûts. Le DLM est le levier le plus opérationnel pour réduire l'empreinte du stockage.

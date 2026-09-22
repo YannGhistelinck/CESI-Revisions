@@ -9,6 +9,7 @@ dernière_révision:
 
 # Plateformes cloud Big Data
 
+![[N — Plateformes cloud Big Data.mp3]]
 ## En bref
 > **Définition** : Les plateformes cloud Big Data sont des ensembles de services managés proposés par les fournisseurs cloud (AWS, Google Cloud, Azure) et des éditeurs spécialisés (Snowflake, Databricks) pour ingérer, stocker, traiter, analyser et visualiser de grandes quantités de données sans avoir à gérer l'infrastructure sous-jacente.
 > **Pourquoi c'est important** : Le passage aux plateformes cloud Big Data permet aux DSI d'éliminer les coûts d'infrastructure on-premise, de bénéficier d'une scalabilité élastique, d'accélérer le time-to-market des projets data et d'accéder à des services analytiques et IA managés à la pointe de l'état de l'art.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Big Data — fondamentaux
 
+![[N — Big Data — fondamentaux.mp3]]
 ## En bref
 > **Définition** : Le Big Data désigne des ensembles de données dont le volume, la variété et la vélocité dépassent les capacités des systèmes de gestion de bases de données traditionnels. Ces données nécessitent des architectures et des outils spécialisés pour être collectées, stockées, traitées et analysées.
 > **Pourquoi c'est important** : Pour une DSI, maîtriser le Big Data est un levier stratégique majeur : il permet d'améliorer la prise de décision, de personnaliser les services, d'optimiser les processus opérationnels et de créer de nouveaux modèles d'affaires fondés sur la donnée.

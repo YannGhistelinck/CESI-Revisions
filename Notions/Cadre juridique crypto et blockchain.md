@@ -8,6 +8,7 @@ dernière_révision:
 
 # Cadre juridique crypto et blockchain
 
+![[N — Cadre juridique crypto et blockchain.mp3]]
 ## En bref
 
 La régulation des cryptoactifs et de la blockchain est en pleine construction, tiraillée entre l'impératif d'innovation et la nécessité de protéger les investisseurs, de lutter contre le blanchiment et de maintenir la stabilité financière. En Europe, le règlement **MiCA** (Markets in Crypto-Assets) constitue le cadre le plus complet au monde. En France, le statut **PSAN** (Prestataire de Services sur Actifs Numériques), remplacé par le **CASP** (Crypto-Asset Service Provider) issu de MiCA, encadre les acteurs du marché. La blockchain soulève également des tensions juridiques fondamentales : **droit à l'oubli vs. immutabilité**, et **RGPD vs. pseudonymisation**.

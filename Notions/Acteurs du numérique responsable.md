@@ -8,6 +8,7 @@ dernière_révision:
 
 # Acteurs du numérique responsable
 
+![[N — Acteurs du numérique responsable.mp3]]
 ## En bref
 > **Définition** : L'écosystème du numérique responsable en France regroupe des think tanks, instituts, agences publiques, associations professionnelles et organismes de formation qui produisent des référentiels, des outils, des données et des certifications pour accompagner les organisations dans leur démarche de réduction de l'empreinte numérique.
 > **Pourquoi c'est important** : Savoir qui fait quoi dans cet écosystème permet à un DSI ou responsable NR de savoir où trouver les données de référence, les référentiels à appliquer, les formations à suivre et les labels à viser — sans se perdre dans la multitude d'initiatives existantes.

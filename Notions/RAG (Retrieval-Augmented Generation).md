@@ -8,6 +8,7 @@ dernière_révision:
 
 # RAG (Retrieval-Augmented Generation)
 
+![[N — RAG (Retrieval-Augmented Generation).mp3]]
 ## En bref
 
 ### Définition

@@ -9,6 +9,7 @@ dernière_révision:
 
 # IA en cybersécurité
 
+![[N — IA en cybersécurité.mp3]]
 ## En bref
 > **Définition** : L'IA appliquée à la cybersécurité désigne l'utilisation de techniques de machine learning, de deep learning et de LLM (Large Language Models) pour automatiser la détection de menaces, accélérer la réponse aux incidents et, en parallèle, la capacité des attaquants à utiliser l'IA pour concevoir des attaques plus sophistiquées, ciblées et scalables.
 > **Pourquoi c'est important** : Le volume d'alertes de sécurité dépasse la capacité humaine d'analyse (4 500 alertes/semaine par analyste SOC). L'IA permet de trier, corréler et répondre à une vitesse impossible à atteindre manuellement. Mais elle introduit aussi de nouveaux risques : les modèles eux-mêmes deviennent des surfaces d'attaque.

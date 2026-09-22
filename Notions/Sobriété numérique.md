@@ -9,6 +9,7 @@ dernière_révision:
 
 # Sobriété numérique
 
+![[N — Sobriété numérique.mp3]]
 ## En bref
 > **Définition** : La sobriété numérique consiste à réduire volontairement l'empreinte environnementale du numérique en limitant les usages superflus et en optimisant les ressources matérielles et logicielles. Elle se distingue de l'efficacité énergétique en questionnant l'utilité même des usages, pas seulement leur performance.
 > **Pourquoi c'est important** : Le numérique représente 2,5 % des émissions de GES en France (ADEME/Arcep 2023) avec une trajectoire de croissance forte. Les DSI sont en première ligne pour réduire l'empreinte de leurs infrastructures et accompagner les métiers vers des pratiques plus responsables.

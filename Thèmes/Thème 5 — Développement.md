@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 5 — L_impact_financier_de_l_architecture_logicielle.m4a]]
 # Développement
 
+![[T5 — Développement.mp3]]
 ## Présentation
 > Thème couvrant les pratiques de développement logiciel : qualité, tests, intégration continue, DevOps, maintenabilité. Inclut aussi les technologies émergentes (RA/RV). Domaine de compétence principal du profil MAALSI.
 

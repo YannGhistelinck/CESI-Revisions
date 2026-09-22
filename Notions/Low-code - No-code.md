@@ -10,6 +10,7 @@ dernière_révision:
 
 # Low-code / No-code
 
+![[N — Low-code - No-code.mp3]]
 ## En bref
 > **Définition** : Le low-code est une approche de développement logiciel qui minimise la quantité de code manuel en utilisant des interfaces visuelles, du drag-and-drop et des composants préconstruits. Le no-code va plus loin : il permet à des utilisateurs sans compétence technique de créer des applications complètes sans écrire une seule ligne de code. Ces deux approches accélèrent la création d'applications et démocratisent le développement au sein des organisations.
 > **Pourquoi c'est important** : Face à la pénurie de développeurs et à l'accélération des besoins métier, le low-code/no-code permet aux DSI de réduire les backlogs applicatifs et d'impliquer les métiers dans la création de leurs propres outils (concept de "citizen developer"). Cependant, cela crée de nouveaux défis de gouvernance, de sécurité et de dette technique si mal encadré.

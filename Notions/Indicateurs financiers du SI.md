@@ -8,6 +8,7 @@ dernière_révision:
 
 # Indicateurs financiers du SI
 
+![[N — Indicateurs financiers du SI.mp3]]
 ## En bref
 > **Définition** : Les indicateurs financiers du SI désignent les outils comptables et analytiques permettant à un DSI de lire la santé financière d'une organisation, de construire un business case solide et de justifier un investissement IT devant un CODIR. Ils couvrent le bilan, le compte de résultat, les indicateurs de liquidité (BFR, FRNG, trésorerie) et les indicateurs de rentabilité (marge, seuil de rentabilité, coût de revient).
 > **Pourquoi c'est important** : Un DSI qui maîtrise le langage financier parle le même langage que le DAF et le DG. Comprendre le bilan permet de positionner un projet IT dans son contexte financier réel, d'anticiper les contraintes de trésorerie et de dimensionner les investissements de manière réaliste.

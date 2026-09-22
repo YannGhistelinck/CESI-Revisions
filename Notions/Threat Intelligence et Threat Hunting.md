@@ -9,6 +9,7 @@ dernière_révision:
 
 # Threat Intelligence et Threat Hunting
 
+![[N — Threat Intelligence et Threat Hunting.mp3]]
 ## En bref
 > **Définition** : La Cyber Threat Intelligence (CTI) est le processus de collecte, d'analyse et de partage d'informations sur les menaces cyber afin d'anticiper et de contrer les attaques. Le Threat Hunting est une démarche proactive consistant à rechercher activement des compromissions au sein d'un SI, sans attendre qu'une alerte soit levée.
 > **Pourquoi c'est important** : Dans un contexte où les attaquants opèrent en moyenne plusieurs mois avant d'être détectés, la CTI et le Threat Hunting permettent aux DSI de passer d'une posture réactive à une posture proactive, réduisant significativement le temps de détection et limitant l'impact des incidents.

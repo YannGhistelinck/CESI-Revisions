@@ -8,6 +8,7 @@ dernière_révision:
 
 # Data Maturity et Data Literacy
 
+![[N — Data Maturity et Data Literacy.mp3]]
 ## En bref
 > **Définition** : Le **data maturity model** est un cadre d'évaluation du niveau de maturité d'une organisation dans son usage des données, allant de la collecte basique à l'optimisation pilotée par l'IA. La **data literacy** désigne la capacité des collaborateurs à lire, comprendre, questionner et communiquer avec des données. La **data democratization** vise à rendre les données accessibles à tous, au-delà des seules équipes IT. Les **silos de données** sont l'obstacle principal à cet objectif.
 > **Pourquoi c'est important** : Une organisation avec une faible maturité data prend des décisions sur l'intuition plutôt que sur les faits. Seules les organisations atteignant les niveaux supérieurs de maturité tirent un avantage concurrentiel durable de leurs données.

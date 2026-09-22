@@ -8,6 +8,7 @@ dernière_révision:
 
 # Service Mesh
 
+![[N — Service Mesh.mp3]]
 ## En bref
 > **Définition** : Un service mesh est une couche d'infrastructure dédiée à la gestion de la communication entre microservices. Il injecte un proxy sidecar (ex : Envoy) à côté de chaque service pour gérer de façon transparente et centralisée le chiffrement mTLS, le routage, la résilience (retries, circuit breakers) et l'observabilité (traces, métriques).
 > **Pourquoi c'est important** : Dans une architecture microservices, chaque service doit communiquer de façon sécurisée et fiable avec des dizaines d'autres. Sans service mesh, cette logique est codée dans chaque application (bibliothèques, SDK), créant de la duplication et des risques. Le service mesh externalise cette complexité au niveau de l'infrastructure, simplifiant la vie des équipes de développement et de sécurité.

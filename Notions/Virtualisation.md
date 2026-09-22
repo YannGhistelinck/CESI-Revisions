@@ -8,6 +8,7 @@ dernière_révision:
 
 # Virtualisation
 
+![[N — Virtualisation.mp3]]
 ## En bref
 > **Définition** : La virtualisation est la technologie qui permet de créer des représentations logicielles de ressources physiques (serveurs, stockage, réseau). Une machine virtuelle (VM) est un environnement informatique isolé qui émule un ordinateur complet, partageant les ressources physiques d'un hôte via un hyperviseur. C'est la brique fondamentale du cloud computing moderne.
 > **Pourquoi c'est important** : La virtualisation a transformé l'exploitation des datacenters en permettant la consolidation des serveurs (taux d'utilisation de 5-15 % à 60-80 %), la flexibilité d'allocation des ressources, la haute disponibilité (vMotion, live migration) et la résilience. Elle est le socle technique sur lequel reposent l'IaaS, les clouds privés et les environnements hybrides gérés par toute DSI.

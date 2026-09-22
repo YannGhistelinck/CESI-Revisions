@@ -9,6 +9,7 @@ dernière_révision:
 
 # Monétisation des données
 
+![[N — Monétisation des données.mp3]]
 ## En bref
 > **Définition** : La monétisation des données désigne l'ensemble des mécanismes par lesquels des acteurs économiques tirent de la valeur financière des données personnelles ou comportementales. Elle prend deux formes principales : la monétisation **directe** (vente de données brutes ou enrichies par des data brokers) et la monétisation **indirecte** (amélioration des produits/services grâce aux données, ciblage publicitaire). Le concept de **capitalisme de surveillance** (Shoshana Zuboff) décrit la logique systémique d'extraction de données comportementales à des fins commerciales.
 > **Pourquoi c'est important** : La monétisation des données est le modèle économique dominant d'Internet (Google, Meta, X). Elle soulève des enjeux éthiques majeurs — vie privée, manipulation comportementale, démocratie — illustrés de manière emblématique par le scandale Cambridge Analytica (2018).

@@ -9,6 +9,7 @@ dernière_révision:
 
 # Sensibilisation et facteur humain
 
+![[N — Sensibilisation et facteur humain.mp3]]
 ## En bref
 > **Définition** : La sensibilisation à la sécurité (Security Awareness) désigne l'ensemble des programmes, formations et pratiques visant à modifier les comportements humains pour réduire le risque cyber lié au facteur humain. Elle englobe la formation, la communication, les simulations d'attaques et la création d'une culture de sécurité durable au sein de l'organisation.
 > **Pourquoi c'est important** : Le facteur humain est impliqué dans 74 % des incidents de sécurité (Verizon DBIR 2024). Aucun investissement technologique ne peut compenser des comportements à risque : cliquer sur un phishing, réutiliser des mots de passe, utiliser des applications non autorisées (shadow IT). Le RSSI doit donc former et engager les collaborateurs autant qu'il protège les systèmes.

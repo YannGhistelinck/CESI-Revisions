@@ -9,6 +9,7 @@ dernière_révision:
 
 # Signal faible et OSINT
 
+![[N — Signal faible et OSINT.mp3]]
 ## En bref
 
 ### Définition

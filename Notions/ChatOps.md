@@ -9,6 +9,7 @@ dernière_révision:
 
 # ChatOps
 
+![[N — ChatOps.mp3]]
 ## En bref
 
 ### Définition

@@ -9,6 +9,7 @@ dernière_révision:
 
 # PCA - PRA
 
+![[N — PCA - PRA.mp3]]
 ## En bref
 > **Définition** : Le Plan de Continuité d'Activité (PCA) définit l'ensemble des dispositions permettant à une organisation de maintenir ou de reprendre ses activités critiques en cas de sinistre ou d'incident majeur. Le Plan de Reprise d'Activité (PRA) est le volet informatique du PCA : il décrit les procédures pour restaurer les systèmes d'information après une interruption.
 > **Pourquoi c'est important** : Pour une DSI, l'absence de PCA/PRA expose l'organisation à des pertes financières considérables, à des obligations réglementaires non respectées (NIS2, RGPD) et à une atteinte irrémédiable à sa réputation. Les cyberattaques (ransomwares notamment) rendent ces plans indispensables.

@@ -6,6 +6,7 @@ statut: pas vu
 dernière_révision: 
 ---
 
+![[N — Méthode MoSCoW.mp3]]
 ## En bref
 
 ### Définition

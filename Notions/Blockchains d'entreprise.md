@@ -8,6 +8,7 @@ dernière_révision:
 
 # Blockchains d'entreprise
 
+![[N — Blockchains d'entreprise.mp3]]
 ## En bref
 
 ### Définition

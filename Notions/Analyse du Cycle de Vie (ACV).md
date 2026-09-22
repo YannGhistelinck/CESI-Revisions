@@ -9,6 +9,7 @@ dernière_révision:
 
 # Analyse du Cycle de Vie (ACV)
 
+![[N — Analyse du Cycle de Vie (ACV).mp3]]
 ## En bref
 > **Définition** : L'Analyse du Cycle de Vie (ACV) est une méthode normalisée (ISO 14040/14044) qui évalue l'ensemble des impacts environnementaux d'un produit ou service depuis l'extraction des matières premières jusqu'à sa fin de vie ("du berceau à la tombe"). Appliquée au numérique, elle permet de quantifier l'empreinte réelle d'un équipement ou d'un service cloud.
 > **Pourquoi c'est important** : La DSI ne peut pas piloter ce qu'elle ne mesure pas. L'ACV révèle que la fabrication des équipements (phase souvent ignorée) domine le bilan environnemental du numérique, ce qui remet en cause les stratégies de renouvellement rapide du parc matériel.

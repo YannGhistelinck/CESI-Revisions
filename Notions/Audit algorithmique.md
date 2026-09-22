@@ -8,6 +8,7 @@ dernière_révision: 2026-09-08
 
 # Audit algorithmique
 
+![[N — Audit algorithmique.mp3]]
 ## En bref
 
 ### Définition

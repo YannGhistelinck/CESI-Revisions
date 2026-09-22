@@ -8,6 +8,7 @@ dernière_révision:
 
 # Certifications et normes cloud
 
+![[N — Certifications et normes cloud.mp3]]
 ## En bref
 > **Définition** : Les certifications et normes cloud sont des référentiels techniques et organisationnels qui permettent aux fournisseurs cloud de démontrer leur niveau de sécurité, de conformité et de protection des données. Elles constituent des garanties contractuelles et réglementaires pour les organisations qui externalisent leurs données et services.
 > **Pourquoi c'est important** : Pour une DSI, le choix d'un fournisseur cloud certifié est un prérequis légal et de gouvernance : RGPD pour les données personnelles, HDS pour les données de santé, SecNumCloud pour les données sensibles de l'État. Ces certifications réduisent les risques contractuels, facilitent les audits et démontrent la due diligence aux régulateurs.

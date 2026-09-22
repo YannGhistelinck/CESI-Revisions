@@ -9,6 +9,7 @@ dernière_révision:
 
 # Impact environnemental de la blockchain
 
+![[N — Impact environnemental de la blockchain.mp3]]
 ## En bref
 
 La blockchain, et Bitcoin en particulier, est régulièrement critiquée pour son empreinte énergétique considérable liée au mécanisme de consensus **Proof of Work (PoW)**. Cette consommation est mesurée et contestée, des initiatives comme le **Bitcoin Mining Council** et le **Crypto Climate Accord** tentant de greenwasher ou de véritablement verdir le secteur. Face aux enjeux climatiques, plusieurs États ont adopté des mesures restrictives (moratoire de New York), tandis que la transition d'Ethereum vers le **Proof of Stake (PoS)** en 2022 a montré qu'une réduction radicale de la consommation était techniquement possible.

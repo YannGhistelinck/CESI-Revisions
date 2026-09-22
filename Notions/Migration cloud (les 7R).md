@@ -8,6 +8,7 @@ dernière_révision:
 
 # Migration cloud (les 7R)
 
+![[N — Migration cloud (les 7R).mp3]]
 ## En bref
 > **Définition** : Les 7R (ou parfois 6R) sont un cadre de stratégies de migration cloud permettant à une DSI de décider comment traiter chaque application lors d'un passage vers le cloud. Ils vont du simple déplacement à l'identique (Rehost) à la suppression de l'application (Retire), en passant par la refonte complète (Rebuild). Ce framework, popularisé par AWS et Gartner, structure la phase de cloud readiness assessment et le wave planning.
 > **Pourquoi c'est important** : La migration cloud ne se résume pas à un "lift & shift" générique. Appliquer la mauvaise stratégie à une application peut entraîner des surcoûts importants, des problèmes de performance ou une dette technique accrue. Un DSI doit être capable de justifier la stratégie choisie pour chaque application à partir d'une analyse de valeur métier et de complexité technique.

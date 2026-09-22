@@ -9,6 +9,7 @@ dernière_révision:
 
 # Métriques de pilotage projet
 
+![[N — Métriques de pilotage projet.mp3]]
 ## En bref
 
 ### Définition

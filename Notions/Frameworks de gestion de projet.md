@@ -9,6 +9,7 @@ dernière_révision:
 
 # Frameworks de gestion de projet
 
+![[N — Frameworks de gestion de projet.mp3]]
 ## En bref
 
 ### Définition

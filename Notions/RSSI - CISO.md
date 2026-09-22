@@ -9,6 +9,7 @@ dernière_révision:
 
 # RSSI - CISO
 
+![[N — RSSI - CISO.mp3]]
 ## En bref
 
 ### Définition

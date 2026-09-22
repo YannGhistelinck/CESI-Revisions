@@ -9,6 +9,7 @@ dernière_révision:
 
 # Cyber-résilience
 
+![[N — Cyber-résilience.mp3]]
 ## En bref
 > **Définition** : La cyber-résilience désigne la capacité d'une organisation à préparer, résister, s'adapter et se remettre d'une cyberattaque, tout en maintenant la continuité de ses activités métier. Elle dépasse la simple défense technique : c'est une posture stratégique qui intègre la certitude que l'attaque aura lieu.
 > **Pourquoi c'est important** : Dans un contexte où les ransomwares paralysent des hôpitaux et des industries entières, il ne s'agit plus de savoir "si" une organisation sera attaquée, mais "quand". La DSI doit construire un SI capable de survivre à une attaque et de redémarrer rapidement pour limiter l'impact opérationnel et financier.

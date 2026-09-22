@@ -9,6 +9,7 @@ dernière_révision:
 
 # Dette technique
 
+![[N — Dette technique.mp3]]
 ## En bref
 > **Définition** : La dette technique désigne l'ensemble des compromis techniques délibérés ou accidentels accumulés dans un système logiciel, qui nécessiteront un travail futur supplémentaire ("intérêts") pour être corrigés. Métaphore introduite par Ward Cunningham en 1992, elle permet de communiquer les enjeux techniques aux décideurs non techniques.
 > **Pourquoi c'est important** : Pour une DSI, la dette technique non maîtrisée ralentit les évolutions, augmente les coûts de maintenance, crée des risques opérationnels et peut conduire à l'obsolescence des systèmes. La quantifier et la gérer est un enjeu stratégique autant que technique.

@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 8 — L_architecture_blockchain_au-delà_du_Bitcoin.m4a]]
 # Blockchain
 
+![[T8 — Blockchain.mp3]]
 ## Présentation
 > Thème couvrant la technologie blockchain : fonctionnement, smart contracts, traçabilité, enjeux éthiques/juridiques et impact énergétique. Applications au-delà des cryptomonnaies, notamment en supply chain et services.
 

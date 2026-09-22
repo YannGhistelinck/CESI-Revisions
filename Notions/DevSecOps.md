@@ -10,6 +10,7 @@ dernière_révision:
 
 # DevSecOps
 
+![[N — DevSecOps.mp3]]
 ## En bref
 > **Définition** : Le DevSecOps est l'extension du DevOps intégrant la sécurité (Sec) comme responsabilité partagée et continue tout au long du cycle de développement logiciel. Le principe central est le **shift-left security** : déplacer les contrôles de sécurité le plus tôt possible dans le pipeline (dès le code, voire la conception), plutôt que de les appliquer uniquement à la fin (audit avant mise en prod). La sécurité devient du code ("Security as Code") : automatisée, versionnée, testable.
 > **Pourquoi c'est important** : Les applications sont la 1re surface d'attaque des entreprises (OWASP Top 10). Corriger une vulnérabilité en production coûte 30 fois plus cher qu'en phase de développement (NIST). Intégrer la sécurité dans le pipeline CI/CD permet de détecter les failles automatiquement, sans ralentir la livraison.

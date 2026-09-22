@@ -8,6 +8,7 @@ dernière_révision:
 
 # Tests logiciels
 
+![[N — Tests logiciels.mp3]]
 ## En bref
 > **Définition** : Les tests logiciels désignent l'ensemble des activités visant à évaluer la qualité d'un système informatique en vérifiant qu'il se comporte conformément aux exigences fonctionnelles et non fonctionnelles. Ils couvrent des niveaux allant du code unitaire à l'intégration système, et des types allant de la performance à la sécurité.
 > **Pourquoi c'est important** : La qualité logicielle est un enjeu stratégique : un bug en production coûte en moyenne 30x plus cher à corriger qu'un bug détecté en phase de développement (IBM Systems Sciences Institute). Les tests permettent de livrer plus vite avec plus de confiance, condition nécessaire au DevOps et au déploiement continu.

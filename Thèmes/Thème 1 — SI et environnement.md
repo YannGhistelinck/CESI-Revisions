@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 1 — SI et environnement.m4a]]
 # SI et environnement
 
+![[T1 — SI et environnement.mp3]]
 ## Présentation
 > Thème centré sur l'impact environnemental des systèmes d'information et les stratégies pour réduire l'empreinte écologique du numérique. Enjeu croissant pour les DSI face aux réglementations et à la RSE.
 

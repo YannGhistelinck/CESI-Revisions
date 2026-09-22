@@ -8,6 +8,7 @@ dernière_révision:
 
 # Mécanismes de consensus
 
+![[N — Mécanismes de consensus.mp3]]
 ## En bref
 
 ### Définition

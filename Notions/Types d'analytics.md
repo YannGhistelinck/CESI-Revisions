@@ -9,6 +9,7 @@ dernière_révision:
 
 # Types d'analytics
 
+![[N — Types d'analytics.mp3]]
 ## En bref
 > **Définition** : L'analytics désigne l'analyse systématique des données pour produire des insights et éclairer les décisions. On distingue quatre types progressifs : l'analytics **descriptive** (que s'est-il passé ?), **diagnostique** (pourquoi ?), **prédictive** (que va-t-il se passer ?) et **prescriptive** (que doit-on faire ?). Ensemble, ils constituent le socle du **data-driven decision making** — la prise de décision basée sur les données.
 > **Pourquoi c'est important** : La valeur créée par l'analytics croît exponentiellement avec le niveau de sophistication. Mais chaque niveau requiert des prérequis en données, en compétences et en maturité organisationnelle. Comprendre ces quatre niveaux permet de situer la maturité analytique d'une organisation et d'identifier les investissements prioritaires.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Architecture logicielle
 
+![[N — Architecture logicielle.mp3]]
 ## En bref
 > **Définition** : L'architecture logicielle désigne l'ensemble des décisions structurelles fondamentales qui définissent l'organisation d'un système : ses composants, leurs responsabilités, les relations entre eux et les principes guidant leur conception. C'est la discipline qui permet de gérer la complexité à l'échelle d'un système entier.
 > **Pourquoi c'est important** : Pour une DSI, les décisions d'architecture sont les plus coûteuses à remettre en cause. Une mauvaise architecture crée une dette structurelle qui contraint l'évolution du système pendant des années. A contrario, une bonne architecture permet l'évolutivité, la testabilité et l'indépendance technologique.

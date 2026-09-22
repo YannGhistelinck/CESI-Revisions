@@ -8,6 +8,7 @@ dernière_révision:
 
 # Stratégie de tests logiciels
 
+![[N — Stratégie de tests logiciels.mp3]]
 ## En bref
 > **Définition** : La stratégie de tests logiciels définit l'approche globale pour atteindre les objectifs de qualité d'un projet ou d'une organisation. Elle détermine les types de tests à réaliser, les niveaux d'abstraction, les critères d'entrée/sortie, les outils et les responsabilités. Elle se distingue du plan de test (opérationnel, projet-spécifique) et de la politique de test (directive organisationnelle).
 > **Pourquoi c'est important** : Tester sans stratégie revient à couvrir les mêmes zones sans garantir la qualité globale. Pour un DSI, une stratégie de tests formalisée réduit les risques de régression en production, accélère les livraisons en CI/CD et fournit des preuves objectives de qualité aux parties prenantes métier.

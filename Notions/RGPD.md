@@ -12,6 +12,7 @@ dernière_révision:
 
 # RGPD
 
+![[N — RGPD.mp3]]
 ## En bref
 > **Définition** : Le **RGPD** (Règlement Général sur la Protection des Données — Règlement UE 2016/679) est le cadre réglementaire européen régissant le traitement des données à caractère personnel, applicable depuis le 25 mai 2018. Il repose sur 7 principes fondamentaux, 6 bases légales, un ensemble de droits pour les personnes et des obligations pour les responsables de traitement. Il s'applique à toute organisation traitant des données de résidents européens, quel que soit le pays d'établissement de l'organisation (principe d'extraterritorialité).
 > **Pourquoi c'est important** : Le RGPD est la colonne vertébrale de la gouvernance des données en Europe. Il conditionne la conception des SI (Privacy by Design), l'usage du cloud, les projets IA (AI Act s'y articule), la mobilité (apps mobiles) et les transferts internationaux. Les sanctions peuvent atteindre 20 M€ ou 4 % du CA mondial annuel, au plus élevé des deux montants.

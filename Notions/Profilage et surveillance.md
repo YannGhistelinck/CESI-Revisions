@@ -9,6 +9,7 @@ dernière_révision:
 
 # Profilage et surveillance
 
+![[N — Profilage et surveillance.mp3]]
 ## En bref
 > **Définition** : Le **profilage automatisé** désigne tout traitement automatisé de données personnelles visant à évaluer, prédire ou influencer des aspects de la personnalité d'un individu (comportement, préférences, solvabilité, santé…). La **bulle de filtre** (Eli Pariser, 2011) est le phénomène par lequel les algorithmes de recommandation enferment l'utilisateur dans un espace informationnel homogène, en filtrant les contenus selon son profil. Le **capitalisme de surveillance** (Shoshana Zuboff, 2019) désigne le modèle économique fondé sur la captation, l'analyse et la monétisation des comportements humains comme matière première d'une économie de prédiction comportementale.
 > **Pourquoi c'est important** : Ces phénomènes sont au cœur des débats sur la démocratie, l'autonomie individuelle et la responsabilité des plateformes. Pour un DSI ou un architecte Big Data, ils posent des questions de conception (article 22 RGPD sur les décisions automatisées) et de gouvernance (DSA, AI Act). Pour l'organisation, ils représentent à la fois une opportunité (personnalisation, marketing) et un risque juridique et réputationnel.

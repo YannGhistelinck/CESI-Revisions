@@ -9,6 +9,7 @@ dernière_révision:
 
 # CMMI
 
+![[N — CMMI.mp3]]
 ## En bref
 > **Définition** : Le CMMI (Capability Maturity Model Integration) est un référentiel d'amélioration des processus organisationnels développé par le SEI (Software Engineering Institute, Carnegie Mellon). Il décrit un ensemble de bonnes pratiques permettant à une organisation de mesurer et d'améliorer la maturité de ses processus de développement, de services ou d'acquisition.
 > **Pourquoi c'est important** : Pour une DSI ou une ESN, le niveau CMMI est un signal de confiance sur la maîtrise des processus : il conditionne l'accès à certains marchés publics (défense, aéronautique), réduit les risques projet et améliore la prévisibilité des coûts et des délais.

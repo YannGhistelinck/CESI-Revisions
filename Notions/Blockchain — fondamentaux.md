@@ -8,6 +8,7 @@ dernière_révision:
 
 # Blockchain — fondamentaux
 
+![[N — Blockchain — fondamentaux.mp3]]
 ## En bref
 
 ### Définition

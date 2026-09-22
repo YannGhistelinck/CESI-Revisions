@@ -8,6 +8,7 @@ dernière_révision:
 
 # Red Team - Blue Team - Purple Team
 
+![[N — Red Team - Blue Team - Purple Team.mp3]]
 ## En bref
 > **Définition** : La Red Team simule des attaquants réels pour tester les défenses d'une organisation en conditions réalistes. La Blue Team est l'équipe défensive qui surveille, détecte et répond aux attaques. La Purple Team est un mode collaboratif où Red et Blue travaillent ensemble pour améliorer simultanément les capacités offensives et défensives, maximisant les apprentissages.
 > **Pourquoi c'est important** : Un test de sécurité purement théorique ou limité à des scans de vulnérabilités ne valide pas la capacité réelle à détecter et répondre à une attaque sophistiquée. Les exercices Red/Blue/Purple permettent aux DSI de valider leurs investissements sécurité en conditions proches du réel et d'identifier leurs angles morts.

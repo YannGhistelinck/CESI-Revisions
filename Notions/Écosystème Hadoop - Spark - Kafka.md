@@ -8,6 +8,7 @@ dernière_révision:
 
 # Écosystème Hadoop - Spark - Kafka
 
+![[N — Écosystème Hadoop - Spark - Kafka.mp3]]
 ## En bref
 > **Définition** : Apache Hadoop est un framework open-source de traitement distribué de grandes quantités de données, basé sur le paradigme MapReduce et le système de fichiers distribué HDFS. Apache Spark est son successeur fonctionnel, jusqu'à 100 fois plus rapide grâce au traitement en mémoire. Apache Kafka est une plateforme de streaming distribué permettant le transport de flux de données en temps réel entre systèmes.
 > **Pourquoi c'est important** : Ces technologies constituent la colonne vertébrale des architectures Big Data depuis les années 2000. Même si le cloud les abstrait de plus en plus, comprendre leur fonctionnement permet d'appréhender les fondements du traitement distribué, indispensable pour concevoir des systèmes de données à grande échelle.

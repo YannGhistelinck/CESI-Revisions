@@ -10,6 +10,7 @@ dernière_révision:
 
 # Indicateurs environnementaux du SI
 
+![[N — Indicateurs environnementaux du SI.mp3]]
 ## En bref
 > **Définition** : Les indicateurs environnementaux du SI sont des métriques standardisées qui permettent de mesurer et de piloter l'impact écologique d'une infrastructure informatique, notamment des datacenters. Ils couvrent la consommation d'énergie, d'eau, et les émissions de gaz à effet de serre.
 > **Pourquoi c'est important** : Pour une DSI, ces indicateurs sont indispensables pour identifier les gisements d'optimisation, répondre aux obligations réglementaires (loi REEN, Décret Tertiaire) et construire une démarche Green IT crédible et mesurable.

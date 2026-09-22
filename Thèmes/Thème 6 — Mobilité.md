@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 6 — L_architecture_informatique_sans_murs_physiques.m4a]]
 # Mobilité
 
+![[T6 — Mobilité.mp3]]
 ## Présentation
 > Thème traitant de la gestion de la mobilité dans les SI : BYOD, télétravail, outils collaboratifs, sécurité des terminaux mobiles. Enjeu renforcé depuis la généralisation du travail hybride.
 

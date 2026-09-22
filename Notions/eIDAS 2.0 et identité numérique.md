@@ -8,6 +8,7 @@ dernière_révision:
 
 # eIDAS 2.0 et identité numérique
 
+![[N — eIDAS 2.0 et identité numérique.mp3]]
 ## En bref
 
 eIDAS 2.0 (Electronic IDentification, Authentication and trust Services) est le règlement européen révisé (2024) qui refonde le cadre d'identification électronique et de services de confiance dans l'UE. Sa grande nouveauté est le **portefeuille d'identité numérique européen** (EUDI Wallet — European Digital Identity Wallet), que chaque État membre devra proposer à ses citoyens d'ici **2026**. Ce règlement articule plusieurs technologies : standards d'identité décentralisée, cryptographie, et potentiellement blockchain — encadrées par les travaux de l'**ISO/TC 307** (comité technique blockchain de l'ISO).

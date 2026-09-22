@@ -8,6 +8,7 @@ dernière_révision:
 
 # Data Mesh et Data Fabric
 
+![[N — Data Mesh et Data Fabric.mp3]]
 ## En bref
 > **Définition** : Le **Data Mesh** est une architecture de données décentralisée introduite par Zhamak Dehghani (2019), où chaque domaine métier est responsable de la production, de la qualité et de la publication de ses propres données comme des produits. Le **Data Fabric** est une architecture complémentaire, davantage centrée sur une couche d'intégration intelligente et automatisée (pilotée par l'IA et les métadonnées) qui connecte les données où qu'elles se trouvent. Le **Data-as-a-Service (DaaS)** est le modèle de consommation des données via API, comme des services.
 > **Pourquoi c'est important** : Les architectures data centralisées (data lake monolithique, data warehouse unique) atteignent leurs limites à grande échelle : goulot d'étranglement de l'équipe centrale, délais de mise à disposition des données, silos persistants. Data Mesh et Data Fabric proposent deux réponses à ce défi.

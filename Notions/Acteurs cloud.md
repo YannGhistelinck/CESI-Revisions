@@ -8,6 +8,7 @@ dernière_révision:
 
 # Acteurs cloud
 
+![[N — Acteurs cloud.mp3]]
 ## En bref
 > **Définition** : Le marché du cloud computing est structuré autour de fournisseurs d'infrastructure (IaaS), de plateformes (PaaS) et de logiciels (SaaS), ainsi que d'acteurs spécialisés en sécurité cloud. On distingue les hyperscalers américains (AWS, Azure, GCP), les acteurs européens souverains (OVHcloud, Scaleway, 3DS Outscale) et les spécialistes de la sécurité cloud (Wiz, Palo Alto Prisma Cloud).
 > **Pourquoi c'est important** : Pour une DSI, le choix d'un fournisseur cloud engage la stratégie de l'entreprise sur plusieurs années : coûts, souveraineté des données, conformité (RGPD, HDS, SecNumCloud), résilience et capacités d'innovation. La concentration du marché sur 3 hyperscalers crée des risques de dépendance que les acteurs européens cherchent à contrebalancer.

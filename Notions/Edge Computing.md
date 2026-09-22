@@ -10,6 +10,7 @@ dernière_révision:
 
 # Edge Computing
 
+![[N — Edge Computing.mp3]]
 ## En bref
 > **Définition** : L'edge computing (calcul en périphérie) est un paradigme d'architecture dans lequel le traitement des données s'effectue au plus près de la source (capteurs, appareils IoT, terminaux mobiles), plutôt que d'envoyer toutes les données vers un datacenter central ou le cloud. L'objectif est de réduire la latence, économiser la bande passante et permettre un traitement en temps réel là où la connectivité peut être limitée ou intermittente.
 > **Pourquoi c'est important** : Avec l'explosion de l'IoT (des milliards d'objets connectés) et des usages temps réel (véhicules autonomes, chirurgie à distance, contrôle industriel), l'envoi de toutes les données vers le cloud centralisé est devenu impossible : la bande passante serait saturée et la latence inacceptable. L'edge computing est une réponse architecturale à ces contraintes, complémentaire du cloud.

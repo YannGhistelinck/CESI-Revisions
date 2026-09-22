@@ -9,6 +9,7 @@ dernière_révision:
 
 # Infrastructure des datacenters
 
+![[N — Infrastructure des datacenters.mp3]]
 ## En bref
 > **Définition** : L'infrastructure d'un datacenter comprend l'ensemble des équipements physiques et logiciels assurant l'alimentation électrique, la connectivité, la supervision et la gestion des ressources de calcul. La DSI pilote ces infrastructures avec des outils DCIM et cherche à maximiser le taux d'utilisation via la virtualisation, tout en sécurisant l'alimentation avec des UPS et PDU intelligents.
 > **Pourquoi c'est important** : L'optimisation de l'infrastructure datacenter est le levier le plus direct pour réduire la consommation électrique d'un SI. La consolidation des serveurs physiques et la virtualisation permettent de réduire de 80 % le nombre de serveurs nécessaires, donc leur consommation.

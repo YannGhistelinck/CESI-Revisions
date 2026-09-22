@@ -9,6 +9,7 @@ dernière_révision:
 
 # Data Lake - Data Warehouse - Lakehouse
 
+![[N — Data Lake - Data Warehouse - Lakehouse.mp3]]
 ## En bref
 > **Définition** : Un Data Warehouse est un entrepôt de données structurées optimisé pour l'analyse décisionnelle (schema-on-write) ; un Data Lake est un référentiel de données brutes dans leur format natif, structurées ou non (schema-on-read) ; un Data Lakehouse combine les deux approches pour offrir à la fois la flexibilité du lac et les performances analytiques de l'entrepôt.
 > **Pourquoi c'est important** : Le choix de l'architecture de stockage analytique conditionne la capacité d'une DSI à exploiter ses données à grande échelle, à maîtriser les coûts et à répondre aux besoins des équipes Data, BI et IA.

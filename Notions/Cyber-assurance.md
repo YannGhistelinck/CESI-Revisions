@@ -9,6 +9,7 @@ dernière_révision:
 
 # Cyber-assurance
 
+![[N — Cyber-assurance.mp3]]
 ## En bref
 > **Définition** : La cyber-assurance (ou assurance cyber-risques) est un contrat d'assurance spécifique couvrant les pertes financières et les frais engagés par une organisation à la suite d'une cyberattaque ou d'un incident de sécurité informatique (ransomware, violation de données, interruption de service, etc.).
 > **Pourquoi c'est important** : Face à l'explosion du coût des cyberattaques, la cyber-assurance est devenue un outil stratégique de transfert du risque résiduel. Elle est de plus en plus exigée par les donneurs d'ordre et les régulateurs, et constitue un filet de sécurité financier pour les DSI et RSSI qui ne peuvent éliminer tout risque cyber.

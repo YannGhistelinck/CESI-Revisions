@@ -9,6 +9,7 @@ dernière_révision:
 
 # Observabilité
 
+![[N — Observabilité.mp3]]
 ## En bref
 > **Définition** : L'observabilité est la capacité à comprendre l'état interne d'un système à partir de ses sorties externes (logs, métriques, traces). Empruntée à la théorie du contrôle (Rudolf Kalman, 1960), elle est appliquée aux systèmes distribués depuis les années 2010 par des pionniers comme Twitter et Netflix. **OpenTelemetry** (CNCF, 2019) est devenu le standard universel pour instrumenter les applications et collecter ces données de façon portable.
 > **Pourquoi c'est important** : Dans une architecture microservices ou cloud native, un incident peut impliquer des dizaines de services. Le monitoring traditionnel (seuils statiques) ne suffit plus pour diagnostiquer "pourquoi le service X est lent" dans un système distribué. L'observabilité permet de poser n'importe quelle question sur le système sans avoir à le modifier au préalable.

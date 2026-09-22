@@ -8,6 +8,7 @@ dernière_révision:
 
 # Refroidissement des datacenters
 
+![[N — Refroidissement des datacenters.mp3]]
 ## En bref
 > **Définition** : Le refroidissement des datacenters désigne l'ensemble des techniques permettant d'évacuer la chaleur produite par les équipements informatiques. C'est le principal poste de dépense énergétique après l'IT lui-même, représentant typiquement 30 à 40 % de la consommation totale d'un datacenter classique.
 > **Pourquoi c'est important** : Le choix du système de refroidissement est le premier levier d'amélioration du PUE. Un mauvais refroidissement peut augmenter de 100 % la facture énergétique d'un datacenter. La DSI doit comprendre ces enjeux pour qualifier les offres d'hébergement et piloter ses propres salles serveurs.

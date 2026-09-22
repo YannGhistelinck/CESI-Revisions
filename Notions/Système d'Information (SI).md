@@ -8,6 +8,7 @@ dernière_révision:
 
 # Système d'Information (SI)
 
+![[N — Système d'Information (SI).mp3]]
 ## En bref
 
 ### Définition

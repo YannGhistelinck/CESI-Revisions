@@ -9,6 +9,7 @@ dernière_révision:
 
 # Normes ISO environnementales
 
+![[N — Normes ISO environnementales.mp3]]
 ## En bref
 > **Définition** : Les normes ISO environnementales fournissent des cadres structurés et certifiables pour qu'une organisation gère, mesure et améliore en continu ses impacts environnementaux (ISO 14001), sa performance énergétique (ISO 50001) ou quantifie ses émissions de GES (ISO 14064). Le label Numérique Responsable (INR) est le référentiel sectoriel français qui applique ces principes au numérique.
 > **Pourquoi c'est important** : Ces normes donnent aux DSI et aux directions RSE une méthodologie reconnue internationalement pour structurer leurs démarches environnementales, répondre aux exigences des donneurs d'ordre et préparer les reportings réglementaires (CSRD, DPEF).

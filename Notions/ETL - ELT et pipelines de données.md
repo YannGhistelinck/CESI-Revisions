@@ -8,6 +8,7 @@ dernière_révision:
 
 # ETL - ELT et pipelines de données
 
+![[N — ETL - ELT et pipelines de données.mp3]]
 ## En bref
 > **Définition** : L'ETL (Extract, Transform, Load) est un processus qui extrait des données de sources hétérogènes, les transforme selon des règles métier, puis les charge dans une destination analytique. L'ELT (Extract, Load, Transform) inverse l'ordre : les données brutes sont d'abord chargées, puis transformées à la demande en exploitant la puissance du système cible. Un pipeline de données est l'ensemble des étapes automatisées qui déplacent et transforment la donnée de la source à la destination.
 > **Pourquoi c'est important** : Les pipelines de données sont l'artère centrale de tout système analytique. Sans eux, les données restent silotées et inexploitables. Pour une DSI, leur fiabilité, leur performance et leur observabilité conditionnent directement la qualité des décisions business.

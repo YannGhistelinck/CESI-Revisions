@@ -10,6 +10,7 @@ dernière_révision:
 
 # Acteurs cybersécurité (éditeurs)
 
+![[N — Acteurs cybersécurité (éditeurs).mp3]]
 ## En bref
 
 ### Définition

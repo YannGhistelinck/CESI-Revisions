@@ -8,6 +8,7 @@ dernière_révision:
 
 # Identité décentralisée (SSI)
 
+![[N — Identité décentralisée (SSI).mp3]]
 ## En bref
 
 La Self-Sovereign Identity (SSI), ou identité auto-souveraine, est un paradigme dans lequel l'individu contrôle entièrement ses propres données d'identité, sans dépendre d'un tiers centralisé (État, GAFAM, banque). Elle repose sur trois piliers : les **DID** (Decentralized Identifiers — identifiants décentralisés), les **Verifiable Credentials** (attestations vérifiables) et les **wallets d'identité** (portefeuilles numériques). La blockchain joue le rôle de registre ancré de confiance pour la résolution des DID.

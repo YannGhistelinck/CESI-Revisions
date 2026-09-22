@@ -8,6 +8,7 @@ dernière_révision: 2026-09-08
 
 # IA de confiance et IA responsable
 
+![[N — IA de confiance et IA responsable.mp3]]
 ## En bref
 
 ### Définition

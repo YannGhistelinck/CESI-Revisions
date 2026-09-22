@@ -8,6 +8,7 @@ dernière_révision:
 
 # RACI et outils de gouvernance projet
 
+![[N — RACI et outils de gouvernance projet.mp3]]
 ## En bref
 
 ### Définition

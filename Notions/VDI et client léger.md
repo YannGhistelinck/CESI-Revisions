@@ -9,6 +9,7 @@ dernière_révision:
 
 # VDI et client léger
 
+![[N — VDI et client léger.mp3]]
 ## En bref
 > **Définition** : La VDI (Virtual Desktop Infrastructure) est une architecture qui héberge les postes de travail des utilisateurs sous forme de machines virtuelles sur des serveurs centralisés. L'utilisateur accède à son bureau via un client léger (thin client), un appareil bas de gamme qui n'exécute aucun calcul local. Le DaaS (Desktop as a Service) est la version cloud de la VDI.
 > **Pourquoi c'est important** : La VDI et les clients légers permettent de réduire drastiquement la consommation électrique du parc postes de travail (80 à 90 % de réduction par rapport à un PC classique) et d'allonger la durée de vie des équipements utilisateurs. C'est un levier majeur de Green IT pour les DSI avec des flottes importantes.

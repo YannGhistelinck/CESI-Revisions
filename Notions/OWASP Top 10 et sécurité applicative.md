@@ -9,6 +9,7 @@ dernière_révision:
 
 # OWASP Top 10 et sécurité applicative
 
+![[N — OWASP Top 10 et sécurité applicative.mp3]]
 ## En bref
 > **Définition** : L'OWASP (Open Web Application Security Project) est une fondation internationale qui produit des référentiels de sécurité applicative. L'OWASP Top 10 est la liste des 10 risques de sécurité les plus critiques pour les applications web, mise à jour tous les 3 à 4 ans. C'est le standard de référence mondial pour la sécurisation des applications.
 > **Pourquoi c'est important** : 75 % des cyberattaques exploitent des vulnérabilités applicatives (OWASP, 2023). La sécurité applicative est le périmètre où le développeur a le plus d'impact. Pour un DSI, intégrer la sécurité dès la conception (shift-left) réduit le coût de correction des vulnérabilités d'un facteur 30 par rapport à une correction post-production.

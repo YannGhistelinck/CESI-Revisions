@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 2 — Cybersécurité.m4a]]
 # Cybersécurité
 
+![[T2 — Cybersécurité.mp3]]
 ## Présentation
 > Thème couvrant la protection des SI contre les menaces cyber : stratégies de défense, gouvernance de la sécurité, sensibilisation des utilisateurs et organisation des équipes sécurité. Sujet central pour tout manager IT.
 

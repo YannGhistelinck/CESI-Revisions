@@ -8,6 +8,7 @@ dernière_révision:
 
 # Réglementations internationales sur les données
 
+![[N — Réglementations internationales sur les données.mp3]]
 ## En bref
 > **Définition** : Face à la fragmentation réglementaire mondiale, plusieurs grandes lois de protection des données personnelles coexistent avec le RGPD européen : le **CCPA** (California Consumer Privacy Act, 2020, renforcé par le CPRA en 2023), la **LGPD** (Lei Geral de Proteção de Dados, Brésil, 2020) et la **PIPL** (Personal Information Protection Law, Chine, 2021). Ces textes s'inspirent partiellement du RGPD tout en reflétant les spécificités juridiques et géopolitiques de leurs pays d'origine. Pour les organisations opérant à l'international, la gestion de cette pluralité réglementaire est un enjeu majeur de conformité et de gouvernance des données.
 > **Pourquoi c'est important** : Une multinationale ou un éditeur SaaS commercialisant ses services en Californie, au Brésil et en Chine est simultanément soumis au RGPD, au CCPA, à la LGPD et à la PIPL. Les exigences varient : droits des personnes, bases légales, transferts internationaux, amendes. La convergence vers un modèle "RGPD-like" est réelle, mais des divergences structurelles persistent.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Métriques marketing et IA
 
+![[N — Métriques marketing et IA.mp3]]
 ## En bref
 
 ### Définition

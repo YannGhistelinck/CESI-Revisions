@@ -8,6 +8,7 @@ dernière_révision:
 
 # Data Governance
 
+![[N — Data Governance.mp3]]
 ## En bref
 > **Définition** : La Data Governance (gouvernance des données) désigne l'ensemble des politiques, processus, rôles et standards qui garantissent que les données d'une organisation sont fiables, sécurisées, conformes et utilisables. Elle couvre la qualité des données, leur traçabilité (lineage), leur catalogage, les contrats de données et la gestion des données maîtres (MDM).
 > **Pourquoi c'est important** : Sans gouvernance, les organisations souffrent de données incohérentes entre systèmes, de silos, de non-conformité RGPD et de décisions prises sur des données erronées. Une étude IBM estime que la mauvaise qualité des données coûte **3 100 Md$** par an à l'économie américaine.

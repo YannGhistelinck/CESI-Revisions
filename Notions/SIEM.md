@@ -9,6 +9,7 @@ dernière_révision:
 
 # SIEM
 
+![[N — SIEM.mp3]]
 ## En bref
 > **Définition** : Le SIEM (Security Information and Event Management) est une plateforme centralisant la collecte, l'agrégation, la normalisation et la corrélation des logs et événements de sécurité issus de l'ensemble du SI (réseaux, serveurs, applications, endpoints). Il permet la détection en temps réel des menaces, la génération d'alertes et la conservation des journaux à des fins d'investigation et de conformité.
 > **Pourquoi c'est important** : Un SI complexe génère des millions d'événements par jour, impossibles à surveiller manuellement. Le SIEM est le cerveau du SOC (Security Operations Center) : il agrège la visibilité de toutes les couches du SI pour détecter des comportements malveillants que les outils silotés ne verraient pas. Il est souvent requis par les réglementations (NIS2, ISO 27001, DORA).

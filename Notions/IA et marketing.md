@@ -8,6 +8,7 @@ dernière_révision:
 
 # IA et marketing
 
+![[N — IA et marketing.mp3]]
 ## En bref
 
 ### Définition

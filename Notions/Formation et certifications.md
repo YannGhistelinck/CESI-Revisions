@@ -8,6 +8,7 @@ dernière_révision:
 
 # Formation et certifications
 
+![[N — Formation et certifications.mp3]]
 ## En bref
 
 ### Définition

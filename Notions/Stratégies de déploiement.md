@@ -8,6 +8,7 @@ dernière_révision:
 
 # Stratégies de déploiement
 
+![[N — Stratégies de déploiement.mp3]]
 ## En bref
 > **Définition** : Les stratégies de déploiement sont des patterns permettant de livrer de nouvelles versions d'une application en production tout en minimisant les risques d'interruption de service et d'impact utilisateur. Les principales stratégies sont : **blue-green deployment** (basculement entre deux environnements identiques), **canary release** (exposition progressive à un sous-ensemble d'utilisateurs), **rolling update** (remplacement progressif des instances), et **feature flags** (activation/désactivation de fonctionnalités sans redéploiement).
 > **Pourquoi c'est important** : Le déploiement est historiquement la phase la plus risquée du cycle de livraison. Ces stratégies permettent de déployer fréquemment (DevOps), de limiter le blast radius en cas de problème, et d'assurer une continuité de service totale — objectif central des SRE et des engagements SLA/SLO.

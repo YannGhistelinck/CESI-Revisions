@@ -9,6 +9,7 @@ dernière_révision: 2026-09-08
 
 # Biais algorithmiques
 
+![[N — Biais algorithmiques.mp3]]
 ## En bref
 
 ### Définition

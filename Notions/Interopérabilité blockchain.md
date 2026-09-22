@@ -8,6 +8,7 @@ dernière_révision:
 
 # Interopérabilité blockchain
 
+![[N — Interopérabilité blockchain.mp3]]
 ## En bref
 
 L'interopérabilité blockchain désigne la capacité de plusieurs blockchains indépendantes à communiquer, échanger des données et transférer de la valeur sans intermédiaire centralisé. Face à la multiplication des réseaux (Ethereum, Bitcoin, Solana…), cette problématique est devenue centrale : chaque chaîne reste par défaut un silo isolé. Les solutions d'interopérabilité — protocoles multi-chaînes, bridges et relayers — visent à construire un « internet des blockchains ».

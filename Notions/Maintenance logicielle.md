@@ -8,6 +8,7 @@ dernière_révision:
 
 # Maintenance logicielle
 
+![[N — Maintenance logicielle.mp3]]
 ## En bref
 > **Définition** : La maintenance logicielle désigne l'ensemble des activités réalisées après la livraison d'un logiciel pour corriger des défauts, améliorer les performances, adapter l'environnement ou ajouter de nouvelles fonctionnalités. Elle est normalisée par l'ISO 14764 et représente la phase la plus longue du cycle de vie logiciel.
 > **Pourquoi c'est important** : Dans une DSI, la maintenance représente la majorité du budget informatique. Mal gérée, elle conduit à l'accumulation de dette technique et à l'obsolescence des systèmes. La comprendre permet d'optimiser les ressources, de justifier les investissements de modernisation et de maintenir la qualité opérationnelle.

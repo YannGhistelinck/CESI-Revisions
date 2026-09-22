@@ -8,6 +8,7 @@ dernière_révision:
 
 # Clean Code et refactoring
 
+![[N — Clean Code et refactoring.mp3]]
 ## En bref
 > **Définition** : Le Clean Code désigne un ensemble de principes et pratiques permettant d'écrire un code lisible, maintenable et évolutif. Le refactoring consiste à restructurer le code existant sans modifier son comportement observable, afin d'améliorer sa qualité interne. Ces deux approches constituent le socle des pratiques d'ingénierie logicielle de qualité.
 > **Pourquoi c'est important** : Dans une équipe de développement, un code difficile à lire coûte cher : un développeur passe en moyenne **70 % de son temps à lire du code** plutôt qu'à en écrire. Le Clean Code et le refactoring permettent de réduire la dette technique, d'accélérer l'onboarding et de diminuer les bugs de régression lors des évolutions.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Value Stream Mapping
 
+![[N — Value Stream Mapping.mp3]]
 ## En bref
 
 ### Définition

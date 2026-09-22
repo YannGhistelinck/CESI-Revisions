@@ -8,6 +8,7 @@ dernière_révision:
 
 # Smart Contracts
 
+![[N — Smart Contracts.mp3]]
 ## En bref
 
 ### Définition

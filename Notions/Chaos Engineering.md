@@ -9,6 +9,7 @@ dernière_révision:
 
 # Chaos Engineering
 
+![[N — Chaos Engineering.mp3]]
 ## En bref
 > **Définition** : Le Chaos Engineering est la pratique consistant à introduire délibérément des défaillances contrôlées dans un système distribué en production (ou en environnement de pré-production) afin de vérifier sa résilience, d'identifier ses points de fragilité et de renforcer la confiance dans sa capacité à supporter des conditions adverses réelles.
 > **Pourquoi c'est important** : Pour une DSI gérant des architectures microservices ou cloud-native, il est impossible de prévoir tous les modes de défaillance par les seuls tests classiques. Le Chaos Engineering permet de découvrir les failles avant qu'elles ne deviennent des incidents en production, réduisant ainsi le MTTR et améliorant la disponibilité réelle.

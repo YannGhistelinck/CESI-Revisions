@@ -9,6 +9,7 @@ dernière_révision:
 
 # Métriques de sécurité
 
+![[N — Métriques de sécurité.mp3]]
 ## En bref
 > **Définition** : Les métriques de sécurité sont des indicateurs quantifiables permettant de mesurer l'efficacité des contrôles de sécurité, la performance du SOC et la progression de la maturité cyber d'une organisation. Elles permettent de piloter objectivement la cybersécurité et de justifier les investissements auprès de la direction.
 > **Pourquoi c'est important** : Sans métriques, la cybersécurité reste perçue comme un centre de coûts opaque. Les métriques permettent au RSSI de démontrer la valeur des investissements, d'identifier les dégradations de performance, de respecter les SLA contractuels (MSSP/MDR) et de dialoguer avec le COMEX sur des bases factuelles.

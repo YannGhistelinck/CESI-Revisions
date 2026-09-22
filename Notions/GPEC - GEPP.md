@@ -8,6 +8,7 @@ dernière_révision:
 
 # GPEC - GEPP
 
+![[N — GPEC - GEPP.mp3]]
 ## En bref
 
 ### Définition

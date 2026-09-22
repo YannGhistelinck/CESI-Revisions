@@ -10,6 +10,7 @@ dernière_révision:
 
 # Souveraineté numérique
 
+![[N — Souveraineté numérique.mp3]]
 ## En bref
 > **Définition** : La **souveraineté numérique** désigne la capacité d'un État, d'une organisation ou d'un individu à exercer un contrôle effectif sur ses systèmes numériques, ses infrastructures, ses données et ses technologies — en maintenant une autonomie de décision face aux dépendances technologiques étrangères. La **souveraineté des données** en est la composante centrale : elle concerne la juridiction applicable aux données et la capacité à garantir qu'elles ne sont accessibles qu'aux parties autorisées. Ces concepts s'inscrivent dans des **enjeux géopolitiques** majeurs : la rivalité technologique USA-Chine, le risque d'extraterritorialité (CLOUD Act, USA PATRIOT Act), et la volonté européenne de construire une autonomie stratégique dans le numérique.
 > **Pourquoi c'est important** : Pour les DSI et décideurs, la souveraineté numérique conditionne les choix d'architecture (cloud souverain, on-premise, chiffrement BYOK), les stratégies de réduction du vendor lock-in, et la conformité aux réglementations (RGPD, DORA, NIS2). C'est également un argument commercial croissant : secteur public, santé, défense et finance privilégient de plus en plus des solutions souveraines certifiées.

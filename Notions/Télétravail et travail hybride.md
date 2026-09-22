@@ -8,6 +8,7 @@ dernière_révision:
 
 # Télétravail et travail hybride
 
+![[N — Télétravail et travail hybride.mp3]]
 ## En bref
 > **Définition** : Le télétravail désigne toute forme d'organisation du travail dans laquelle un travail qui aurait pu être exécuté dans les locaux de l'employeur est effectué hors de ces locaux, de façon volontaire, en utilisant les technologies de l'information et de la communication (art. L1222-9 du Code du travail). Le travail hybride combine présence au bureau et télétravail selon un rythme défini. Le full remote désigne le télétravail intégral, sans ancrage physique obligatoire.
 > **Pourquoi c'est important** : Depuis la crise Covid-19 (mars 2020), le télétravail est devenu un standard du marché de l'emploi. Pour une DSI, il implique de sécuriser les accès distants, de fournir les outils adaptés (Digital Workplace), de maintenir la cohésion des équipes et de respecter un cadre légal précis. Il constitue également un levier d'attractivité et de rétention des talents.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Référentiels de compétences IT
 
+![[N — Référentiels de compétences IT.mp3]]
 ## En bref
 
 ### Définition

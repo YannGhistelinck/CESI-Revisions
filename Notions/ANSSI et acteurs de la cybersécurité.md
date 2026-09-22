@@ -10,6 +10,7 @@ dernière_révision:
 
 # ANSSI et acteurs de la cybersécurité
 
+![[N — ANSSI et acteurs de la cybersécurité.mp3]]
 ## En bref
 > **Définition** : L'ANSSI (Agence Nationale de la Sécurité des Systèmes d'Information) est l'autorité nationale française en matière de cybersécurité, créée en 2009 sous tutelle du Premier Ministre. Elle assure la défense des SI de l'État et des opérateurs d'importance vitale (OIV), publie des recommandations, qualifie des produits et prestataires, et coordonne la réponse aux incidents majeurs.
 > **Pourquoi c'est important** : L'ANSSI est l'interlocuteur de référence pour toute DSI soumise à des obligations réglementaires (NIS2, LPM). Ses guides, qualifications et labels structurent les achats de sécurité de l'État et des grandes entreprises. Connaître ses publications et référentiels est indispensable pour piloter la cybersécurité en France.

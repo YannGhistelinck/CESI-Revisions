@@ -10,6 +10,7 @@ dernière_révision:
 
 # FinOps
 
+![[N — FinOps.mp3]]
 ## En bref
 > **Définition** : Le FinOps (Financial Operations) est une pratique de gouvernance financière du cloud qui vise à optimiser les dépenses cloud en responsabilisant les équipes techniques sur les coûts. Il repose sur un cycle Informer – Optimiser – Opérer impliquant les équipes Finance, Tech et Métiers. Par extension, il converge avec le GreenOps pour réduire simultanément les coûts et l'empreinte environnementale.
 > **Pourquoi c'est important** : Les dépenses cloud non maîtrisées (shadow IT, ressources sous-utilisées, mauvais dimensionnement) représentent en moyenne 30 à 35 % de gaspillage dans les organisations (FinOps Foundation). Les DSI doivent piloter le cloud comme un service à la consommation, avec une visibilité en temps réel sur les coûts et les ressources.

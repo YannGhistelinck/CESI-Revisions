@@ -6,6 +6,7 @@ statut: pas vu
 dernière_révision: 
 ---
 
+![[N — SWOT - PESTEL.mp3]]
 ## En bref
 
 ### Définition

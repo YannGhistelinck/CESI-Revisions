@@ -10,6 +10,7 @@ dernière_révision:
 
 # Digital Twin
 
+![[N — Digital Twin.mp3]]
 ## En bref
 > **Définition** : Un jumeau numérique (digital twin) est une réplique virtuelle dynamique d'un objet physique, d'un processus, d'un système ou d'une organisation, alimentée en temps réel par des données issues de capteurs IoT, de systèmes d'information ou de simulations. Il permet de surveiller, simuler, analyser et optimiser son homologue physique sans intervention sur le réel.
 > **Pourquoi c'est important** : Pour une DSI, le digital twin représente la convergence entre le monde opérationnel (OT) et le monde informatique (IT). Il permet d'anticiper les pannes, d'optimiser les processus, de tester des scénarios "what-if" sans risque, et de former des opérateurs sur des répliques fidèles de systèmes critiques.

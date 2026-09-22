@@ -9,6 +9,7 @@ dernière_révision:
 
 # Modèles de service cloud
 
+![[N — Modèles de service cloud.mp3]]
 ## En bref
 > **Définition** : Les modèles de service cloud définissent le niveau d'abstraction et de responsabilité entre le fournisseur et le client : IaaS (Infrastructure as a Service), PaaS (Platform as a Service), SaaS (Software as a Service), et les modèles émergents comme FaaS et le serverless.
 > **Pourquoi c'est important** : Le choix du modèle conditionne directement la répartition des coûts, la vitesse de déploiement et le niveau de contrôle conservé par la DSI. Un mauvais choix génère soit une sur-ingénierie soit une perte de maîtrise.

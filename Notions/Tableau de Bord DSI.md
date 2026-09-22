@@ -9,6 +9,7 @@ dernière_révision:
 
 # Tableau de Bord DSI
 
+![[N — Tableau de Bord DSI.mp3]]
 ## En bref
 > **Définition** : Le tableau de bord DSI est un outil de pilotage qui centralise les indicateurs clés permettant de mesurer la performance, la disponibilité, la sécurité et la valeur métier du Système d'Information. Il existe à plusieurs niveaux : stratégique (alignement sur la stratégie d'entreprise), tactique (suivi des projets et ressources), et opérationnel (supervision des systèmes en temps réel).
 > **Pourquoi c'est important** : Le DSI doit rendre des comptes au CODIR sur la valeur générée par le SI et justifier ses investissements. Un TDB bien construit transforme la DSI de centre de coûts en partenaire stratégique, en rendant visible l'impact du SI sur la performance globale de l'entreprise.

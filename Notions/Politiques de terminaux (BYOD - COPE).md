@@ -8,6 +8,7 @@ dernière_révision:
 
 # Politiques de terminaux (BYOD - COPE)
 
+![[N — Politiques de terminaux (BYOD - COPE).mp3]]
 ## En bref
 > **Définition** : Les politiques de terminaux définissent qui possède et qui contrôle les appareils utilisés par les collaborateurs dans le cadre professionnel. Elles se déclinent en plusieurs modèles : BYOD (l'employé apporte son propre appareil), COPE (l'entreprise fournit l'appareil mais l'employé peut l'utiliser à titre personnel), COBO, CYOD et COSU. Chaque modèle implique un niveau de contrôle, de responsabilité et de contraintes juridiques différents.
 > **Pourquoi c'est important** : Le choix du modèle de terminal conditionne la politique de sécurité, les obligations légales (RGPD, droit à la vie privée), les coûts IT et l'expérience collaborateur. La DSI doit trouver l'équilibre entre contrôle des données d'entreprise et respect de la vie privée, notamment encadré par la charte informatique.

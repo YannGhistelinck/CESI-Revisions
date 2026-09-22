@@ -8,6 +8,7 @@ dernière_révision: 2026-09-08
 
 # Normes ISO pour l'IA
 
+![[N — Normes ISO pour l'IA.mp3]]
 ## En bref
 
 ### Définition

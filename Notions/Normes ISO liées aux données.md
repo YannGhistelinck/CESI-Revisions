@@ -9,6 +9,7 @@ dernière_révision:
 
 # Normes ISO liées aux données
 
+![[N — Normes ISO liées aux données.mp3]]
 ## En bref
 > **Définition** : Plusieurs normes ISO encadrent spécifiquement la protection des données personnelles et des données dans le cloud, en complément de l'ISO 27001 (SMSI généraliste). L'**ISO 27701** (2019) étend le SMSI de l'ISO 27001 à la gestion de la protection des données personnelles (PIMS — Privacy Information Management System) et s'articule directement avec le RGPD. L'**ISO 27018** (2019) définit un code de conduite pour la protection des données personnelles dans le cloud public. L'**ISO 27040** (2015, révisée 2024) fournit des lignes directrices pour la sécurité du stockage des données. Ces normes permettent aux organisations de démontrer leur conformité de manière certifiable et internationale.
 > **Pourquoi c'est important** : Dans un contexte Big Data et cloud, ces normes fournissent un cadre technique et organisationnel auditable pour la protection des données. L'ISO 27701 facilite la conformité RGPD (accountability, article 25, article 32) et peut servir de base à une certification article 42 RGPD. L'ISO 27018 est particulièrement utilisée par les grands fournisseurs cloud (AWS, Azure, Google Cloud) pour démontrer leur engagement sur la protection des données personnelles hébergées.

@@ -9,6 +9,7 @@ dernière_révision:
 
 # Audit SI
 
+![[N — Audit SI.mp3]]
 ## En bref
 > **Définition** : L'audit SI est un processus d'évaluation indépendant et systématique visant à vérifier la conformité, la performance, la sécurité et l'organisation du Système d'Information par rapport à des référentiels définis. Il produit un diagnostic objectif et des recommandations d'amélioration destinés à la direction.
 > **Pourquoi c'est important** : Dans un contexte de multiplication des cybermenaces (NIS2, RGPD, ISO 27001), l'audit SI est devenu un outil de gouvernance incontournable. Pour un DSI, il permet d'objectiver les risques, de justifier les investissements sécurité et d'assurer la conformité réglementaire auprès du CODIR et des régulateurs.

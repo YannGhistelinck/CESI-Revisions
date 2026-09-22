@@ -8,6 +8,7 @@ dernière_révision:
 
 # Intelligence Artificielle — fondamentaux
 
+![[N — Intelligence Artificielle — fondamentaux.mp3]]
 ## En bref
 
 ### Définition

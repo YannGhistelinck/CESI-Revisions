@@ -8,6 +8,7 @@ dernière_révision:
 
 # TOGAF et architecture d'entreprise
 
+![[N — TOGAF et architecture d'entreprise.mp3]]
 ## En bref
 
 ### Définition

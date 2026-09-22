@@ -9,6 +9,7 @@ dernière_révision:
 
 # DevOps
 
+![[N — DevOps.mp3]]
 ## En bref
 > **Définition** : Le DevOps est un mouvement culturel et organisationnel né de la conférence Agile 2008 et formalisé par Patrick Debois en 2009 (première DevOpsDays à Gand). Il vise à abattre le cloisonnement entre les équipes de développement (Dev) et d'exploitation (Ops) pour livrer des logiciels plus rapidement, de façon plus fiable et plus sûre. Gene Kim (co-auteur de *The Phoenix Project*, 2013) a théorisé les **3 voies** qui en constituent le cadre intellectuel.
 > **Pourquoi c'est important** : Dans une DSI classique, le "mur de la confusion" entre Dev (vitesse) et Ops (stabilité) génère des délais, des incidents et de la dette technique. Le DevOps supprime ce mur via l'automatisation, la collaboration et la mesure continue, permettant des déploiements fréquents sans sacrifier la qualité.

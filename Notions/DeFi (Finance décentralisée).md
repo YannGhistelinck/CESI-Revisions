@@ -8,6 +8,7 @@ dernière_révision:
 
 # DeFi (Finance décentralisée)
 
+![[N — DeFi (Finance décentralisée).mp3]]
 ## En bref
 
 ### Définition

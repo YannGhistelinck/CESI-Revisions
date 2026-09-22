@@ -10,6 +10,7 @@ dernière_révision:
 
 # Infrastructure as Code (IaC)
 
+![[N — Infrastructure as Code (IaC).mp3]]
 ## En bref
 > **Définition** : L'Infrastructure as Code (IaC) est la pratique consistant à gérer et provisionner l'infrastructure informatique (serveurs, réseaux, bases de données, stockage) via des fichiers de configuration déclaratifs ou des scripts versionnés dans Git, plutôt que via des interfaces manuelles ou des CLI. L'infrastructure devient du code : versionnable, testable, partageable et reproductible. Terraform (HashiCorp, 2014) en est l'outil de référence multi-cloud.
 > **Pourquoi c'est important** : L'infrastructure manuelle est lente, peu reproductible et source d'erreurs humaines (snowflake servers). L'IaC permet de créer des environnements identiques en minutes, de détecter et corriger les dérives de configuration, et d'industrialiser la gestion du SI à grande échelle — condition sine qua non du DevOps et du cloud.

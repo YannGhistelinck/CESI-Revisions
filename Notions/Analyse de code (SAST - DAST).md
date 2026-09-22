@@ -9,6 +9,7 @@ dernière_révision:
 
 # Analyse de code (SAST - DAST)
 
+![[N — Analyse de code (SAST - DAST).mp3]]
 ## En bref
 > **Définition** : L'analyse de code regroupe les techniques permettant de détecter automatiquement des défauts, des vulnérabilités et des violations de bonnes pratiques dans un logiciel. Le SAST (Static Application Security Testing) analyse le code source sans l'exécuter ; le DAST (Dynamic Application Security Testing) analyse l'application en cours d'exécution en simulant des attaques externes.
 > **Pourquoi c'est important** : Dans un contexte de DevSecOps, l'intégration de l'analyse de code dans les pipelines CI/CD permet de détecter les vulnérabilités au plus tôt (shift-left), réduisant drastiquement le coût de correction et limitant l'exposition aux cyberattaques.

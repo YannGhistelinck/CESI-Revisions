@@ -9,6 +9,7 @@ dernière_révision:
 
 # Écoconception logicielle
 
+![[N — Écoconception logicielle.mp3]]
 ## En bref
 > **Définition** : L'écoconception logicielle consiste à intégrer les critères environnementaux dès la conception d'un service numérique afin de minimiser son empreinte tout au long de son cycle de vie. Elle agit sur la consommation de ressources matérielles (CPU, RAM, réseau, stockage) et prolonge la compatibilité avec des équipements anciens.
 > **Pourquoi c'est important** : Un logiciel "lourd" accélère l'obsolescence des terminaux, principal poste d'impact du numérique. La DSI peut réduire significativement l'empreinte environnementale et les coûts d'infrastructure en appliquant des pratiques d'écoconception sur les services internes et les applications métiers.

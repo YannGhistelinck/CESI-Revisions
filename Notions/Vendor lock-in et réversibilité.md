@@ -9,6 +9,7 @@ dernière_révision:
 
 # Vendor lock-in et réversibilité
 
+![[N — Vendor lock-in et réversibilité.mp3]]
 ## En bref
 > **Définition** : Le vendor lock-in (dépendance fournisseur) désigne la situation dans laquelle une organisation ne peut pas changer de prestataire cloud sans coûts excessifs ou complexité technique majeure, en raison de formats propriétaires, de services exclusifs ou d'egress fees prohibitifs. La réversibilité est la capacité à quitter un fournisseur dans des conditions acceptables.
 > **Pourquoi c'est important** : Le lock-in réduit le pouvoir de négociation de la DSI, expose l'organisation aux hausses de tarifs unilatérales et peut compromettre la continuité de service en cas de défaillance du fournisseur. La réversibilité est désormais une exigence réglementaire en Europe (Data Act, 2023).

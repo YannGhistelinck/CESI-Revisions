@@ -9,6 +9,7 @@ dernière_révision:
 
 # KPI et pilotage de la performance
 
+![[N — KPI et pilotage de la performance.mp3]]
 ## En bref
 
 ### Définition

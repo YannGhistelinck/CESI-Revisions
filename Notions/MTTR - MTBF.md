@@ -9,6 +9,7 @@ dernière_révision:
 
 # MTTR - MTBF
 
+![[N — MTTR - MTBF.mp3]]
 ## En bref
 
 ### Définition

@@ -9,6 +9,7 @@ dernière_révision:
 
 # Privacy by Design
 
+![[N — Privacy by Design.mp3]]
 ## En bref
 > **Définition** : Le **Privacy by Design** (PbD) est une approche méthodologique consistant à intégrer la protection de la vie privée dès la conception d'un système, d'un produit ou d'un processus — et non en correctif après coup. Le **Privacy by Default** (PbDD) impose que les paramètres par défaut soient les plus protecteurs possible. Ces deux principes sont consacrés à l'article 25 du RGPD. L'**anonymisation** rend irréversiblement impossible la ré-identification d'une personne ; la **pseudonymisation** remplace les identifiants directs par des pseudonymes, mais la ré-identification reste possible avec une clé. Le **DPIA** (Data Protection Impact Assessment) est l'étude d'impact sur la vie privée obligatoire pour les traitements à risque élevé.
 > **Pourquoi c'est important** : Dans les projets Big Data, les volumes et la variété des données augmentent considérablement le risque de ré-identification. Intégrer le PbD dès l'architecture évite des correctifs coûteux, réduit les risques de sanctions RGPD et constitue un argument de confiance commerciale (privacy as a competitive advantage).

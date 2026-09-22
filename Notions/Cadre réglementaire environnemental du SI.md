@@ -10,6 +10,7 @@ dernière_révision:
 
 # Cadre réglementaire environnemental du SI
 
+![[N — Cadre réglementaire environnemental du SI.mp3]]
 ## En bref
 > **Définition** : Le cadre réglementaire environnemental du SI désigne l'ensemble des lois, directives, décrets et normes obligatoires qui imposent aux organisations des obligations en matière de réduction de l'empreinte environnementale de leurs systèmes d'information et de leurs équipements numériques.
 > **Pourquoi c'est important** : Les DSI ne peuvent plus traiter la question environnementale comme un sujet facultatif. La directive CSRD, la loi REEN, le décret tertiaire et la réglementation DEEE créent des obligations concrètes de mesure, de reporting et de réduction qui impactent directement la gouvernance du SI.

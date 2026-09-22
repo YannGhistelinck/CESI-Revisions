@@ -9,6 +9,7 @@ dernière_révision:
 
 # Modèles de déploiement cloud
 
+![[N — Modèles de déploiement cloud.mp3]]
 ## En bref
 > **Définition** : Les modèles de déploiement cloud désignent la façon dont l'infrastructure cloud est hébergée et partagée : cloud public (mutualisé, géré par un fournisseur tiers), privé (dédié à une organisation), hybride (mix des deux) ou multi-cloud (plusieurs fournisseurs publics).
 > **Pourquoi c'est important** : Le choix du modèle de déploiement conditionne la sécurité, la souveraineté des données, les coûts et la flexibilité. La DSI doit arbitrer entre contrôle et agilité, souvent en fonction des exigences réglementaires (RGPD, secteur financier, santé).

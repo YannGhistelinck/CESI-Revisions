@@ -9,6 +9,7 @@ dernière_révision:
 
 # Platform Engineering
 
+![[N — Platform Engineering.mp3]]
 ## En bref
 > **Définition** : Le Platform Engineering est la discipline consistant à concevoir et opérer une plateforme interne (Internal Developer Platform — IDP) qui met à disposition des développeurs un ensemble de capacités en libre-service (infrastructure, CI/CD, observabilité, sécurité) via une interface unifiée (Internal Developer Portal). L'objectif est de réduire la charge cognitive des développeurs et d'accélérer la livraison de valeur.
 > **Pourquoi c'est important** : Face à la complexité croissante des architectures cloud-native (Kubernetes, microservices, GitOps), les développeurs passent une part croissante de leur temps à gérer l'infrastructure plutôt qu'à coder. Le Platform Engineering industrialise les bonnes pratiques et les met à disposition via une API ou un portail, transformant l'infrastructure en produit interne.

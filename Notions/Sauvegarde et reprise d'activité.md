@@ -10,6 +10,7 @@ dernière_révision:
 
 # Sauvegarde et reprise d'activité
 
+![[N — Sauvegarde et reprise d'activité.mp3]]
 ## En bref
 > **Définition** : La sauvegarde (backup) est la copie périodique des données pour permettre leur restauration en cas de perte ou de corruption. La reprise d'activité (Disaster Recovery) est l'ensemble des processus et technologies permettant de rétablir les systèmes informatiques après un sinistre (cyberattaque, panne matérielle, catastrophe naturelle, erreur humaine). Ces deux disciplines s'inscrivent dans le cadre plus large du PCA/PRA (Plan de Continuité / Plan de Reprise d'Activité).
 > **Pourquoi c'est important** : Les ransomwares ciblent en priorité les sauvegardes pour rendre toute restauration impossible. Pour une DSI, une stratégie de sauvegarde robuste est la dernière ligne de défense contre la perte irrémédiable de données. Sans elle, une cyberattaque peut être fatale pour l'entreprise.

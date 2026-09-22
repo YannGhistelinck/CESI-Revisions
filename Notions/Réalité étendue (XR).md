@@ -8,6 +8,7 @@ dernière_révision:
 
 # Réalité étendue (XR)
 
+![[N — Réalité étendue (XR).mp3]]
 ## En bref
 > **Définition** : La réalité étendue (Extended Reality — XR) est un terme générique désignant l'ensemble des technologies qui altèrent ou enrichissent la perception de la réalité par superposition ou immersion numérique. Elle englobe la réalité augmentée (RA), la réalité virtuelle (RV) et la réalité mixte (RM), positionnées sur le continuum de Milgram entre le monde réel pur et l'environnement virtuel total.
 > **Pourquoi c'est important** : Pour une DSI, le XR représente un levier de transformation des usages professionnels (formation, maintenance, collaboration distante, conception) et grand public (retail, santé, éducation). Il constitue la couche d'interface entre le monde physique et les jumeaux numériques, le Metaverse industriel et le spatial computing.

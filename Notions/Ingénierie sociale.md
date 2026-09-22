@@ -9,6 +9,7 @@ dernière_révision:
 
 # Ingénierie sociale
 
+![[N — Ingénierie sociale.mp3]]
 ## En bref
 > **Définition** : L'ingénierie sociale (social engineering) est l'ensemble des techniques de manipulation psychologique visant à amener une personne à divulguer des informations confidentielles ou à effectuer des actions compromettant la sécurité, sans recourir à des exploits techniques. Elle exploite les biais cognitifs humains (autorité, urgence, réciprocité, confiance).
 > **Pourquoi c'est important** : Le maillon humain est systématiquement identifié comme le premier vecteur d'attaque. Aucun dispositif technique ne protège contre un employé manipulé. La DSI doit donc intégrer la dimension humaine (sensibilisation, formation, procédures) dans sa stratégie de défense.

@@ -9,6 +9,7 @@ dernière_révision:
 
 # Conteneurisation (Docker - Kubernetes)
 
+![[N — Conteneurisation (Docker - Kubernetes).mp3]]
 ## En bref
 > **Définition** : La conteneurisation est une technique de virtualisation légère qui isole une application et ses dépendances dans un conteneur portable et autonome. Docker est le moteur de conteneurs le plus répandu ; Kubernetes (K8s) est l'orchestrateur open source de référence qui automatise le déploiement, la mise à l'échelle et la gestion des conteneurs en production.
 > **Pourquoi c'est important** : Pour une DSI, les conteneurs permettent de livrer des applications de façon cohérente entre les environnements (dev, test, prod), de réduire la dette liée aux dépendances, et d'accélérer les cycles de déploiement CI/CD. Kubernetes est devenu le standard de facto pour l'orchestration à grande échelle.

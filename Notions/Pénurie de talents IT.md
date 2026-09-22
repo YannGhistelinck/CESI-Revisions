@@ -8,6 +8,7 @@ dernière_révision:
 
 # Pénurie de talents IT
 
+![[N — Pénurie de talents IT.mp3]]
 ## En bref
 
 ### Définition

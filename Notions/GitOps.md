@@ -9,6 +9,7 @@ dernière_révision:
 
 # GitOps
 
+![[N — GitOps.mp3]]
 ## En bref
 > **Définition** : Le GitOps est un paradigme opérationnel formalisé par Alexis Richardson (Weaveworks) en 2017, qui utilise Git comme **source unique de vérité** pour l'infrastructure et les applications. Toute modification de l'infrastructure ou des déploiements passe par un commit dans Git. Un opérateur (ArgoCD, Flux) surveille en permanence le dépôt Git et **réconcilie** automatiquement l'état réel du cluster Kubernetes avec l'état déclaré dans Git.
 > **Pourquoi c'est important** : Le GitOps résout les problèmes de dérive de configuration (drift) et de manque de traçabilité des déploiements. Il apporte au déploiement d'infrastructure les mêmes garanties que le développement logiciel : revue de code, historique, rollback en 1 commande (`git revert`), et audit complet. C'est le standard émergent pour les déploiements Kubernetes.

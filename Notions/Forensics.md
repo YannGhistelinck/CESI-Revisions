@@ -8,6 +8,7 @@ dernière_révision:
 
 # Forensics
 
+![[N — Forensics.mp3]]
 ## En bref
 > **Définition** : L'investigation numérique (forensics ou digital forensics) est l'ensemble des techniques et processus permettant de collecter, préserver, analyser et présenter des preuves numériques de manière légalement recevable, dans le cadre d'un incident de sécurité, d'une enquête interne ou d'une procédure judiciaire. Elle vise à reconstituer ce qui s'est passé, comment, et par qui.
 > **Pourquoi c'est important** : Face à un incident (ransomware, fuite de données, fraude interne), la DSI doit être capable de comprendre la cause racine, l'étendue de la compromission et de constituer des preuves pouvant être utilisées en justice ou auprès des régulateurs. Sans forensics rigoureuse, les preuves numériques peuvent être invalidées et la remédiation incomplète.

@@ -9,6 +9,7 @@ dernière_révision:
 
 # Infrastructure de stockage (SAN - NAS - HCI)
 
+![[N — Infrastructure de stockage (SAN - NAS - HCI).mp3]]
 ## En bref
 > **Définition** : Les infrastructures de stockage désignent l'ensemble des architectures matérielles et logicielles permettant de stocker, accéder et gérer les données en entreprise. Les trois modèles dominants sont le SAN (Storage Area Network), le NAS (Network Attached Storage) et l'HCI (Hyperconverged Infrastructure). Le stockage objet constitue un quatrième paradigme adapté au Big Data.
 > **Pourquoi c'est important** : Le choix de l'infrastructure de stockage conditionne les performances, la scalabilité, le coût et la résilience du système d'information. Dans un contexte Big Data, où les volumes doublent tous les 2 ans (loi de Moore du stockage), cette décision est stratégique.

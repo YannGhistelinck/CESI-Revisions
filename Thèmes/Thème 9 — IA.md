@@ -5,6 +5,7 @@ statut: pas vu
 ![[Thème 9 — IA_générative_et_réalités_du_machine_learning.m4a]]
 # IA
 
+![[T9 — IA.mp3]]
 ## Présentation
 > Thème autour de l'intelligence artificielle : applications en cybersécurité, enjeux éthiques et juridiques, biais algorithmiques, automatisation. Technologie transversale qui impacte tous les autres thèmes.
 

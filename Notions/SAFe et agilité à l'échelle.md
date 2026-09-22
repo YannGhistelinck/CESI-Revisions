@@ -9,6 +9,7 @@ dernière_révision:
 
 # SAFe et agilité à l'échelle
 
+![[N — SAFe et agilité à l'échelle.mp3]]
 ## En bref
 
 ### Définition

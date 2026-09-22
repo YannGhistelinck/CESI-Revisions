@@ -9,6 +9,7 @@ dernière_révision:
 
 # Cloud souverain
 
+![[N — Cloud souverain.mp3]]
 ## En bref
 > **Définition** : Le cloud souverain désigne une offre cloud garantissant que les données sont hébergées et traitées sur le territoire national, par des entités soumises exclusivement au droit français ou européen, sans possibilité de transfert vers des juridictions étrangères. Il se distingue du simple "cloud de confiance" par le niveau de garantie juridique et technique offert.
 > **Pourquoi c'est important** : Dans un contexte de tensions géopolitiques et de législations extraterritoriales (CLOUD Act américain), les DSI des OIV, administrations et organisations sensibles doivent s'assurer que leurs données ne sont pas accessibles par des autorités étrangères. La doctrine "Cloud au centre" de l'État français en fait un enjeu stratégique national.

@@ -9,6 +9,7 @@ dernière_révision:
 
 # RFID - NFC et IoT pour la traçabilité
 
+![[N — RFID - NFC et IoT pour la traçabilité.mp3]]
 ## En bref
 
 RFID (Radio Frequency Identification) et NFC (Near Field Communication) sont des technologies d'identification sans contact qui permettent de capturer automatiquement des données sur des objets physiques et de les injecter dans des systèmes d'information. Couplées à l'IoT industriel (IIoT) et à la blockchain, elles forment la couche de **collecte de données physiques** indispensable à toute traçabilité fiable. Elles transforment des objets du monde réel en entités numériques traçables en temps réel.

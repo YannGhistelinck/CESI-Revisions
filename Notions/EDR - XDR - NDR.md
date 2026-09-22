@@ -9,6 +9,7 @@ dernière_révision:
 
 # EDR - XDR - NDR
 
+![[N — EDR - XDR - NDR.mp3]]
 ## En bref
 > **Définition** : L'EDR (Endpoint Detection and Response) est une solution de sécurité installée sur les terminaux (postes, serveurs) pour détecter, analyser et répondre aux menaces en temps réel, via une analyse comportementale et une collecte télémétriques continue. Le XDR (Extended DR) étend cette visibilité à l'ensemble des couches du SI (endpoint, réseau, cloud, email, identité). Le NDR (Network Detection and Response) se concentre sur la détection des menaces dans le trafic réseau.
 > **Pourquoi c'est important** : Les antivirus traditionnels basés sur des signatures sont inefficaces contre les malwares polymorphes, les attaques fileless et les APT. L'EDR/XDR/NDR permettent une détection comportementale, une réponse rapide et une capacité de forensique avancée, essentielles pour les équipes SOC modernes.

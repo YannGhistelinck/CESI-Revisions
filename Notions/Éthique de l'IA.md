@@ -8,6 +8,7 @@ dernière_révision: 2026-09-08
 
 # Éthique de l'IA
 
+![[N — Éthique de l'IA.mp3]]
 ## En bref
 
 ### Définition

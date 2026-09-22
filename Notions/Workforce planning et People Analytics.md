@@ -8,6 +8,7 @@ dernière_révision:
 
 # Workforce planning et People Analytics
 
+![[N — Workforce planning et People Analytics.mp3]]
 ## En bref
 
 ### Définition

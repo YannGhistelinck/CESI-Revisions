@@ -7,6 +7,7 @@ statut: pas vu
 dernière_révision: 
 ---
 
+![[N — Scrum.mp3]]
 ## En bref
 
 ### Définition

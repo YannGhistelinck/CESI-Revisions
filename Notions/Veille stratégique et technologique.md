@@ -8,6 +8,7 @@ dernière_révision:
 
 # Veille stratégique et technologique
 
+![[N — Veille stratégique et technologique.mp3]]
 ## En bref
 
 ### Définition

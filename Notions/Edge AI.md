@@ -9,6 +9,7 @@ dernière_révision: 2026-09-08
 
 # Edge AI
 
+![[N — Edge AI.mp3]]
 ## En bref
 
 ### Définition

@@ -10,6 +10,7 @@ dernière_révision:
 
 # CI - CD
 
+![[N — CI - CD.mp3]]
 ## En bref
 > **Définition** : La CI/CD (Continuous Integration / Continuous Delivery ou Deployment) est un ensemble de pratiques d'automatisation du cycle de livraison logicielle. La **CI** (Intégration Continue) automatise la vérification du code à chaque commit (build, tests). La **CD Delivery** automatise la livraison d'artefacts prêts à déployer. La **CD Deployment** automatise la mise en production sans intervention humaine. Un **pipeline** CI/CD enchaîne ces étapes de façon reproductible et traçable.
 > **Pourquoi c'est important** : Sans CI/CD, les intégrations de code sont rares et douloureuses ("integration hell"), les tests manuels ralentissent les livraisons et les déploiements sont des événements risqués. La CI/CD transforme le déploiement en opération courante, sûre et réversible, réduisant drastiquement le lead time et le taux d'incidents.

@@ -8,6 +8,7 @@ dernière_révision:
 
 # Chatbots et assistants virtuels
 
+![[N — Chatbots et assistants virtuels.mp3]]
 ## En bref
 
 ### Définition

@@ -9,6 +9,7 @@ dernière_révision:
 
 # IA générative et LLM
 
+![[N — IA générative et LLM.mp3]]
 ## En bref
 
 ### Définition

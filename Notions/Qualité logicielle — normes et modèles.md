@@ -8,6 +8,7 @@ dernière_révision:
 
 # Qualité logicielle — normes et modèles
 
+![[N — Qualité logicielle — normes et modèles.mp3]]
 ## En bref
 > **Définition** : La qualité logicielle désigne l'ensemble des propriétés d'un logiciel lui permettant de satisfaire des besoins exprimés ou implicites. Elle est évaluée selon des modèles normalisés qui structurent les critères de qualité en caractéristiques mesurables.
 > **Pourquoi c'est important** : Pour une DSI, disposer d'un référentiel commun de qualité permet de contractualiser des exigences avec les prestataires, d'objectiver les décisions d'acceptation, et de réduire les coûts de maintenance. La qualité logicielle est un levier direct de réduction du risque projet.

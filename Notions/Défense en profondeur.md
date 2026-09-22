@@ -8,6 +8,7 @@ dernière_révision:
 
 # Défense en profondeur
 
+![[N — Défense en profondeur.mp3]]
 ## En bref
 > **Définition** : La défense en profondeur est une stratégie de sécurité consistant à superposer plusieurs couches de protection indépendantes (réseau, système, application, données, utilisateur), de sorte que la compromission d'une couche ne suffise pas à compromettre l'ensemble du système. Elle est héritée du concept militaire de défense étagée.
 > **Pourquoi c'est important** : Aucun mécanisme de sécurité n'est infaillible. La défense en profondeur garantit qu'un attaquant doit contourner de multiples barrières pour atteindre son objectif, augmentant le temps de détection et réduisant l'impact. Elle est au coeur de la PSSI de toute organisation mature.

@@ -9,6 +9,7 @@ dernière_révision:
 
 # DSA - DMA
 
+![[N — DSA - DMA.mp3]]
 ## En bref
 > **Définition** : Le **Digital Services Act** (DSA — Règlement UE 2022/2065) et le **Digital Markets Act** (DMA — Règlement UE 2022/1925) sont deux règlements européens formant le "paquet numérique" adopté en 2022, applicables respectivement depuis 2024. Le **DSA** régule la responsabilité des plateformes pour les contenus illicites, impose la transparence des algorithmes et protège les utilisateurs. Le **DMA** vise à contester le pouvoir de marché des grandes plateformes ("gatekeepers") pour garantir des marchés numériques équitables et contestables.
 > **Pourquoi c'est important** : Pour les DSI et architectes data, le DSA impose des obligations techniques (transparence des systèmes de recommandation, accès aux données pour les chercheurs) et le DMA contraint les pratiques de collecte de données des gatekeepers (interopérabilité, partage de données, consentement). Ces textes ont un impact direct sur les modèles économiques des GAFAM en Europe et sur les droits des entreprises utilisant leurs plateformes.
