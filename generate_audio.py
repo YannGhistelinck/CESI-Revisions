@@ -13,7 +13,7 @@ NOTIONS_DIR = os.path.join(VAULT, "Notions")
 THEMES_DIR = os.path.join(VAULT, "Thèmes")
 AUDIO_NOTIONS = os.path.join(VAULT, "Audios", "Notions")
 AUDIO_THEMES = os.path.join(VAULT, "Audios", "Thèmes")
-VOICE = "fr-FR-DeniseNeural"
+VOICE = "fr-FR-RemyMultilingualNeural"
 
 
 def clean_markdown(text: str) -> str:
@@ -67,9 +67,6 @@ def get_theme_short(filepath: str) -> str:
 
 async def generate_one(text: str, output_path: str, label: str) -> bool:
     """Generate one audio file."""
-    if os.path.exists(output_path):
-        print(f"  SKIP (exists): {label}")
-        return False
     try:
         communicate = edge_tts.Communicate(text, VOICE)
         await communicate.save(output_path)
