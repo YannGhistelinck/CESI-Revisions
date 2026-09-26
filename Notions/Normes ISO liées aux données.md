@@ -5,6 +5,7 @@ thèmes:
   - Cloud et Virtualisation
 statut: pas vu
 dernière_révision: 
+catégorie: norme
 ---
 
 # Normes ISO liées aux données

@@ -37,6 +37,10 @@ statut: pas vu
 | [[SAFe et agilité à l'échelle]] | pas vu | |
 | [[RACI et outils de gouvernance projet]] | pas vu | |
 | [[DORA (Digital Operational Resilience Act)]] | pas vu | |
+| [[COBIT]] | pas vu | |
+| [[Matrice d'Ansoff]] | pas vu | |
+| [[Modèle de Scott et Jaffe]] | pas vu | |
+| [[Conduite du changement]] | pas vu | |
 | [[Tableau de Bord DSI]] | pas vu | |
 
 ## Questions types du jury

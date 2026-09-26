@@ -4,6 +4,7 @@ thèmes:
   - Big DATA
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # Réglementations internationales sur les données

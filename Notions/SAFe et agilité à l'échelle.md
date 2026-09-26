@@ -5,6 +5,7 @@ thèmes:
   - Développement
 statut: pas vu
 dernière_révision: 
+catégorie: framework
 ---
 
 # SAFe et agilité à l'échelle

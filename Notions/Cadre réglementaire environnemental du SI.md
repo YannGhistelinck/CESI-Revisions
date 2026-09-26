@@ -6,6 +6,7 @@ thèmes:
   - Optimisation du SI
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # Cadre réglementaire environnemental du SI

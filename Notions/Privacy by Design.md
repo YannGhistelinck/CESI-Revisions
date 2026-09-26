@@ -5,6 +5,7 @@ thèmes:
   - Cybersécurité
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # Privacy by Design

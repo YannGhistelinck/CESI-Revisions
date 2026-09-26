@@ -5,6 +5,7 @@ thèmes:
   - Management et stratégie
 statut: pas vu
 dernière_révision: 
+catégorie: framework
 ---
 
 # Frameworks de gestion de projet

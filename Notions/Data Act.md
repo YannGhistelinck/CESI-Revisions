@@ -5,6 +5,7 @@ thèmes:
   - Big DATA
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # Data Act

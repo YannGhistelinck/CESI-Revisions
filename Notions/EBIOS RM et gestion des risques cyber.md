@@ -4,6 +4,7 @@ thèmes:
   - Cybersécurité
 statut: pas vu
 dernière_révision: 
+catégorie: norme
 ---
 
 # EBIOS RM et gestion des risques cyber

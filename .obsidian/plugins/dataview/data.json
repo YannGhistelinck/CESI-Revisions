@@ -1,0 +1,23 @@
+{
+  "renderNullAs": "—",
+  "taskCompletionTracking": false,
+  "taskCompletionUseEmojiShorthand": false,
+  "taskCompletionText": "completion",
+  "recursiveSubTaskCompletion": false,
+  "warnOnEmptyResult": true,
+  "refreshEnabled": true,
+  "refreshInterval": 2500,
+  "defaultDateFormat": "DD/MM/YYYY",
+  "maxRecursiveRenderDepth": 4,
+  "tableIdColumnName": "File",
+  "tableGroupColumnName": "Group",
+  "showResultCount": true,
+  "allowHtml": false,
+  "inlineQueryPrefix": "=",
+  "inlineJsQueryPrefix": "$=",
+  "inlineQueriesInCodeblocks": true,
+  "enableDataviewJs": false,
+  "enableInlineDataviewJs": false,
+  "prettyRenderInlineFields": true,
+  "prettyRenderInlineFieldsInLivePreview": true
+}

@@ -6,6 +6,7 @@ thèmes:
   - Mobilité
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # CLOUD Act et transferts de données

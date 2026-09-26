@@ -6,6 +6,7 @@ thèmes:
   - Management et stratégie
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # DORA (Digital Operational Resilience Act)

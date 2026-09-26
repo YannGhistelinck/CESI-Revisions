@@ -4,6 +4,7 @@ thèmes:
   - Développement
 statut: pas vu
 dernière_révision: 
+catégorie: norme
 ---
 
 # Qualité logicielle — normes et modèles

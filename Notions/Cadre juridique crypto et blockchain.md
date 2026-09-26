@@ -4,6 +4,7 @@ thèmes:
   - Blockchain
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # Cadre juridique crypto et blockchain

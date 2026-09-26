@@ -4,6 +4,7 @@ thèmes:
   - Optimisation du SI
 statut: pas vu
 dernière_révision: 
+catégorie: norme
 ---
 
 # SLA - SLO - SLI

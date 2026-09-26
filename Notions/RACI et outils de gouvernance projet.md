@@ -4,6 +4,7 @@ thèmes:
   - Management et stratégie
 statut: pas vu
 dernière_révision: 
+catégorie: framework
 ---
 
 # RACI et outils de gouvernance projet

@@ -4,6 +4,7 @@ thèmes:
   - Blockchain
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # eIDAS 2.0 et identité numérique

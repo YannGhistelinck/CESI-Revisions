@@ -42,6 +42,7 @@ statut: pas vu
 | [[Acteurs cybersécurité (éditeurs)]] | pas vu | |
 | [[Sauvegarde et solutions de protection des données]] | pas vu | |
 | [[Tableau de Bord DSI]] | pas vu | |
+| [[COBIT]] | pas vu | |
 | [[Audit SI]] | pas vu | |
 
 ## Questions types du jury

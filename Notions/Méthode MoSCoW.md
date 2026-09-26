@@ -4,6 +4,7 @@ thèmes:
   - Transversal
 statut: pas vu
 dernière_révision: 
+catégorie: framework
 ---
 
 ![[N — Méthode MoSCoW.mp3]]

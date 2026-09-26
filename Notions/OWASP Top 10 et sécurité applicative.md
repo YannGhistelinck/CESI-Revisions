@@ -5,6 +5,7 @@ thèmes:
   - Développement
 statut: pas vu
 dernière_révision: 
+catégorie: norme
 ---
 
 # OWASP Top 10 et sécurité applicative

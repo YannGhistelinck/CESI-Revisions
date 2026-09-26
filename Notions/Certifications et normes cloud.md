@@ -4,6 +4,7 @@ thèmes:
   - Cloud et Virtualisation
 statut: pas vu
 dernière_révision: 
+catégorie: norme
 ---
 
 # Certifications et normes cloud

@@ -8,6 +8,7 @@ thèmes:
   - IA
 statut: pas vu
 dernière_révision: 
+catégorie: réglementation
 ---
 
 # RGPD

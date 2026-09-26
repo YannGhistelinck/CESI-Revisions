@@ -87,6 +87,8 @@ Initialement modèle des stades du deuil (1969), la courbe est appliquée aux ch
 
 **Application IT** : lors d'un déploiement ERP, les utilisateurs traversent souvent la "vallée du désespoir" lors de la go-live (baisse de productivité transitoire). Anticiper cette phase par des formations renforcées et une présence terrain réduit la durée et la profondeur de la vallée.
 
+> 💡 **Voir aussi** : le [[Modèle de Scott et Jaffe]], qui adapte la courbe de Kübler-Ross au contexte organisationnel avec 4 phases actionnables (Déni → Résistance → Exploration → Engagement) et des actions managériales concrètes pour chaque phase.
+
 ---
 
 ### La résistance au changement
@@ -166,6 +168,7 @@ Quel pourcentage des transformations échouent selon McKinsey ? :: **70 %** des 
 ---
 
 ## Notions liées
+- [[Modèle de Scott et Jaffe]]
 - [[AMDEC]]
 - [[SWOT - PESTEL]]
 - [[Scrum]]

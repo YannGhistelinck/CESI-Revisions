@@ -4,6 +4,7 @@ thèmes:
   - IA
 statut: pas vu
 dernière_révision: 2026-09-08
+catégorie: réglementation
 ---
 
 # Cadre international de l'IA
